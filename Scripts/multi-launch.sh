@@ -1,3 +1,4 @@
+#!/bin/bash
 #Usage: ./launch.sh <target URL> <Index number - for repeated tests>
 
 sudo sysctl net.ipv4.tcp_sack=0

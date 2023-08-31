@@ -8,9 +8,9 @@ import time
 import re
 import sys
 
-urlFilePath = "./alexa-sites/unfinished-urls.csv" #./retestLinks.csv"
+urlFilePath = "../Alexa20k/full_links.csv"  #./retestLinks.csv" # PHILIP: changed from non-existent file
 urlFile = open(urlFilePath)
-csvReader = csv.reader(urlFile)
+csvReader = csv.reader(urlFile, delimiter=' ')  # original delimiter was ',' but this is a space-separated file
 urlInfos = list(csvReader)
 #print(urlInfos)
 urlFile.close()
@@ -19,16 +19,16 @@ urlFile.close()
 start = int(sys.argv[1])
 i = start
 
-while i < start + len(urlInfos):
+while i < len(urlInfos): # PHILIP: changed from start + len(urlInfos)
     print("&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&  CURRENT OFFSET   ===", i, "=== &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&")
-    analysisResult = open("./domainResult.csv")
+    analysisResult = open("./domainResult.csv")  # PHILIP: did not exist, created, contains list of domains already analyzed
     if urlInfos[i][1] not in analysisResult.read().splitlines():
         analysisResult.close()
-        if urlInfos[i][3] == '':
+        if len(urlInfos[i]) < 4 or urlInfos[i][3] == '':  # PHILIP: there is no [i][3] in the csv file we found
             #print(urlInfos[i][1])
-            
-            targetURL = "http://" + urlInfos[i][2]
-            print("===================================================>", targetURL, "\n================", urlInfos[i][0], urlInfos[i][1], urlsInfos[i][2])
+
+            targetURL = urlInfos[i][2]  # PHILIP: modified to fit file format
+            print("===================================================>", targetURL, "\n================", urlInfos[i][0], urlInfos[i][1], urlInfos[i][2])  # PHILIP: Syntax error fixed.
 
             try:
                 response = subprocess.check_output(
@@ -52,7 +52,7 @@ while i < start + len(urlInfos):
                 delayTime = 50 - int(pingTime/2)
 
             print(targetURL, delayTime)
-            
+
             try:
                 subprocess.call(["mm-delay "+ str(delayTime) + " ./multi-launch.sh "+targetURL+" 10"], shell=True, executable='/bin/bash')
                 #subprocess.call(["./multi-launch.sh "+targetURL+" 10"], shell=True, executable='/bin/bash')
@@ -62,9 +62,9 @@ while i < start + len(urlInfos):
                 subprocess.call(["./clean.sh"], shell=True, executable="/bin/bash")
                 subprocess.call(["cp ../Data/windows.csv ../Windows/"+urlInfos[i][1]+".csv"], shell=True, executable="/bin/bash")
                 #subprocess.call(["exit"], shell=True, executable="/bin/bash")
-            
+
             print("over")
-            type = tcpClassify.classify()
+            type = tcpClassify.classify("../Data/windows.csv")  # PHILIP: Guessing this is what they wanted to classify
             csvOutputFile = open("./analysisResult.csv", 'a')
             csvWriter = csv.writer(csvOutputFile)
             csvWriter.writerow([urlInfos[i][1], type, targetURL])
@@ -94,7 +94,7 @@ while i < start + len(urlInfos):
                 else:
                     break
             """
-        
+
             j = i
 
             try:
@@ -129,8 +129,8 @@ while i < start + len(urlInfos):
                 subprocess.call(["./clean.sh"], shell=True, executable="/bin/bash")
                 subprocess.call(["cp ../Data/windows.csv ../Windows/"+urlInfos[i][0]+"-"+urlInfos[i][1]+".csv"], shell=True, executable="/bin/bash")
                 #subprocess.call(["exit"], shell=True, executable="/bin/bash")
-            
-            type = tcpClassify.classify()
+
+            type = tcpClassify.classify("../Data/windows.csv")  # PHILIP: Guessing this is what they wanted to classify
             #type = "undecided"
             csvOutputFile = open("./analysisResult.csv", 'a')
             csvWriter = csv.writer(csvOutputFile)
@@ -145,7 +145,7 @@ while i < start + len(urlInfos):
             i = j
             time.sleep(10)
             #input()
-            
+
             """
             while urlInfos[j][0] == urlInfos[i][1]:
                 try:
@@ -174,8 +174,8 @@ while i < start + len(urlInfos):
         analysisResult.close()
         print("Already Done, Next...")
         i += 1
-    
-    
-    
+
+
+
     #input()
 
