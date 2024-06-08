@@ -1,0 +1,1489 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 00:17:32--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 00:17:34--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 00:17:36--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 00:17:38--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 00:17:39--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 00:17:41--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 00:17:43--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 00:17:44--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 00:17:46--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 00:17:48--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 00:17:49--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 00:17:51--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 00:17:52--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 00:17:54--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 00:17:56--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 00:17:57--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 00:17:58--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 00:17:59--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 00:18:00--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 00:18:01--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 00:18:01--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 00:18:02--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 00:18:03--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 00:18:04--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 00:18:04--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 00:18:05--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 00:18:06--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 00:18:07--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 00:18:08--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 00:18:08--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 00:18:09--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 00:18:10--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 00:18:11--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 00:18:12--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 00:18:13--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 00:18:14--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 00:18:15--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 00:18:15--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 00:18:16--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 00:18:17--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 00:18:18--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 00:18:19--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 00:18:20--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 00:18:21--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 00:18:22--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 4, 4, 4, 1, 1, 1, 4, 1, 4, 1, 4, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 00:18:22--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:23--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 00:18:24--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:25--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 00:18:25--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:25--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 00:18:27--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:28--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 00:18:28--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:29--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 00:18:30--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:30--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 00:18:31--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:32--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 00:18:32--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:33--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 00:18:33--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:34--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 00:18:35--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:36--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 00:18:37--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:38--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 00:18:38--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:39--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 00:18:40--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:41--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 00:18:41--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:41--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 00:18:43--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:43--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+Terminated
+[1, 2, 2, 1, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 1]
+[1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 00:18:45--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:45--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 00:18:46--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:46--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 00:18:47--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:47--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 00:18:48--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:49--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 00:18:49--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:50--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 00:18:50--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:51--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 00:18:51--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:52--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 00:18:52--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:53--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 00:18:54--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:54--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 00:18:55--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:55--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 00:18:56--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:56--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 00:18:57--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:57--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 00:18:58--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:58--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 00:18:59--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:18:59--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 00:19:00--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:00--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+Terminated
+[1, 1, 18, 1, 1, 1, 1, 18, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 18, 18]
+18 8
+26
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 00:19:01--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:01--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 00:19:03--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:03--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 00:19:04--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:05--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 00:19:06--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:06--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 00:19:07--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:08--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 00:19:09--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:09--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 00:19:10--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:10--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 00:19:12--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:12--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 00:19:13--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:14--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 00:19:15--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:15--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 00:19:16--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:17--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 00:19:18--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:18--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 00:19:19--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:20--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 00:19:21--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:21--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 00:19:22--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:23--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 2, 2, 2, 2, 1, 1, 2, 1, 1, 2, 2, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2]
+2 26
+28
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 00:19:24--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:24--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 00:19:25--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:26--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 00:19:27--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:27--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 00:19:28--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:29--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 00:19:30--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:30--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 00:19:32--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:32--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 00:19:33--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:34--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 00:19:35--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:35--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 00:19:36--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:37--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 00:19:38--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:38--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 00:19:39--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:40--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 00:19:40--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:41--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 00:19:42--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:42--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 00:19:43--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:44--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 00:19:45--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:45--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 2, 2, 1, 2, 2, 1, 1, 1, 1, 2, 1, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2]
+2 28
+30
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 00:19:46--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:47--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 00:19:48--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:48--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 00:19:50--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:50--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 00:19:51--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:52--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 00:19:53--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:53--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 00:19:54--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:55--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 00:19:56--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:56--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 00:19:58--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:58--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 00:19:59--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:19:59--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 00:20:01--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:01--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 00:20:02--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:03--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 00:20:04--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:04--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 00:20:05--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:06--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 00:20:08--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:08--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 00:20:09--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:10--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 46, 1, 140]
+[0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 46, 140]
+140 30
+170
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 00:20:12--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:12--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 00:20:13--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:14--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 00:20:16--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:16--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 00:20:18--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:18--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 00:20:19--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:20--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 00:20:21--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:21--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 00:20:22--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:23--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 00:20:26--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:26--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 00:20:27--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:28--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 00:20:29--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:29--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 00:20:31--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:31--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 00:20:33--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:33--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 00:20:35--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:35--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 00:20:36--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:37--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 00:20:38--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:39--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 144, 0, 0, 0, 0, 166, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 144, 166]
+166 170
+336
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 00:20:40--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:40--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 00:20:42--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:42--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 00:20:43--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:43--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 00:20:45--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:46--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  109K
+    50K .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 00:20:48--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:49--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 00:20:50--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:50--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  192K
+    50K .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 00:20:53--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:53--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 00:20:54--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:55--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 00:20:57--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:57--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 00:20:59--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:20:59--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 00:21:01--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:01--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  110K
+    50K .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 00:21:04--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:05--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 00:21:06--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:06--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 00:21:08--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:08--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 00:21:10--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:10--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 163, 0, 158, 0, 0, 0, 0, 163, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 158, 163, 163]
+163 336
+499
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 00:21:12--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:12--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  127K
+    50K .......... .......... .......... .......... ..........  104K
+   100K ........                                                167K=0.9s
+
+2024-06-06 00:21:14 (117 KB/s) - ‘indexPage’ saved [110844]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 00:21:14--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:15--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 00:21:16--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:16--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 00:21:18--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.4.125, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:18--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 00:21:19--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:20--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 00:21:21--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 172.67.68.238, 104.26.5.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:21--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 00:21:23--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:23--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 00:21:25--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:26--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 00:21:27--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:27--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 00:21:29--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:29--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 00:21:31--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 172.67.68.238, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:31--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 00:21:33--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.5.125, 104.26.4.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:33--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.5.125|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 00:21:34--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:35--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 00:21:36--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 104.26.4.125, 104.26.5.125, 172.67.68.238, ...
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:36--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|104.26.4.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 00:21:38--  http://16honeys.com/
+Resolving 16honeys.com (16honeys.com)... 172.67.68.238, 104.26.5.125, 104.26.4.125, ...
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://16honeys.com/ [following]
+--2024-06-06 00:21:38--  https://16honeys.com/
+Connecting to 16honeys.com (16honeys.com)|172.67.68.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 499
+499

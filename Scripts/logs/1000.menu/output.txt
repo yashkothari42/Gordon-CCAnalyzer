@@ -1,0 +1,1526 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-05 23:57:33--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-05 23:57:34--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-05 23:57:36--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-05 23:57:37--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-05 23:57:39--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-05 23:57:41--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-05 23:57:42--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-05 23:57:44--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-05 23:57:46--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-05 23:57:47--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-05 23:57:49--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-05 23:57:51--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-05 23:57:52--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-05 23:57:54--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-05 23:57:56--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-05 23:57:57--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-05 23:57:58--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-05 23:57:59--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-05 23:58:00--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-05 23:58:00--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-05 23:58:01--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-05 23:58:02--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-05 23:58:03--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-05 23:58:04--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-05 23:58:04--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-05 23:58:05--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-05 23:58:06--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-05 23:58:07--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-05 23:58:07--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-05 23:58:08--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-05 23:58:09--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-05 23:58:10--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-05 23:58:11--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-05 23:58:12--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-05 23:58:13--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-05 23:58:13--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-05 23:58:14--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-05 23:58:15--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-05 23:58:16--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-05 23:58:17--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-05 23:58:18--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-05 23:58:19--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-05 23:58:20--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-05 23:58:20--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-05 23:58:22--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 1, 4, 1, 1, 1, 4, 1, 4, 1, 4, 1, 1, 4, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-05 23:58:22--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:23--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-05 23:58:24--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:24--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-05 23:58:25--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:26--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-05 23:58:26--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:27--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-05 23:58:28--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:29--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-05 23:58:29--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:30--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-05 23:58:31--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:32--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-05 23:58:32--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:33--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-05 23:58:33--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:34--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-05 23:58:35--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:36--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-05 23:58:36--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:37--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-05 23:58:38--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:39--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-05 23:58:39--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:40--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-05 23:58:40--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:41--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-05 23:58:42--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:42--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... Terminated
+[1, 2, 2, 2, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2]
+[1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-05 23:58:43--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:43--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-05 23:58:44--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:44--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-05 23:58:45--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:46--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-05 23:58:46--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:47--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-05 23:58:47--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:48--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-05 23:58:48--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:49--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-05 23:58:49--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:50--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-05 23:58:50--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:51--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-05 23:58:51--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:52--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-05 23:58:52--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:53--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-05 23:58:53--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:54--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-05 23:58:55--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:55--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-05 23:58:56--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:56--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-05 23:58:57--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:57--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-05 23:58:58--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:58--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+Terminated
+[1, 19, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19, 19]
+19 8
+27
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-05 23:58:59--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:58:59--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-05 23:59:01--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:01--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-05 23:59:02--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:02--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-05 23:59:04--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:04--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-05 23:59:05--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:05--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-05 23:59:07--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:07--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-05 23:59:08--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:08--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-05 23:59:10--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:10--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-05 23:59:11--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:11--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-05 23:59:13--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:13--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-05 23:59:14--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:15--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-05 23:59:16--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:16--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-05 23:59:17--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:17--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-05 23:59:18--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:19--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-05 23:59:20--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:20--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+Terminated
+[1, 2, 1, 2, 2, 2, 2, 1, 1, 2, 2, 2, 1, 2, 1]
+[1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 27
+29
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-05 23:59:21--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:22--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-05 23:59:23--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:23--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-05 23:59:24--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:25--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-05 23:59:26--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:26--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-05 23:59:27--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:27--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-05 23:59:28--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:29--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-05 23:59:30--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:30--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-05 23:59:31--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:31--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-05 23:59:33--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:33--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-05 23:59:34--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:34--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-05 23:59:35--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:35--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-05 23:59:37--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:37--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-05 23:59:38--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:38--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-05 23:59:39--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:40--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-05 23:59:41--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:41--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2]
+2 29
+31
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-05 23:59:42--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:43--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-05 23:59:44--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:44--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-05 23:59:46--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:46--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-05 23:59:48--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:48--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-05 23:59:49--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:49--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-05 23:59:51--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:51--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-05 23:59:53--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:54--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-05 23:59:55--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:55--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-05 23:59:57--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:57--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-05 23:59:58--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-05 23:59:59--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 00:00:00--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:00--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 00:00:02--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:03--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 00:00:04--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:04--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 00:00:06--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:06--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 00:00:07--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:08--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 20, 1, 1, 95, 1, 224, 1, 1, 225, 1, 221, 1, 221]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 20, 95, 221, 221, 224, 225]
+225 31
+256
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 00:00:10--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:10--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 00:00:11--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:12--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 67.0KTerminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 00:00:15--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:15--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  102KTerminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 00:00:18--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:18--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 00:00:20--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:20--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 00:00:22--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:22--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 00:00:23--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:24--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 80.2KTerminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 00:00:27--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:27--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ..Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 00:00:29--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:30--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  134KTerminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 00:00:32--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:33--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 83.2KTerminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 00:00:36--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:36--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 00:00:38--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:38--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 84.9KTerminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 00:00:41--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:41--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 00:00:43--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:43--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 00:00:45--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:45--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+[0, 172, 186, 0, 0, 0, 184, 0, 184, 170, 0, 169, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 169, 170, 172, 184, 184, 186]
+186 256
+442
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 00:00:47--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:47--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 00:00:49--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:49--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 00:00:51--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:51--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 00:00:52--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:53--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 00:00:54--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:55--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 00:00:56--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:00:56--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 87.8K
+    50K .......... .......... .......... .......... ..Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 00:00:59--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.3.21, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:00--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 00:01:01--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:01--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 00:01:04--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:04--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.4K
+    50K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 00:01:07--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:08--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 00:01:09--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:10--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 00:01:11--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:11--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 00:01:13--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 104.26.2.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:13--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 00:01:15--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:15--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 00:01:17--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:17--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ....Terminated
+[0, 0, 0, 0, 0, 51, 0, 0, 50, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 51]
+51 442
+493
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 00:01:19--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:19--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 00:01:21--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 172.67.68.37, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:21--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 00:01:23--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:23--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 00:01:25--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:25--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 00:01:26--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:27--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 00:01:29--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:29--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 00:01:30--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:31--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 00:01:33--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 172.67.68.37, 104.26.2.21, 104.26.3.21, ...
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:33--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|172.67.68.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 00:01:35--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:35--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 00:01:37--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:37--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 00:01:38--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:39--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 00:01:40--  http://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1000.menu/ [following]
+--2024-06-06 00:01:41--  https://1000.menu/
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 57.4K
+    50K .......... .......... .......... .......... ..........  102K
+   100K ......                                                  258K=1.4s
+
+2024-06-06 00:01:43 (77.0 KB/s) - ‘indexPage’ saved [109256]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:01:43--  https://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:01:45--  https://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.3.21, 172.67.68.37, 104.26.2.21, ...
+Connecting to 1000.menu (1000.menu)|104.26.3.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:01:47--  https://1000.menu/
+Resolving 1000.menu (1000.menu)... 104.26.2.21, 104.26.3.21, 172.67.68.37, ...
+Connecting to 1000.menu (1000.menu)|104.26.2.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.0K
+    50K .......... .......... .......... .......... ..........  102K
+   100K ......                                                  282K=1.0s
+
+2024-06-06 00:01:49 (103 KB/s) - ‘indexPage’ saved [109256]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 493
+493

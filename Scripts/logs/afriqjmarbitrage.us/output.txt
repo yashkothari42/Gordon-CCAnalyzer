@@ -1,0 +1,1279 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-07 10:46:34--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-07 10:46:36--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-07 10:46:38--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-07 10:46:39--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-07 10:46:41--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-07 10:46:42--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-07 10:46:44--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-07 10:46:46--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-07 10:46:47--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-07 10:46:49--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-07 10:46:51--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-07 10:46:52--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-07 10:46:54--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-07 10:46:56--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-07 10:46:57--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-07 10:46:59--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-07 10:47:00--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-07 10:47:01--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-07 10:47:02--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-07 10:47:03--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-07 10:47:04--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-07 10:47:05--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-07 10:47:06--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-07 10:47:06--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-07 10:47:07--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-07 10:47:08--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-07 10:47:09--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-07 10:47:10--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-07 10:47:11--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-07 10:47:12--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-07 10:47:13--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-07 10:47:14--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-07 10:47:15--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-07 10:47:16--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-07 10:47:17--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-07 10:47:18--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-07 10:47:19--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-07 10:47:20--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-07 10:47:21--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-07 10:47:22--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-07 10:47:23--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-07 10:47:24--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-07 10:47:26--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-07 10:47:27--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-07 10:47:28--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[5, 1, 5, 1, 1, 1, 6, 1, 1, 1, 5, 5, 5, 1, 5]
+[1, 1, 1, 1, 1, 1, 1, 1, 5, 5, 5, 5, 5, 5, 6]
+6 2
+8
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-07 10:47:29--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:30--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-07 10:47:31--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:32--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-07 10:47:32--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:33--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-07 10:47:35--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:35--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-07 10:47:37--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:37--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-07 10:47:39--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:39--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-07 10:47:40--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:41--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-07 10:47:42--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:42--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-07 10:47:44--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:44--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-07 10:47:45--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:46--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-07 10:47:46--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:47--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-07 10:47:48--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:49--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-07 10:47:50--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:50--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-07 10:47:51--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:51--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-07 10:47:52--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:53--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2]
+2 8
+10
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-07 10:47:54--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:55--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-07 10:47:56--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:56--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-07 10:47:57--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:58--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-07 10:47:59--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:47:59--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-07 10:48:00--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:00--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-07 10:48:01--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:02--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-07 10:48:03--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:04--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-07 10:48:05--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:06--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-07 10:48:07--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:07--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-07 10:48:08--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:09--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-07 10:48:09--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:10--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-07 10:48:11--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:11--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-07 10:48:12--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:13--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-07 10:48:14--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:14--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-07 10:48:15--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:15--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+Terminated
+[19, 1, 20, 1, 1, 19, 19, 1, 20, 1, 1, 20, 20, 1, 20]
+[1, 1, 1, 1, 1, 1, 1, 19, 19, 19, 20, 20, 20, 20, 20]
+20 10
+30
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-07 10:48:16--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:17--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-07 10:48:18--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:19--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-07 10:48:20--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:21--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-07 10:48:22--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:22--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-07 10:48:24--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:24--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-07 10:48:25--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:25--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-07 10:48:27--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:27--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-07 10:48:28--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:29--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-07 10:48:30--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:31--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-07 10:48:32--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:33--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-07 10:48:34--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:36--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-07 10:48:38--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:38--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-07 10:48:39--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:40--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-07 10:48:41--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:41--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-07 10:48:42--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:43--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2]
+2 30
+32
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-07 10:48:44--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:44--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-07 10:48:46--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:47--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-07 10:48:48--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:49--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-07 10:48:50--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:51--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-07 10:48:53--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:53--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-07 10:48:55--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:55--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-07 10:48:57--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:57--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-07 10:48:58--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:48:59--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-07 10:49:00--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:01--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-07 10:49:02--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:03--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-07 10:49:04--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:04--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-07 10:49:06--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:06--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-07 10:49:07--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:08--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-07 10:49:09--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:10--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-07 10:49:11--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:12--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[97, 2, 124, 122, 124, 1, 1, 1, 1, 1, 1, 1, 1, 124, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 97, 122, 124, 124, 124]
+124 32
+156
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-07 10:49:13--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:14--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-07 10:49:16--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:17--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            107K=0.3s
+
+2024-06-07 10:49:18 (107 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-07 10:49:18--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:19--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-07 10:49:21--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:22--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            108K=0.2s
+
+2024-06-07 10:49:23 (108 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-07 10:49:23--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:24--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-07 10:49:26--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:27--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-07 10:49:29--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:30--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            101M=0s
+
+2024-06-07 10:49:31 (101 MB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-07 10:49:31--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:32--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-07 10:49:34--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:34--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            101M=0s
+
+2024-06-07 10:49:35 (101 MB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-07 10:49:36--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:36--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-07 10:49:39--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:39--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                           4.08M=0.006s
+
+2024-06-07 10:49:41 (4.08 MB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-07 10:49:41--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:42--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-07 10:49:43--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 172.67.71.165, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:44--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-07 10:49:46--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:47--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                           93.9M=0s
+
+2024-06-07 10:49:48 (93.9 MB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-07 10:49:49--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:49--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+[4, 0, 5, 0, 5, 3, 0, 4, 0, 5, 0, 3, 3, 0, 7]
+[0, 0, 0, 0, 0, 0, 3, 3, 3, 4, 4, 5, 5, 5, 7]
+7 156
+163
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-07 10:49:51--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:52--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            103M=0s
+
+2024-06-07 10:49:53 (103 MB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-07 10:49:53--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:54--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            107K=0.3s
+
+2024-06-07 10:49:55 (107 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-07 10:49:56--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 172.67.71.165, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:57--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            109K=0.2s
+
+2024-06-07 10:49:58 (109 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-07 10:49:58--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:49:59--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            108K=0.2s
+
+2024-06-07 10:50:00 (108 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-07 10:50:01--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:50:01--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            108K=0.3s
+
+2024-06-07 10:50:03 (108 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-07 10:50:03--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:50:04--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            109K=0.2s
+
+2024-06-07 10:50:05 (109 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-07 10:50:06--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:50:06--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            108K=0.3s
+
+2024-06-07 10:50:08 (108 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-07 10:50:08--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:50:09--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            108K=0.2s
+
+2024-06-07 10:50:10 (108 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-07 10:50:11--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:50:11--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            108K=0.3s
+
+2024-06-07 10:50:13 (108 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-07 10:50:13--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.5.224, 104.26.4.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:50:14--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            108K=0.3s
+
+2024-06-07 10:50:15 (108 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-07 10:50:15--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:50:16--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            111K=0.2s
+
+2024-06-07 10:50:17 (111 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-07 10:50:18--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.4.224, 104.26.5.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:50:18--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.4.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            107K=0.3s
+
+2024-06-07 10:50:20 (107 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-07 10:50:20--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:50:21--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            108K=0.3s
+
+2024-06-07 10:50:22 (108 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-07 10:50:23--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 172.67.71.165, 104.26.4.224, 104.26.5.224, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:50:23--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|172.67.71.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            109K=0.2s
+
+2024-06-07 10:50:25 (109 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-07 10:50:25--  http://afriqjmarbitrage.us/
+Resolving afriqjmarbitrage.us (afriqjmarbitrage.us)... 104.26.5.224, 104.26.4.224, 172.67.71.165, ...
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://afriqjmarbitrage.us/ [following]
+--2024-06-07 10:50:26--  https://afriqjmarbitrage.us/
+Connecting to afriqjmarbitrage.us (afriqjmarbitrage.us)|104.26.5.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ......                            108K=0.2s
+
+2024-06-07 10:50:27 (108 KB/s) - ‘indexPage’ saved [27644]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 163
+163

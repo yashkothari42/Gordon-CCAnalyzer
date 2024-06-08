@@ -1,0 +1,2600 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-07 10:37:37--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-07 10:37:39--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-07 10:37:41--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-07 10:37:43--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-07 10:37:45--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-07 10:37:46--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-07 10:37:48--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-07 10:37:50--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-07 10:37:51--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-07 10:37:53--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-07 10:37:55--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-07 10:37:56--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-07 10:37:58--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-07 10:38:00--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-07 10:38:01--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 7, 6, 6, 6]
+[2, 3, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 7]
+7 0
+7
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-07 10:38:03--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:03--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-07 10:38:04--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:04--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-07 10:38:05--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:06--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-07 10:38:06--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:07--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-07 10:38:07--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:08--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-07 10:38:09--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:09--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-07 10:38:10--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:11--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-07 10:38:11--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:12--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-07 10:38:12--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:13--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-07 10:38:14--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:14--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-07 10:38:15--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:15--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-07 10:38:16--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:16--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-07 10:38:18--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:18--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-07 10:38:19--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:19--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-07 10:38:20--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:20--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+[1, 1, 1, 1, 10, 2, 1, 1, 7, 1, 1, 7, 2, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 7, 7, 10]
+10 7
+17
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-07 10:38:21--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:21--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-07 10:38:23--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:23--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-07 10:38:24--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:25--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-07 10:38:26--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:26--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-07 10:38:27--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:28--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-07 10:38:29--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:29--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-07 10:38:31--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:31--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-07 10:38:32--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:33--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-07 10:38:34--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:35--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-07 10:38:36--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:36--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-07 10:38:37--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:38--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-07 10:38:39--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:39--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-07 10:38:40--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:41--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-07 10:38:42--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:42--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-07 10:38:43--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:44--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+Terminated
+[13, 12, 14, 14, 14, 15, 14, 14, 12, 12, 15, 17, 15, 17, 13]
+[12, 12, 12, 13, 13, 14, 14, 14, 14, 14, 15, 15, 15, 17, 17]
+17 17
+34
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-07 10:38:45--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:45--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-07 10:38:47--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:47--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-07 10:38:49--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:49--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-07 10:38:51--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:51--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-07 10:38:52--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:53--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-07 10:38:53--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:54--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-07 10:38:55--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:55--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-07 10:38:56--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:57--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-07 10:38:59--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:38:59--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-07 10:39:00--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:01--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-07 10:39:02--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:02--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-07 10:39:03--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:04--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-07 10:39:05--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:05--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-07 10:39:06--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:07--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-07 10:39:09--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:09--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[47, 1, 46, 2, 1, 1, 1, 47, 1, 1, 1, 1, 1, 46, 46]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 46, 46, 46, 47, 47]
+47 34
+81
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-07 10:39:11--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:11--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-07 10:39:13--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:13--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-07 10:39:15--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:15--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-07 10:39:17--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:18--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-07 10:39:19--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:20--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-07 10:39:21--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:22--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-07 10:39:23--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:24--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-07 10:39:25--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:26--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-07 10:39:28--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:28--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-07 10:39:30--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:30--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-07 10:39:32--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:32--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-07 10:39:34--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:34--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-07 10:39:36--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:36--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-07 10:39:38--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:38--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-07 10:39:40--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:40--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+[78, 78, 75, 81, 80, 80, 77, 78, 77, 78, 80, 79, 73, 80, 76]
+[73, 75, 76, 77, 77, 78, 78, 78, 78, 79, 80, 80, 80, 80, 81]
+81 81
+162
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-07 10:39:42--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:43--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ..........Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-07 10:39:44--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:45--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-07 10:39:47--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:47--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-07 10:39:50--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:50--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ..........Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-07 10:39:52--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:52--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-07 10:39:55--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:55--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ..........Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-07 10:39:57--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:39:58--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-07 10:40:00--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:00--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ..........Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-07 10:40:02--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:03--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-07 10:40:05--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:05--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-07 10:40:08--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:08--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-07 10:40:10--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:11--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-07 10:40:13--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:13--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-07 10:40:15--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:16--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-07 10:40:18--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:18--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+[77, 78, 79, 79, 79, 79, 79, 79, 79, 81, 81, 80, 81, 79, 79]
+[77, 78, 79, 79, 79, 79, 79, 79, 79, 79, 79, 80, 81, 81, 81]
+81 162
+243
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-07 10:40:20--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:21--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-07 10:40:23--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:23--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-07 10:40:26--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:26--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-07 10:40:29--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:29--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-07 10:40:32--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:32--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ......Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-07 10:40:34--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:35--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-07 10:40:37--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:38--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-07 10:40:40--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:40--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-07 10:40:43--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:43--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-07 10:40:46--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:46--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-07 10:40:48--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:49--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-07 10:40:51--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:51--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-07 10:40:54--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:54--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-07 10:40:57--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:40:57--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-07 10:40:59--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:00--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......Terminated
+[160, 163, 160, 161, 160, 161, 161, 160, 161, 160, 162, 160, 161, 161, 162]
+[160, 160, 160, 160, 160, 160, 161, 161, 161, 161, 161, 161, 162, 162, 163]
+163 243
+406
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-07 10:41:02--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:02--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  103K
+    50K .......... .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-07 10:41:05--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:06--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-07 10:41:08--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:09--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-07 10:41:12--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:12--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.3K
+    50K .......... .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-07 10:41:15--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:15--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 87.6K
+    50K .......... .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-07 10:41:18--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:19--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.6K
+    50K .......... .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-07 10:41:21--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:22--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-07 10:41:25--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:25--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 98.2K
+    50K .......... .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-07 10:41:28--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:28--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.8K
+    50K .......... .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-07 10:41:31--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:32--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.3K
+    50K .......... .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-07 10:41:35--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:35--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  184K
+    50K .......... .......... .......... ......Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-07 10:41:38--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:39--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  177K
+    50K .......... ..........Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-07 10:41:42--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:42--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  182K
+    50K .......... .......... .Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-07 10:41:46--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:46--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  167K
+    50K .......... .......... .......... ...Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-07 10:41:49--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:50--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  148K
+    50K .......... .......... .......Terminated
+[169, 168, 167, 165, 165, 165, 166, 166, 166, 164, 178, 177, 179, 180, 179]
+[164, 165, 165, 165, 166, 166, 166, 167, 168, 169, 177, 178, 179, 179, 180]
+180 406
+586
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-07 10:41:53--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:53--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... .......... .......... .......... ..........  121K
+   100K .......... .......... ..Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-07 10:41:58--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:41:59--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  167K
+    50K .......... .......... .......... .......... .......... 97.5K
+   100K .......... ........Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-07 10:42:03--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:42:04--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  165K
+    50K .......... .......... .......... .......... .......... 94.7K
+   100K .......... ........Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-07 10:42:08--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:42:09--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  182K
+    50K .......... .......... .......... .......... ..........  113K
+   100K .......... .......... ..Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-07 10:42:14--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:42:14--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  163K
+    50K .......... .......... .......... .......... .......... 95.3K
+   100K .......... ........Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-07 10:42:19--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:42:19--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  182K
+    50K .......... .......... .......... .......... .......... 93.3K
+   100K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-07 10:42:24--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:42:24--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  172K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... ..Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-07 10:42:29--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:42:29--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... .......... 95.4K
+   100K .......... ........Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-07 10:42:34--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:42:35--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  101K
+    50K .......... .......... .......... .......... .......... 99.5K
+   100K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-07 10:42:39--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:42:39--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... .......... 89.5K
+   100K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-07 10:42:43--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:42:43--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... .......... 89.6K
+   100K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-07 10:42:48--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:42:48--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.3K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-07 10:42:52--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:42:52--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K .......... .......... .......... .......... .......... 92.5K
+   100K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-07 10:42:56--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:42:57--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  111K
+    50K .......... .......... .......... .......... .......... 88.4K
+   100K .......... .......... ........Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-07 10:43:01--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:01--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.2K
+    50K .......... .......... .......... .......... ..........  106K
+   100K ......Terminated
+[195, 199, 195, 195, 195, 193, 199, 193, 189, 189, 189, 185, 189, 185, 185]
+[185, 185, 185, 189, 189, 189, 189, 193, 193, 195, 195, 195, 195, 199, 199]
+199 586
+785
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-07 10:43:05--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:06--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.5K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-07 10:43:09--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:10--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.0K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-07 10:43:13--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:14--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.0K
+    50K .......... .......... .......... .......... .......... 98.1K
+   100K .......... .......... .......... .......... ..........  111K
+   150K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-07 10:43:17--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:18--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.9K
+    50K .......... .......... .......... .......... .......... 89.3K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-07 10:43:21--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:22--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.2K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-07 10:43:25--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:25--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.9K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-07 10:43:29--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:30--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  112K
+    50K .......... .......... .......... .......... .......... 88.8K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .....Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-07 10:43:33--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:33--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... .......... .......... ..........  118K
+   150K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-07 10:43:36--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:37--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.8K
+    50K .......... .......... .......... .......... .......... 88.6K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-07 10:43:40--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:40--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... .......... 89.5K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-07 10:43:44--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:44--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  102K
+    50K .......... .......... .......... .......... .......... 88.6K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .....Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-07 10:43:48--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:48--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.0K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .....Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-07 10:43:51--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:52--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... .......... 89.3K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-07 10:43:55--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:56--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.3K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... ..Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-07 10:43:59--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:43:59--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  101K
+    50K .......... .......... .......... .......... .......... 99.3K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ...Terminated
+[119, 117, 117, 117, 115, 117, 117, 117, 115, 119, 117, 117, 117, 116, 117]
+[115, 115, 116, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 119, 119]
+119 785
+904
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-07 10:44:03--  http://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://advertising.amazon.com/ [following]
+--2024-06-07 10:44:03--  https://advertising.amazon.com/
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.9K
+    50K .......... .......... .......... .......... .......... 89.4K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  135K
+   200K ....                                                   73.2M=1.9s
+
+2024-06-07 10:44:06 (109 KB/s) - ‘indexPage’ saved [209068]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:06--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 98.6K
+    50K .......... .......... .......... .......... .......... 89.6K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:10--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... .......... 89.7K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  138K
+   200K ....                                                    117M=1.8s
+
+2024-06-07 10:44:13 (113 KB/s) - ‘indexPage’ saved [209058]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:13--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.0K
+    50K .......... .......... .......... .......... .......... 88.7K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  135K
+   200K ....                                                   77.8M=1.9s
+
+2024-06-07 10:44:16 (108 KB/s) - ‘indexPage’ saved [209077]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:17--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... .......... 89.4K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  131K
+   200K .....                                                   111M=1.8s
+
+2024-06-07 10:44:19 (113 KB/s) - ‘indexPage’ saved [210838]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:20--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... .......... 89.4K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                   78.1M=1.8s
+
+2024-06-07 10:44:23 (113 KB/s) - ‘indexPage’ saved [209056]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:23--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 83.1K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                    171M=1.9s
+
+2024-06-07 10:44:26 (109 KB/s) - ‘indexPage’ saved [209056]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:27--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.1K
+    50K .......... .......... .......... .......... .......... 88.5K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  133K
+   200K ....                                                   76.9M=1.9s
+
+2024-06-07 10:44:29 (108 KB/s) - ‘indexPage’ saved [209098]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:30--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.9K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  135K
+   200K ....                                                    107M=1.8s
+
+2024-06-07 10:44:33 (112 KB/s) - ‘indexPage’ saved [209089]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:33--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.4K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                   79.5M=1.8s
+
+2024-06-07 10:44:36 (112 KB/s) - ‘indexPage’ saved [209057]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:36--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  101K
+    50K .......... .......... .......... .......... .......... 98.9K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  136K
+   200K ....                                                   81.8M=1.8s
+
+2024-06-07 10:44:39 (113 KB/s) - ‘indexPage’ saved [209102]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:40--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... .......... 89.2K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                   82.3M=1.8s
+
+2024-06-07 10:44:42 (113 KB/s) - ‘indexPage’ saved [209061]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:43--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... .......... 88.6K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  136K
+   200K ....                                                   69.3M=1.8s
+
+2024-06-07 10:44:46 (112 KB/s) - ‘indexPage’ saved [209065]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:46--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.0K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  138K
+   200K ....                                                    173M=1.9s
+
+2024-06-07 10:44:49 (109 KB/s) - ‘indexPage’ saved [209075]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:50--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.4K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  138K
+   200K ....                                                   68.4M=1.8s
+
+2024-06-07 10:44:53 (113 KB/s) - ‘indexPage’ saved [209090]
+
+wget: no process found
+[0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]
+7 904
+911
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:53--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.1K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                   65.5M=1.8s
+
+2024-06-07 10:44:56 (113 KB/s) - ‘indexPage’ saved [209085]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:44:56--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.8K
+    50K .......... .......... .......... .......... .......... 89.7K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                    105M=1.9s
+
+2024-06-07 10:44:59 (109 KB/s) - ‘indexPage’ saved [209105]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:00--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... .......... 89.3K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  131K
+   200K ......                                                  148M=1.8s
+
+2024-06-07 10:45:02 (113 KB/s) - ‘indexPage’ saved [211207]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:03--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  116K
+    50K .......... .......... .......... .......... .......... 92.5K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  134K
+   200K ......                                                  258M=1.8s
+
+2024-06-07 10:45:06 (116 KB/s) - ‘indexPage’ saved [211221]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:06--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 98.4K
+    50K .......... .......... .......... .......... .......... 89.8K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                   92.7M=1.9s
+
+2024-06-07 10:45:09 (109 KB/s) - ‘indexPage’ saved [209094]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:10--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... .......... 89.3K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  141K
+   200K ....                                                    141M=1.8s
+
+2024-06-07 10:45:13 (114 KB/s) - ‘indexPage’ saved [209057]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:13--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... .......... 89.4K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                   69.4M=1.8s
+
+2024-06-07 10:45:16 (113 KB/s) - ‘indexPage’ saved [209081]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:16--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  117K
+    50K .......... .......... .......... .......... .......... 88.1K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:20--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  101K
+    50K .......... .......... .......... .......... .......... 98.0K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  134K
+   200K ....                                                   72.3M=1.8s
+
+2024-06-07 10:45:23 (113 KB/s) - ‘indexPage’ saved [209073]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:24--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.3K
+    50K .......... .......... .......... .......... .......... 92.5K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  134K
+   200K ......                                                  214M=1.9s
+
+2024-06-07 10:45:26 (111 KB/s) - ‘indexPage’ saved [211227]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:27--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... .......... 88.4K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  136K
+   200K ....                                                    129M=1.8s
+
+2024-06-07 10:45:30 (112 KB/s) - ‘indexPage’ saved [209091]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:30--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... .......... 89.4K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                    120M=1.8s
+
+2024-06-07 10:45:33 (113 KB/s) - ‘indexPage’ saved [209085]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:34--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.8K
+    50K .......... .......... .......... .......... .......... 99.0K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                   90.4M=1.9s
+
+2024-06-07 10:45:36 (109 KB/s) - ‘indexPage’ saved [209085]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:37--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... .......... 89.4K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  132K
+   200K .....                                                   202M=1.8s
+
+2024-06-07 10:45:40 (113 KB/s) - ‘indexPage’ saved [210803]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:40--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.6K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  141K
+   200K ....                                                    226M=1.8s
+
+2024-06-07 10:45:43 (116 KB/s) - ‘indexPage’ saved [209073]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17]
+17 911
+928
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:43--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 89.3K
+    50K .......... .......... .......... .......... .......... 99.0K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  138K
+   200K ....                                                    135M=1.9s
+
+2024-06-07 10:45:46 (109 KB/s) - ‘indexPage’ saved [209091]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:47--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... .......... 89.5K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  134K
+   200K ....                                                   77.9M=1.8s
+
+2024-06-07 10:45:49 (113 KB/s) - ‘indexPage’ saved [209101]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:50--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.1K
+    50K .......... .......... .......... .......... .......... 88.5K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                   76.1M=1.9s
+
+2024-06-07 10:45:53 (108 KB/s) - ‘indexPage’ saved [209071]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:53--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... .......... 88.5K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  131K
+   200K .....                                                   233M=1.8s
+
+2024-06-07 10:45:56 (112 KB/s) - ‘indexPage’ saved [210835]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:45:57--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.9K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  129K
+   200K ......                                                  119M=1.8s
+
+2024-06-07 10:46:00 (112 KB/s) - ‘indexPage’ saved [211228]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:46:00--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... .......... 88.5K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                   79.2M=1.8s
+
+2024-06-07 10:46:03 (112 KB/s) - ‘indexPage’ saved [209080]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:46:03--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.9K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  131K
+   200K ......                                                  136M=1.9s
+
+2024-06-07 10:46:06 (109 KB/s) - ‘indexPage’ saved [211211]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:46:07--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 99.0K
+    50K .......... .......... .......... .......... .......... 89.5K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                   69.0M=1.9s
+
+2024-06-07 10:46:09 (109 KB/s) - ‘indexPage’ saved [209059]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:46:10--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 98.3K
+    50K .......... .......... .......... .......... .......... 89.6K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                   77.8M=1.9s
+
+2024-06-07 10:46:13 (109 KB/s) - ‘indexPage’ saved [209097]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:46:13--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.0K
+    50K .......... .......... .......... .......... .......... 88.5K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  133K
+   200K ....                                                    175M=1.9s
+
+2024-06-07 10:46:16 (108 KB/s) - ‘indexPage’ saved [209069]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:46:17--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  103K
+    50K .......... .......... .......... .......... ..........  102K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  131K
+   200K ......                                                  116M=1.8s
+
+2024-06-07 10:46:19 (115 KB/s) - ‘indexPage’ saved [211249]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:46:20--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.6K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  126K
+   200K .........                                               512K=1.9s
+
+2024-06-07 10:46:23 (113 KB/s) - ‘indexPage’ saved [214976]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:46:24--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 98.2K
+    50K .......... .......... .......... .......... .......... 89.5K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  137K
+   200K ....                                                   79.5M=1.9s
+
+2024-06-07 10:46:26 (109 KB/s) - ‘indexPage’ saved [209093]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:46:27--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 184.29.215.236
+Connecting to advertising.amazon.com (advertising.amazon.com)|184.29.215.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  191K
+    50K .......... .......... .......... .......... ..........  113K
+   100K .......... .......... .......... .......... ..........  108K
+   150K .......... .......... .......... .......... ..........  110K
+   200K ....                                                   8004G=1.6s
+
+2024-06-07 10:46:30 (126 KB/s) - ‘indexPage’ saved [209097]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 10:46:30--  https://advertising.amazon.com/
+Resolving advertising.amazon.com (advertising.amazon.com)... 18.65.16.76
+Connecting to advertising.amazon.com (advertising.amazon.com)|18.65.16.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 99.8K
+    50K .......... .......... .......... .......... .......... 92.5K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  135K
+   200K ......                                                  113M=1.8s
+
+2024-06-07 10:46:33 (112 KB/s) - ‘indexPage’ saved [211224]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 928
+928

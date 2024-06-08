@@ -1,0 +1,1367 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 07:48:55--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 07:48:56--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 07:48:58--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 07:49:00--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 07:49:02--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 07:49:03--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 07:49:05--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 07:49:07--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 07:49:08--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 07:49:10--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 07:49:12--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 07:49:14--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 07:49:15--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 07:49:17--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 07:49:19--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 07:49:20--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 07:49:21--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 07:49:22--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 07:49:23--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 07:49:24--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 07:49:25--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 07:49:26--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 07:49:27--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 07:49:27--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 07:49:28--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 07:49:29--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 07:49:30--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 07:49:31--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 07:49:32--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 07:49:33--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 07:49:34--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 07:49:35--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 07:49:36--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 07:49:37--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 07:49:38--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 07:49:40--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 07:49:41--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 07:49:42--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 07:49:43--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 07:49:45--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 07:49:46--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 07:49:47--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 07:49:48--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 07:49:49--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 07:49:50--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+Terminated
+[2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1]
+[1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 2
+4
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 07:49:51--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:49:52--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 07:49:53--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:49:54--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 07:49:54--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:49:55--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 07:49:56--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:49:57--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 07:49:58--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:49:58--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 07:50:00--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 07:50:01--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:02--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 07:50:03--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:03--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 07:50:05--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:06--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 07:50:06--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:07--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 07:50:08--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:10--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 07:50:10--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:11--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 07:50:12--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:13--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 07:50:14--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:14--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 07:50:16--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:17--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... Terminated
+[1, 2, 3, 2, 2, 3, 1, 2, 2, 3, 3, 2, 2, 2, 2]
+[1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+3 4
+7
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 07:50:17--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:18--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 07:50:19--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:19--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 07:50:20--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:20--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 07:50:21--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:22--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 07:50:22--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:23--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 07:50:24--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:25--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 07:50:27--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:27--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 07:50:28--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:28--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 07:50:29--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:29--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 07:50:30--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:31--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 07:50:32--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:32--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 07:50:33--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:33--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 07:50:34--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:34--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 07:50:35--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:36--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 07:50:36--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:37--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+[1, 1, 1, 1, 12, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 12]
+12 7
+19
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 07:50:38--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:38--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 07:50:40--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:40--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 07:50:42--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:42--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 07:50:43--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:44--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 07:50:45--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:46--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 07:50:47--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:48--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 07:50:49--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:50--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 07:50:51--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:52--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 07:50:53--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:54--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 07:50:55--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:56--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 07:50:57--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:50:58--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 07:50:59--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:00--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 07:51:01--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:02--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 07:51:03--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:04--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 07:51:05--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:06--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+[5, 4, 5, 3, 2, 2, 2, 3, 3, 2, 2, 5, 2, 4, 2]
+[2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 5, 5, 5]
+5 19
+24
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 07:51:07--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:08--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 07:51:09--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:10--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 07:51:11--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:12--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 07:51:13--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:14--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 07:51:16--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:16--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 07:51:18--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:18--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 07:51:20--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:20--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 07:51:23--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:23--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 07:51:25--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:25--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 07:51:27--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:27--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 07:51:29--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:29--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 07:51:31--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:32--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 07:51:33--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:33--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 07:51:36--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:36--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 07:51:38--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:38--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 2, 2, 26, 2, 1, 28, 1, 26, 2, 2, 1, 27, 26, 1]
+[1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 26, 26, 26, 27, 28]
+28 24
+52
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 07:51:40--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:40--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 07:51:43--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:43--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 07:51:46--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:46--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 07:51:49--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:49--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 07:51:52--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:52--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 07:51:55--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:55--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 07:51:57--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:51:58--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 07:52:00--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:01--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 07:52:03--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:04--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 07:52:06--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:07--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 07:52:09--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:10--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 07:52:12--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:13--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 07:52:15--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:15--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 07:52:18--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:18--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 07:52:21--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:21--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[54, 51, 54, 52, 54, 54, 53, 52, 53, 54, 51, 52, 52, 54, 54]
+[51, 51, 52, 52, 52, 52, 53, 53, 54, 54, 54, 54, 54, 54, 54]
+54 52
+106
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 07:52:24--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:24--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 07:52:27--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:27--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 07:52:29--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:30--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 07:52:32--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:32--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 07:52:35--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:35--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 07:52:38--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:38--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 07:52:40--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:41--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 07:52:43--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:43--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 07:52:46--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:46--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 07:52:49--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:49--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 07:52:51--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:52--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 07:52:54--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:55--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 07:52:57--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:52:57--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 07:53:00--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:53:00--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 07:53:02--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:53:03--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+[86, 87, 91, 90, 87, 87, 88, 88, 90, 90, 89, 87, 90, 92, 88]
+[86, 87, 87, 87, 87, 88, 88, 88, 89, 90, 90, 90, 90, 91, 92]
+92 106
+198
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 07:53:05--  http://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3hentai.net/ [following]
+--2024-06-06 07:53:06--  https://3hentai.net/
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               137K=0.3s
+
+2024-06-06 07:53:07 (137 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:08--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               133K=0.3s
+
+2024-06-06 07:53:09 (133 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:10--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               130K=0.3s
+
+2024-06-06 07:53:11 (130 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:12--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               130K=0.3s
+
+2024-06-06 07:53:14 (130 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:14--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               130K=0.3s
+
+2024-06-06 07:53:16 (130 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:16--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               131K=0.3s
+
+2024-06-06 07:53:18 (131 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:19--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               130K=0.3s
+
+2024-06-06 07:53:20 (130 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:21--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               133K=0.3s
+
+2024-06-06 07:53:22 (133 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:23--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               129K=0.3s
+
+2024-06-06 07:53:24 (129 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:25--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               131K=0.3s
+
+2024-06-06 07:53:27 (131 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:27--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               131K=0.3s
+
+2024-06-06 07:53:29 (131 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:29--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               131K=0.3s
+
+2024-06-06 07:53:31 (131 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:32--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               130K=0.3s
+
+2024-06-06 07:53:33 (130 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:34--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               131K=0.3s
+
+2024-06-06 07:53:35 (131 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:53:36--  https://3hentai.net/
+Resolving 3hentai.net (3hentai.net)... 158.69.124.64
+Connecting to 3hentai.net (3hentai.net)|158.69.124.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               132K=0.3s
+
+2024-06-06 07:53:38 (132 KB/s) - ‘indexPage’ saved [39134]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 198
+198

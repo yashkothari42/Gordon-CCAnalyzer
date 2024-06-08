@@ -1,0 +1,1399 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 00:21:40--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 00:21:41--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 00:21:43--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 00:21:45--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 00:21:46--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 00:21:48--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 00:21:50--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 00:21:51--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 00:21:53--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 00:21:55--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 00:21:56--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 00:21:58--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 00:22:00--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 00:22:01--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 00:22:03--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 00:22:05--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 00:22:05--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 00:22:06--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 00:22:07--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 00:22:08--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 00:22:08--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 00:22:09--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 00:22:10--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 00:22:11--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 00:22:12--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 00:22:12--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 00:22:13--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 00:22:14--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 00:22:15--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 00:22:15--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 00:22:16--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 00:22:17--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 00:22:18--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 00:22:19--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 00:22:20--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 00:22:20--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 00:22:21--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 00:22:22--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 00:22:23--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 00:22:24--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 00:22:25--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 00:22:26--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 00:22:27--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 00:22:28--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 00:22:29--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 4, 1, 1, 1, 4, 4, 1, 1, 4, 4, 4, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 00:22:30--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:30--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 00:22:31--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:32--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 00:22:32--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:32--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 00:22:34--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:35--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 00:22:35--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:36--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 00:22:37--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:37--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 00:22:38--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:39--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 00:22:39--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:39--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 00:22:41--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:41--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 00:22:43--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:43--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 00:22:45--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:46--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 00:22:46--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:47--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 00:22:47--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:48--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 00:22:49--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:50--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 00:22:51--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:51--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... Terminated
+[1, 2, 2, 1, 2, 2, 2, 2, 1, 1, 1, 2, 2, 1, 2]
+[1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 00:22:52--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:52--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 00:22:53--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:54--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 00:22:54--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:55--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 00:22:55--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:56--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 00:22:57--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:57--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 00:22:58--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:58--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 00:22:59--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:22:59--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 00:23:00--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:00--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 00:23:01--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:01--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 00:23:02--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:02--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 00:23:03--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:03--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 00:23:04--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:04--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 00:23:05--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:05--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 00:23:06--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:06--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 00:23:07--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:07--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+[20, 19, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19, 20]
+20 8
+28
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 00:23:08--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:08--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 00:23:10--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:10--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 00:23:11--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:12--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 00:23:12--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:13--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 00:23:14--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:14--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 00:23:16--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:16--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 00:23:17--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:17--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 00:23:18--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:19--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 00:23:20--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:20--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 00:23:21--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:22--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 00:23:23--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:23--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 00:23:25--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:25--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 00:23:26--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:26--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 00:23:27--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:28--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 00:23:29--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:29--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 1, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2]
+2 28
+30
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 00:23:30--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:31--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 00:23:32--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:32--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 00:23:33--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:34--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 00:23:35--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:35--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 00:23:36--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:36--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 00:23:38--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:38--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 00:23:39--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:40--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 00:23:41--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:41--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 00:23:42--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:43--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 00:23:45--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:45--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 00:23:46--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:47--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 00:23:48--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:48--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 00:23:49--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:50--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 00:23:51--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:51--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 00:23:52--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:53--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 0, 1, 1, 2, 104, 2, 0, 1, 1, 1, 1]
+[0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 104]
+104 30
+134
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 00:23:53--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:54--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 00:23:55--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:55--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 00:23:57--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:57--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 00:23:59--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:23:59--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 00:24:00--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:01--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 00:24:02--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:03--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 00:24:05--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:05--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 00:24:07--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:07--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 00:24:09--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:09--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 00:24:11--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:11--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 00:24:13--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:13--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 00:24:14--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:15--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 00:24:16--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:17--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 00:24:19--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:19--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 00:24:20--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:21--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+[0, 0, 0, 0, 0, 0, 170, 0, 0, 0, 0, 0, 122, 0, 186]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 122, 170, 186]
+186 134
+320
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 00:24:23--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:23--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 00:24:25--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:25--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 00:24:27--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:27--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 00:24:29--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:29--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 00:24:30--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:31--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 00:24:34--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:34--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 00:24:35--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:36--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  102K
+    50K .......... ......Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 00:24:38--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:39--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 00:24:40--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:40--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 00:24:41--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:42--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 00:24:44--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:44--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 00:24:45--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:46--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... ...Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 00:24:48--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:49--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 00:24:50--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:50--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 00:24:52--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:52--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 60, 0, 61, 0, 0, 0, 0, 56, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 56, 60, 61]
+61 320
+381
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 00:24:54--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:54--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 00:24:55--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:56--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 00:24:57--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:24:58--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .........                         111K=0.7s
+
+2024-06-06 00:24:59 (109 KB/s) - ‘indexPage’ saved [81275]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 00:25:00--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:25:00--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  503K
+    50K .......... .......... ..........                        111K=0.4s
+
+2024-06-06 00:25:02 (216 KB/s) - ‘indexPage’ saved [81960]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 00:25:02--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:25:03--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 00:25:04--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:25:04--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 00:25:06--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:25:06--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 00:25:08--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:25:08--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 00:25:10--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:25:10--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ....Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 00:25:11--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:25:12--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 00:25:14--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:25:14--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .........                         111K=0.7s
+
+2024-06-06 00:25:16 (109 KB/s) - ‘indexPage’ saved [81453]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 00:25:16--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:25:17--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 00:25:18--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:25:18--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 00:25:19--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 104.21.17.81, 172.67.175.79, 2606:4700:3034::ac43:af4f, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:25:20--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|104.21.17.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 00:25:21--  http://18av.mm-cg.com/
+Resolving 18av.mm-cg.com (18av.mm-cg.com)... 172.67.175.79, 104.21.17.81, 2606:4700:3031::6815:1151, ...
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://18av.mm-cg.com/ [following]
+--2024-06-06 00:25:21--  https://18av.mm-cg.com/
+Connecting to 18av.mm-cg.com (18av.mm-cg.com)|172.67.175.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 381
+381

@@ -1,0 +1,1488 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 13:34:26--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 13:34:27--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 13:34:28--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 13:34:30--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 13:34:32--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 13:34:33--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 13:34:35--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 13:34:37--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 13:34:38--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 13:34:40--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 13:34:42--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 13:34:43--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 13:34:45--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 13:34:46--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 13:34:48--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2]
+2 0
+2
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 13:34:50--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 13:34:51--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 13:34:51--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 13:34:52--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 13:34:53--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 13:34:54--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 13:34:55--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 13:34:56--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 13:34:56--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 13:34:57--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 13:34:58--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 13:34:59--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 13:35:00--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 13:35:01--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 13:35:02--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 4, 1, 1, 1, 4, 1, 1, 4, 4, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 13:35:03--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 13:35:04--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:05--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 13:35:05--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:06--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 13:35:06--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:07--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 13:35:08--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:09--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 13:35:09--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:10--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 13:35:11--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:11--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 13:35:12--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:13--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 13:35:13--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:14--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 13:35:15--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:16--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 13:35:16--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:17--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 13:35:18--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:19--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 13:35:20--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:20--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 13:35:21--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:22--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 13:35:23--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:24--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... Terminated
+[2, 1, 2, 2, 1, 2, 2, 2, 2, 1, 2, 1, 2, 1, 2]
+[1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 13:35:24--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:24--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 13:35:25--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:26--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 13:35:26--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:27--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 13:35:27--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:28--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 13:35:28--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:29--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 13:35:30--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:30--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 13:35:31--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:31--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 13:35:32--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:32--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 13:35:33--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:33--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 13:35:34--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:35--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 13:35:35--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:36--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 13:35:36--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:37--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 13:35:38--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:38--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 13:35:39--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:39--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 13:35:40--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:40--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+Terminated
+[21, 1, 1, 1, 20, 1, 1, 20, 20, 1, 1, 20, 1, 20, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 20, 20, 20, 20, 20, 21]
+21 8
+29
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 13:35:41--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:41--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 13:35:42--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:43--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 13:35:44--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:44--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 13:35:45--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:46--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 13:35:47--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:47--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 13:35:48--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:49--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 13:35:50--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:50--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 13:35:51--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:52--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 13:35:53--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:53--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 13:35:54--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:55--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 13:35:56--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:56--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 13:35:57--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:58--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 13:35:59--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:35:59--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 13:36:00--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:00--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 13:36:01--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:02--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 2, 2, 2, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2]
+2 29
+31
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 13:36:03--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:03--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 13:36:04--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:05--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 13:36:06--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:06--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 13:36:07--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:08--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 13:36:09--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:09--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 13:36:10--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:10--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 13:36:12--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:12--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 13:36:13--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:14--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 13:36:15--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:15--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 13:36:16--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:17--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 13:36:18--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:18--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 13:36:20--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:20--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 13:36:21--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:21--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 13:36:22--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:22--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 13:36:23--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:24--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 2, 1, 2, 2, 2, 1, 1, 1, 1, 0, 0, 0]
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2]
+2 31
+33
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 13:36:25--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:25--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 13:36:26--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:26--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 13:36:27--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:28--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 13:36:29--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:29--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 13:36:30--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:30--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 13:36:31--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:32--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 13:36:34--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:34--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 13:36:36--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:36--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 13:36:37--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:37--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 13:36:38--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:39--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 13:36:40--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:40--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 13:36:41--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:41--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 13:36:42--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:43--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 13:36:44--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:44--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 13:36:45--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:45--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 1, 0, 0, 0, 84, 47, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 47, 84]
+84 33
+117
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 13:36:46--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:47--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 13:36:48--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:48--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 13:36:49--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:50--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 13:36:51--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:51--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 13:36:52--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:53--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 13:36:54--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:54--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 13:36:55--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:56--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 13:36:57--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:57--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 13:36:59--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:36:59--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 13:37:00--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:00--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 13:37:02--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:02--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 13:37:03--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:04--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 13:37:05--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:06--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 13:37:07--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:07--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 13:37:08--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:08--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+[0, 0, 133, 0, 0, 101, 0, 85, 0, 85, 0, 161, 0, 0, 86]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 85, 85, 86, 101, 133, 161]
+161 117
+278
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 13:37:10--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:10--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  310K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 13:37:12--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:12--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 13:37:13--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:14--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 13:37:15--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:15--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  321K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 13:37:17--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:17--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 13:37:18--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:19--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 13:37:20--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:20--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 13:37:21--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:22--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  176K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 13:37:24--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:24--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 13:37:25--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:26--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  219K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 13:37:28--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:28--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  215K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 13:37:31--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:31--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 13:37:33--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:34--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 13:37:35--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:35--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 13:37:36--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:37--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[171, 0, 0, 169, 0, 0, 0, 168, 0, 167, 167, 166, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 166, 167, 167, 168, 169, 171]
+171 278
+449
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 13:37:38--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:38--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 13:37:39--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:39--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 13:37:40--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:41--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 13:37:42--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:42--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 13:37:43--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:43--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 13:37:44--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:45--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 13:37:46--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:46--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 13:37:47--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:47--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  235K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 13:37:50--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:50--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 13:37:51--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:52--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 13:37:53--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:53--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  102K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 13:37:56--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:56--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 13:37:57--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:57--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 13:37:58--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.10.127, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:37:59--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 13:38:00--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:00--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 11, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 11]
+11 449
+460
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 13:38:01--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:02--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 13:38:03--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:03--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 13:38:04--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:04--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 13:38:05--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 172.67.70.96, 104.26.11.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:06--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 13:38:07--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:07--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 13:38:08--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:08--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 13:38:09--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 172.67.70.96, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:10--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 13:38:11--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:11--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 13:38:12--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:12--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 13:38:13--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:14--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 13:38:15--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 172.67.70.96, 104.26.11.127, 104.26.10.127, ...
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:15--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|172.67.70.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 13:38:16--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:16--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 13:38:17--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:18--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  127K
+    50K .......... .......... .......... .......... ........    113K=0.8s
+
+2024-06-06 13:38:19 (120 KB/s) - ‘indexPage’ saved [101273]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 13:38:20--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.11.127, 104.26.10.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:20--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.11.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 13:38:21--  http://abcalphagame.com/
+Resolving abcalphagame.com (abcalphagame.com)... 104.26.10.127, 104.26.11.127, 172.67.70.96, ...
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://abcalphagame.com/ [following]
+--2024-06-06 13:38:22--  https://abcalphagame.com/
+Connecting to abcalphagame.com (abcalphagame.com)|104.26.10.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 460
+460

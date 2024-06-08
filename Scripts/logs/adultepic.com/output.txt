@@ -1,0 +1,1814 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-07 10:08:25--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-07 10:08:27--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-07 10:08:29--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-07 10:08:30--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-07 10:08:32--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-07 10:08:34--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-07 10:08:35--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-07 10:08:37--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-07 10:08:39--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-07 10:08:40--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-07 10:08:42--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-07 10:08:44--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-07 10:08:45--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-07 10:08:47--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-07 10:08:48--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-07 10:08:50--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-07 10:08:51--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-07 10:08:52--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-07 10:08:52--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-07 10:08:53--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-07 10:08:54--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-07 10:08:55--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-07 10:08:56--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-07 10:08:56--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-07 10:08:57--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-07 10:08:58--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-07 10:08:59--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-07 10:08:59--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-07 10:09:00--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-07 10:09:01--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-07 10:09:02--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-07 10:09:03--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-07 10:09:04--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-07 10:09:05--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-07 10:09:06--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-07 10:09:06--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-07 10:09:07--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-07 10:09:08--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-07 10:09:09--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-07 10:09:10--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-07 10:09:11--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-07 10:09:12--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-07 10:09:13--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-07 10:09:14--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-07 10:09:15--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 4, 1, 4, 1, 4, 1, 4, 4, 1, 4, 1, 1, 4, 1]
+[1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-07 10:09:16--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:16--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-07 10:09:17--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:17--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-07 10:09:19--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:20--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-07 10:09:20--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:21--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-07 10:09:21--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:22--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-07 10:09:22--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:23--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-07 10:09:24--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:25--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-07 10:09:26--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:26--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-07 10:09:28--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:28--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-07 10:09:29--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:30--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-07 10:09:31--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:31--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-07 10:09:33--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:33--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-07 10:09:34--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:35--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-07 10:09:35--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:35--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-07 10:09:37--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:38--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... Terminated
+[1, 2, 1, 2, 2, 2, 1, 2, 1, 1, 2, 1, 2, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-07 10:09:38--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:39--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-07 10:09:40--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:40--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-07 10:09:41--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:41--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-07 10:09:42--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:42--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-07 10:09:43--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:43--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-07 10:09:44--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:44--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-07 10:09:45--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:45--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-07 10:09:46--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:46--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-07 10:09:47--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:47--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-07 10:09:48--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:48--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-07 10:09:49--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:49--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-07 10:09:50--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:50--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-07 10:09:51--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:52--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-07 10:09:52--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:53--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-07 10:09:53--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:54--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+[20, 1, 1, 1, 19, 1, 1, 1, 1, 1, 1, 1, 1, 19, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19, 19, 20]
+20 8
+28
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-07 10:09:55--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:55--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-07 10:09:56--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:56--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-07 10:09:57--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:58--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-07 10:09:59--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:09:59--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-07 10:10:00--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:01--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-07 10:10:02--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:02--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-07 10:10:04--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:04--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-07 10:10:05--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:05--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-07 10:10:06--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:07--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-07 10:10:08--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:08--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-07 10:10:09--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:10--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-07 10:10:11--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:11--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-07 10:10:12--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:12--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-07 10:10:14--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:14--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-07 10:10:15--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:15--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+Terminated
+[1, 2, 1, 1, 1, 2, 1, 1, 2, 1, 1, 1, 1, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2]
+2 28
+30
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-07 10:10:17--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:17--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-07 10:10:18--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:19--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-07 10:10:20--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:20--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-07 10:10:21--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:22--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-07 10:10:23--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:23--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-07 10:10:24--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:25--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-07 10:10:26--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:26--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-07 10:10:28--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:29--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-07 10:10:29--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:30--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-07 10:10:31--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:31--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-07 10:10:32--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:33--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-07 10:10:34--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:34--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-07 10:10:36--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:36--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-07 10:10:38--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:38--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-07 10:10:40--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:40--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 1, 1, 1, 1, 1, 134, 1, 1, 1, 0, 0, 97, 2, 2]
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 97, 134]
+134 30
+164
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-07 10:10:41--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:42--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-07 10:10:44--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:44--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-07 10:10:46--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:46--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-07 10:10:47--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:48--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-07 10:10:49--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:49--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .........Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-07 10:10:51--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:52--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-07 10:10:53--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:54--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-07 10:10:55--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:55--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-07 10:10:57--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:10:58--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .........Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-07 10:11:00--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:00--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .........Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-07 10:11:03--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:03--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-07 10:11:05--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:05--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-07 10:11:07--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:08--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-07 10:11:09--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:10--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-07 10:11:12--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:13--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[135, 0, 0, 0, 135, 0, 0, 0, 142, 175, 0, 154, 0, 129, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 129, 135, 135, 142, 154, 175]
+175 164
+339
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-07 10:11:14--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:15--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-07 10:11:16--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:17--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-07 10:11:18--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:18--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .........Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-07 10:11:22--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:22--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-07 10:11:25--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:26--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  102K
+    50K .......... ........Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-07 10:11:29--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:29--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-07 10:11:31--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:31--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-07 10:11:33--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:34--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-07 10:11:35--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:36--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-07 10:11:37--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:37--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-07 10:11:39--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:40--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... ........Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-07 10:11:43--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:43--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-07 10:11:45--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:45--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-07 10:11:47--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:47--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-07 10:11:49--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:50--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 166, 169, 168, 0, 0, 0, 0, 0, 169, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 166, 168, 169, 169]
+169 339
+508
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-07 10:11:52--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:52--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-07 10:11:55--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:56--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-07 10:11:57--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:58--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-07 10:11:59--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:11:59--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-07 10:12:01--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:01--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-07 10:12:03--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:03--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-07 10:12:05--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:05--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  112K
+    50K .......... .......... .......... .......... ..........  108K
+   100K ......Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-07 10:12:08--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:08--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-07 10:12:10--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:10--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-07 10:12:11--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:12--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-07 10:12:13--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:14--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-07 10:12:16--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:16--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-07 10:12:18--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:18--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-07 10:12:19--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:20--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-07 10:12:21--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:22--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[154, 0, 0, 0, 0, 0, 157, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 154, 157]
+157 508
+665
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-07 10:12:23--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:24--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... .......     113K=1.4s
+
+2024-06-07 10:12:26 (109 KB/s) - ‘indexPage’ saved [150719]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-07 10:12:27--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:27--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-07 10:12:28--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:29--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... ..........  101K
+   100K .......... .......... .......... .......... .......     120K=1.3s
+
+2024-06-07 10:12:31 (111 KB/s) - ‘indexPage’ saved [151052]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-07 10:12:31--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:32--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-07 10:12:33--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:33--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-07 10:12:35--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:36--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... .......... .......... .......     120K=1.3s
+
+2024-06-07 10:12:38 (110 KB/s) - ‘indexPage’ saved [150719]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-07 10:12:38--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:39--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  102K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... .......... .......... .......     113K=1.4s
+
+2024-06-07 10:12:41 (108 KB/s) - ‘indexPage’ saved [150719]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-07 10:12:42--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:42--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-07 10:12:44--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:44--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-07 10:12:46--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:46--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... .......... .......... .......     113K=1.4s
+
+2024-06-07 10:12:50 (109 KB/s) - ‘indexPage’ saved [151052]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-07 10:12:50--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:50--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-07 10:12:52--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:52--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-07 10:12:54--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:55--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-07 10:12:56--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:57--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-07 10:12:58--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:12:59--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+1 665
+666
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-07 10:13:00--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:00--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-07 10:13:02--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:02--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-07 10:13:04--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:04--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-07 10:13:06--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:06--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-07 10:13:07--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:08--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  109K
+    50K .......... .......... .......... .......... ..........  101K
+   100K .......... .......... .......... .......... .......     119K=1.4s
+
+2024-06-07 10:13:10 (109 KB/s) - ‘indexPage’ saved [151052]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-07 10:13:11--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:11--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... .......     120K=1.3s
+
+2024-06-07 10:13:13 (109 KB/s) - ‘indexPage’ saved [150719]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-07 10:13:14--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:14--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-07 10:13:15--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:16--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-07 10:13:17--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:17--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-07 10:13:19--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:19--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-07 10:13:21--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:21--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-07 10:13:23--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:24--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-07 10:13:25--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:26--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-07 10:13:27--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 104.21.62.127, 172.67.223.200, 2606:4700:3036::ac43:dfc8, ...
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:28--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|104.21.62.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-07 10:13:29--  http://adultepic.com/
+Resolving adultepic.com (adultepic.com)... 172.67.223.200, 104.21.62.127, 2606:4700:3035::6815:3e7f, ...
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adultepic.com/ [following]
+--2024-06-07 10:13:30--  https://adultepic.com/
+Connecting to adultepic.com (adultepic.com)|172.67.223.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 666
+666

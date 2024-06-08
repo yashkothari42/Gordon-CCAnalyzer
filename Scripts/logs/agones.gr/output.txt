@@ -1,0 +1,2816 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-07 11:06:26--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-07 11:06:29--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-07 11:06:31--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-07 11:06:32--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-07 11:06:34--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-07 11:06:36--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-07 11:06:37--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-07 11:06:39--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-07 11:06:41--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-07 11:06:42--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-07 11:06:44--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-07 11:06:46--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-07 11:06:47--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-07 11:06:49--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-07 11:06:51--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-07 11:06:52--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-07 11:06:53--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-07 11:06:54--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-07 11:06:55--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-07 11:06:55--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-07 11:06:56--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-07 11:06:57--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-07 11:06:58--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-07 11:06:58--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-07 11:06:59--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-07 11:07:00--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-07 11:07:01--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-07 11:07:01--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-07 11:07:02--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-07 11:07:03--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-07 11:07:04--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-07 11:07:05--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-07 11:07:06--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-07 11:07:06--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-07 11:07:07--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-07 11:07:08--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-07 11:07:09--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-07 11:07:10--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-07 11:07:11--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-07 11:07:12--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-07 11:07:13--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-07 11:07:14--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-07 11:07:14--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-07 11:07:15--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-07 11:07:16--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 1, 1, 4, 4, 1, 1, 4, 1, 4, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-07 11:07:17--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:18--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-07 11:07:18--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:18--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-07 11:07:20--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:20--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-07 11:07:22--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:23--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-07 11:07:23--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:24--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-07 11:07:24--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:25--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-07 11:07:26--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:27--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-07 11:07:28--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:28--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-07 11:07:29--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:30--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-07 11:07:31--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:32--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-07 11:07:32--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:33--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-07 11:07:33--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:34--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-07 11:07:35--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:36--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-07 11:07:36--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:37--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-07 11:07:38--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:39--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... Terminated
+[1, 2, 1, 1, 2, 2, 1, 2, 1, 2, 2, 2, 1, 2, 2]
+[1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-07 11:07:39--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:39--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-07 11:07:40--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:41--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-07 11:07:41--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:42--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-07 11:07:42--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:43--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-07 11:07:43--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:44--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-07 11:07:45--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:45--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-07 11:07:46--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:46--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-07 11:07:47--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:47--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-07 11:07:48--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:48--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-07 11:07:49--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:49--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-07 11:07:50--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:50--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-07 11:07:51--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:51--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-07 11:07:52--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:52--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-07 11:07:53--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:53--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-07 11:07:54--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:54--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+[19, 1, 1, 1, 18, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 18, 19]
+19 8
+27
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-07 11:07:55--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:55--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-07 11:07:56--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:56--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-07 11:07:58--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:07:58--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-07 11:07:59--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:00--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-07 11:08:01--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:01--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-07 11:08:02--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:03--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-07 11:08:04--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:04--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-07 11:08:05--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:06--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-07 11:08:07--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:07--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-07 11:08:08--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:09--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-07 11:08:10--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:10--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-07 11:08:11--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:12--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-07 11:08:13--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:13--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-07 11:08:14--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:14--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-07 11:08:16--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:16--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 2, 2, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2]
+2 27
+29
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-07 11:08:17--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:18--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-07 11:08:19--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:19--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-07 11:08:20--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:21--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-07 11:08:23--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:23--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-07 11:08:24--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:25--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-07 11:08:26--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:26--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-07 11:08:28--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:28--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-07 11:08:29--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:30--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-07 11:08:31--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:31--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-07 11:08:32--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:32--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-07 11:08:34--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:34--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-07 11:08:35--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:35--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-07 11:08:36--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:37--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-07 11:08:38--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:39--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-07 11:08:40--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:40--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 133, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0]
+[0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 133]
+133 29
+162
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-07 11:08:42--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:42--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-07 11:08:43--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:44--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-07 11:08:46--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:46--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-07 11:08:48--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:48--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-07 11:08:51--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:51--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .........Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-07 11:08:53--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:53--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-07 11:08:55--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:55--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-07 11:08:57--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:57--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-07 11:08:59--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:08:59--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-07 11:09:01--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:02--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-07 11:09:04--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:04--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-07 11:09:06--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:06--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-07 11:09:09--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:09--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-07 11:09:11--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:11--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-07 11:09:12--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:13--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+[0, 145, 0, 152, 135, 0, 0, 0, 165, 0, 0, 137, 0, 0, 139]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 135, 137, 139, 145, 152, 165]
+165 162
+327
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-07 11:09:16--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:16--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-07 11:09:17--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:18--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-07 11:09:19--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:20--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-07 11:09:21--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:22--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-07 11:09:23--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:24--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-07 11:09:25--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:25--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-07 11:09:27--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:27--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-07 11:09:29--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:29--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-07 11:09:30--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:31--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-07 11:09:32--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:32--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-07 11:09:34--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:34--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-07 11:09:36--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:37--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-07 11:09:38--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:39--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-07 11:09:42--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:42--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-07 11:09:44--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:44--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 166, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 166]
+166 327
+493
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-07 11:09:45--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:46--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-07 11:09:47--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:47--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K .......... .......... .......... .......... ..........  111K
+   100K ....Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-07 11:09:51--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:51--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-07 11:09:53--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:53--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  112K
+   100K ....Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-07 11:09:56--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:57--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-07 11:09:58--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:09:58--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-07 11:10:00--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:00--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-07 11:10:02--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:02--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-07 11:10:04--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:04--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  111K
+   100K ....Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-07 11:10:08--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:08--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-07 11:10:10--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:10--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  110K
+   100K ....Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-07 11:10:14--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:14--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-07 11:10:16--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:16--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-07 11:10:17--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:18--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  112K
+   100K ....Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-07 11:10:21--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:22--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 167, 0, 165, 0, 0, 0, 0, 171, 0, 167, 0, 0, 169, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 165, 167, 167, 169, 171]
+171 493
+664
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-07 11:10:23--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:23--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... ....Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-07 11:10:27--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:28--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-07 11:10:29--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:29--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-07 11:10:31--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:31--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... .......Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-07 11:10:37--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:37--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-07 11:10:39--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:39--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... ....Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-07 11:10:44--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:45--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-07 11:10:46--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:46--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-07 11:10:48--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:48--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-07 11:10:50--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:50--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ....Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-07 11:10:54--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:55--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-07 11:10:57--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:57--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-07 11:10:59--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:10:59--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-07 11:11:01--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:01--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-07 11:11:05--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:05--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ......Terminated
+[165, 0, 0, 201, 0, 199, 0, 0, 0, 168, 0, 0, 0, 184, 203]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 165, 168, 184, 199, 201, 203]
+203 664
+867
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-07 11:11:10--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:10--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-07 11:11:12--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:13--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-07 11:11:14--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:14--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-07 11:11:16--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:16--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-07 11:11:18--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:18--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-07 11:11:20--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:20--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-07 11:11:22--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:22--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-07 11:11:24--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:24--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... ..........  106K
+   150K .......... .......... .......... .......... ..Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-07 11:11:29--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:29--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-07 11:11:31--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:32--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-07 11:11:33--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:34--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-07 11:11:35--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:36--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-07 11:11:37--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:38--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  110K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  108K
+   150K .......... .......... .......... .......... ..Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-07 11:11:41--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:42--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-07 11:11:43--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:44--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 0, 0, 0, 0, 0, 0, 157, 0, 0, 0, 0, 121, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 121, 157]
+157 867
+1024
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-07 11:11:45--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:46--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-07 11:11:48--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:48--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...Terminated
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-07 11:11:50--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:50--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-07 11:11:52--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:52--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-07 11:11:54--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:11:54--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... ..........  106K
+   150K .......... .......... .......... .......... ..........  113K
+   200K .......... .......... ........Terminated
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-07 11:11:59--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:00--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-07 11:12:01--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:01--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-07 11:12:03--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:03--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-07 11:12:05--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:05--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-07 11:12:07--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:07--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-07 11:12:09--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:09--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-07 11:12:11--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:11--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  101K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  106K
+   150K .......... .......... .......... .......... ..........  113K
+   200K .......... .......... ........Terminated
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-07 11:12:16--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:16--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... ..........  108K
+   150K .......... .......... .......... .......... ..........  111K
+   200K .......... .......... .....Terminated
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-07 11:12:20--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:20--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-07 11:12:22--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:22--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 0, 0, 0, 125, 0, 0, 0, 0, 0, 0, 125, 119, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 119, 125, 125]
+125 1024
+1149
+--------------------------------- RTT-14, TRIAL-1 ----------------------
+--2024-06-07 11:12:24--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:24--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-2 ----------------------
+--2024-06-07 11:12:26--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:27--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  105K
+   150K .......... .......... .......... .......... ..........  106K
+   200K .......... .......... .......... .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-3 ----------------------
+--2024-06-07 11:12:32--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:32--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-4 ----------------------
+--2024-06-07 11:12:33--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:34--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-5 ----------------------
+--2024-06-07 11:12:35--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:35--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-6 ----------------------
+--2024-06-07 11:12:37--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:38--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-7 ----------------------
+--2024-06-07 11:12:39--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:40--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-8 ----------------------
+--2024-06-07 11:12:41--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:42--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-9 ----------------------
+--2024-06-07 11:12:43--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:44--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-10 ----------------------
+--2024-06-07 11:12:45--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:46--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-11 ----------------------
+--2024-06-07 11:12:47--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:47--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  108K
+   150K .......... .......... .......... .......... ..........  104K
+   200K .......... .......... .......... .......... .......... 41.4K
+   250K .......... ..Terminated
+--------------------------------- RTT-14, TRIAL-12 ----------------------
+--2024-06-07 11:12:52--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:53--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-13 ----------------------
+--2024-06-07 11:12:54--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:54--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-14 ----------------------
+--2024-06-07 11:12:56--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:12:56--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  106K
+   150K .......... .......... .......... .......... ..........  105K
+   200K .......... .......... .......... .......... .......... 98.4K
+   250K .........Terminated
+--------------------------------- RTT-14, TRIAL-15 ----------------------
+--2024-06-07 11:13:01--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:01--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 121, 0, 0, 0, 0, 0, 0, 0, 0, 117, 0, 0, 117, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 117, 117, 121]
+121 1149
+1270
+--------------------------------- RTT-15, TRIAL-1 ----------------------
+--2024-06-07 11:13:03--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:03--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-2 ----------------------
+--2024-06-07 11:13:05--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:05--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-3 ----------------------
+--2024-06-07 11:13:07--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:08--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-4 ----------------------
+--2024-06-07 11:13:09--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:10--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-5 ----------------------
+--2024-06-07 11:13:11--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:11--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  104K
+   150K .......... .......... .......... .......... ..........  111K
+   200K .......... .......... .......... .......... ..........  109K
+   250K .......... .......... .......... ....Terminated
+--------------------------------- RTT-15, TRIAL-6 ----------------------
+--2024-06-07 11:13:16--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:17--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-7 ----------------------
+--2024-06-07 11:13:18--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:19--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  103K
+   150K .......... .......... .......... .......... ..........  113K
+   200K .......... .......... .......... .......... .......... 92.1K
+   250K .......... .......... ......Terminated
+--------------------------------- RTT-15, TRIAL-8 ----------------------
+--2024-06-07 11:13:23--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:24--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-9 ----------------------
+--2024-06-07 11:13:26--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:26--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-10 ----------------------
+--2024-06-07 11:13:28--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:28--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-11 ----------------------
+--2024-06-07 11:13:29--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:30--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-12 ----------------------
+--2024-06-07 11:13:31--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:32--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-13 ----------------------
+--2024-06-07 11:13:34--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:34--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-14 ----------------------
+--2024-06-07 11:13:35--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:36--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-15 ----------------------
+--2024-06-07 11:13:38--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:38--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 0, 0, 0, 123, 0, 117, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 117, 123]
+123 1270
+1393
+--------------------------------- RTT-16, TRIAL-1 ----------------------
+--2024-06-07 11:13:40--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:40--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-2 ----------------------
+--2024-06-07 11:13:42--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:42--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-3 ----------------------
+--2024-06-07 11:13:44--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:44--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  108K
+   150K .......... .......... .......... .......... ..........  103K
+   200K .......... .......... .......... .......... .......... 98.2K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......Terminated
+--------------------------------- RTT-16, TRIAL-4 ----------------------
+--2024-06-07 11:13:49--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:49--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-16, TRIAL-5 ----------------------
+--2024-06-07 11:13:51--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:51--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-6 ----------------------
+--2024-06-07 11:13:52--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:53--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-7 ----------------------
+--2024-06-07 11:13:54--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:13:55--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... ..........  105K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .......... .......... 98.4K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... ..........Terminated
+--------------------------------- RTT-16, TRIAL-8 ----------------------
+--2024-06-07 11:13:59--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:00--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-9 ----------------------
+--2024-06-07 11:14:01--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:02--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-10 ----------------------
+--2024-06-07 11:14:03--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:03--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-11 ----------------------
+--2024-06-07 11:14:05--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:06--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-12 ----------------------
+--2024-06-07 11:14:07--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:08--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  104K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .......... .......... 99.6K
+   250K .......... .......... .......... .......... ..........  118K
+   300K .......... ..........Terminated
+--------------------------------- RTT-16, TRIAL-13 ----------------------
+--2024-06-07 11:14:13--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:13--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-14 ----------------------
+--2024-06-07 11:14:15--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:15--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  104K
+   150K .......... .......... .......... .......... ..........  113K
+   200K .......... .......... .......... .......... ..........  106K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... ......Terminated
+--------------------------------- RTT-16, TRIAL-15 ----------------------
+--2024-06-07 11:14:21--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:21--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  234K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  108K
+   150K .......... .......... .......... .......... ..........  107K
+   200K .......... .......... .......... .......... ..........  107K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... ......Terminated
+[0, 0, 17, 0, 0, 0, 16, 0, 0, 0, 0, 16, 0, 18, 13]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 16, 16, 17, 18]
+18 1393
+1411
+--------------------------------- RTT-17, TRIAL-1 ----------------------
+--2024-06-07 11:14:26--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:26--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-2 ----------------------
+--2024-06-07 11:14:27--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:28--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-3 ----------------------
+--2024-06-07 11:14:29--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:30--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-4 ----------------------
+--2024-06-07 11:14:31--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:32--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-5 ----------------------
+--2024-06-07 11:14:33--  http://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agones.gr/ [following]
+--2024-06-07 11:14:34--  https://agones.gr/
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  104K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... .......... 97.8K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... ....                              131K=3.0s
+
+2024-06-07 11:14:38 (109 KB/s) - ‘indexPage’ saved [331990]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:14:39--  https://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-17, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:14:40--  https://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-17, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:14:42--  https://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-17, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:14:43--  https://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-17, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:14:44--  https://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-17, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:14:46--  https://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-17, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:14:47--  https://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-17, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:14:49--  https://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.204.89, 104.27.203.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.204.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  108K
+   150K .......... .......... .......... .......... ..........  111K
+   200K .......... .......... .......... .......... ..........  110K
+   250K .......... .......... .......... .......... .......... 85.8K
+   300K .......... .......... ....                              282K=3.0s
+
+2024-06-07 11:14:53 (109 KB/s) - ‘indexPage’ saved [332011]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:14:53--  https://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cb59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-17, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:14:55--  https://agones.gr/
+Resolving agones.gr (agones.gr)... 104.27.203.89, 104.27.204.89, 2606:4700:21::681b:cc59, ...
+Connecting to agones.gr (agones.gr)|104.27.203.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 1411
+1411

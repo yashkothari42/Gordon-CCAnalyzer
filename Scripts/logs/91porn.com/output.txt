@@ -1,0 +1,616 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 13:04:09--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 104.26.2.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 13:04:11--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 104.26.2.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 13:04:12--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 104.26.2.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 13:04:14--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 13:04:15--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 13:04:17--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 104.26.2.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 13:04:19--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 13:04:20--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 172.67.70.4, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 13:04:22--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 13:04:24--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 13:04:25--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 104.26.2.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 13:04:27--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 104.26.2.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 13:04:29--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 13:04:30--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 13:04:32--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 104.26.3.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 13:04:34--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 13:04:35--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 13:04:35--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 104.26.3.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 13:04:36--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 172.67.70.4, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 13:04:37--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 13:04:38--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 13:04:39--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 172.67.70.4, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 13:04:39--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 104.26.2.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 13:04:40--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 172.67.70.4, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 13:04:41--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 13:04:42--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 13:04:43--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 13:04:43--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 13:04:44--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 172.67.70.4, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 13:04:45--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 172.67.70.4, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 13:04:46--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 172.67.70.4, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 13:04:47--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 13:04:47--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 13:04:48--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 104.26.3.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 13:04:50--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 13:04:51--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 13:04:52--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 172.67.70.4, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 13:04:53--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 13:04:54--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 13:04:55--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 104.26.3.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 13:04:56--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 104.26.3.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 13:04:57--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 104.26.3.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 13:04:58--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 13:04:59--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 13:05:00--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 17, 17, 18, 17, 1, 17, 17, 17, 1, 17, 1, 17, 1]
+[1, 1, 1, 1, 1, 1, 17, 17, 17, 17, 17, 17, 17, 17, 18]
+18 2
+20
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 13:05:01--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     111K=0.03s
+
+2024-06-06 13:05:01 (111 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 13:05:02--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 13:05:03--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     111K=0.03s
+
+2024-06-06 13:05:03 (111 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 13:05:04--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 13:05:05--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     111K=0.03s
+
+2024-06-06 13:05:06 (111 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 13:05:06--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 104.26.3.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 13:05:07--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 104.26.3.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     111K=0.03s
+
+2024-06-06 13:05:08 (111 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 13:05:08--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 172.67.70.4, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                    6.34K=0.5s
+
+2024-06-06 13:05:09 (6.34 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 13:05:10--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 13:05:11--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     112K=0.03s
+
+2024-06-06 13:05:11 (112 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 13:05:12--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                    6.39K=0.5s
+
+2024-06-06 13:05:13 (6.39 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 13:05:13--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 13:05:15--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 104.26.2.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     112K=0.03s
+
+2024-06-06 13:05:16 (112 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 13:05:16--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                    6.38K=0.5s
+
+2024-06-06 13:05:17 (6.38 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 13:05:17--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...Terminated
+[0, 2, 0, 2, 0, 2, 0, 1, 2, 0, 1, 2, 1, 1, 2]
+[0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2]
+2 20
+22
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 13:05:19--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     110K=0.03s
+
+2024-06-06 13:05:19 (110 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 13:05:20--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 172.67.70.4, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     111K=0.03s
+
+2024-06-06 13:05:20 (111 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 13:05:21--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     110K=0.03s
+
+2024-06-06 13:05:21 (110 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 13:05:22--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 104.26.3.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     110K=0.03s
+
+2024-06-06 13:05:22 (110 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 13:05:23--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.3.41, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     111K=0.03s
+
+2024-06-06 13:05:23 (111 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 13:05:24--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 104.26.3.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     112K=0.03s
+
+2024-06-06 13:05:24 (112 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 13:05:25--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 104.26.3.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     111K=0.03s
+
+2024-06-06 13:05:25 (111 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 13:05:26--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 104.26.2.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     112K=0.03s
+
+2024-06-06 13:05:26 (112 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 13:05:27--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     111K=0.03s
+
+2024-06-06 13:05:27 (111 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 13:05:28--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 172.67.70.4, 104.26.2.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     111K=0.03s
+
+2024-06-06 13:05:28 (111 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 13:05:29--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     110K=0.03s
+
+2024-06-06 13:05:29 (110 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 13:05:30--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 172.67.70.4, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     112K=0.03s
+
+2024-06-06 13:05:30 (112 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 13:05:31--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.3.41, 104.26.2.41, 172.67.70.4, ...
+Connecting to 91porn.com (91porn.com)|104.26.3.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     112K=0.03s
+
+2024-06-06 13:05:31 (112 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 13:05:32--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 172.67.70.4, 104.26.2.41, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|172.67.70.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     112K=0.03s
+
+2024-06-06 13:05:32 (112 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 13:05:33--  http://91porn.com/
+Resolving 91porn.com (91porn.com)... 104.26.2.41, 172.67.70.4, 104.26.3.41, ...
+Connecting to 91porn.com (91porn.com)|104.26.2.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...                                                     111K=0.03s
+
+2024-06-06 13:05:33 (111 KB/s) - ‘indexPage’ saved [3424]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 22
+22

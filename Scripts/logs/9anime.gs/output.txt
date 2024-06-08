@@ -1,0 +1,1134 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 13:06:36--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 13:06:38--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 13:06:40--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 13:06:41--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 13:06:43--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 13:06:45--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 13:06:46--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 13:06:48--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 13:06:49--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 13:06:51--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 13:06:53--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 13:06:54--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 13:06:56--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 13:06:57--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 13:06:59--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 2, 2, 3, 2, 3, 3, 3, 3, 3, 3, 4, 3, 4, 3]
+[1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4]
+4 0
+4
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 13:07:01--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 13:07:02--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww25.9anime.gs/?subid1=20240607-0507-02b8-ba8d-e651ec54b69b [following]
+--2024-06-06 13:07:02--  http://ww25.9anime.gs/?subid1=20240607-0507-02b8-ba8d-e651ec54b69b
+Resolving ww25.9anime.gs (ww25.9anime.gs)... 199.59.243.225
+Connecting to ww25.9anime.gs (ww25.9anime.gs)|199.59.243.225|:80... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 13:07:04--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww25.9anime.gs/?subid1=20240607-0507-05d9-a1c6-a62df37587c9 [following]
+--2024-06-06 13:07:05--  http://ww25.9anime.gs/?subid1=20240607-0507-05d9-a1c6-a62df37587c9
+Resolving ww25.9anime.gs (ww25.9anime.gs)... 199.59.243.225
+Connecting to ww25.9anime.gs (ww25.9anime.gs)|199.59.243.225|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 13:07:06--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:07--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 13:07:08--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:08--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 13:07:10--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 13:07:11--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 13:07:13--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 13:07:14--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 13:07:15--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 13:07:16--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:16--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 13:07:18--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 13:07:19--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 13:07:20--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:20--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 13:07:22--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[3, 3, 2, 4, 2, 4, 2, 3, 1, 3, 3, 2, 2, 3, 2]
+[1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4]
+4 4
+8
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 13:07:23--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww25.9anime.gs/?subid1=20240607-0507-23ab-843e-fb929f2bc9cf [following]
+--2024-06-06 13:07:24--  http://ww25.9anime.gs/?subid1=20240607-0507-23ab-843e-fb929f2bc9cf
+Resolving ww25.9anime.gs (ww25.9anime.gs)... 199.59.243.225
+Connecting to ww25.9anime.gs (ww25.9anime.gs)|199.59.243.225|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 13:07:24--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:25--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 13:07:25--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:26--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 13:07:26--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:27--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 13:07:28--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:28--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 13:07:29--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:29--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 13:07:30--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:30--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 13:07:31--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:31--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 13:07:32--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:32--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 13:07:33--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:33--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 13:07:34--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:35--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 13:07:35--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:36--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 13:07:36--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:37--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 13:07:38--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:38--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 13:07:39--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:39--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 8
+9
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 13:07:40--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:40--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 13:07:41--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:41--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 13:07:42--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:42--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 13:07:43--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:43--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 13:07:44--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:45--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 13:07:45--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:46--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 13:07:46--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:47--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 13:07:48--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:48--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 13:07:49--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:49--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 13:07:50--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:50--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 13:07:51--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:51--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 13:07:52--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:52--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 13:07:53--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:53--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 13:07:54--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:55--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 13:07:55--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:56--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 9
+10
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 13:07:56--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:57--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 13:07:58--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:58--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 13:07:59--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:07:59--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 13:08:00--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww25.9anime.gs/?subid1=20240607-0508-007e-9749-b553d3ea1722 [following]
+--2024-06-06 13:08:00--  http://ww25.9anime.gs/?subid1=20240607-0508-007e-9749-b553d3ea1722
+Resolving ww25.9anime.gs (ww25.9anime.gs)... 199.59.243.225
+Connecting to ww25.9anime.gs (ww25.9anime.gs)|199.59.243.225|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 13:08:01--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:02--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 13:08:03--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:03--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 13:08:04--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:04--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 13:08:05--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:06--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 13:08:07--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:07--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 13:08:08--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:08--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 13:08:09--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:10--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 13:08:10--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:11--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 13:08:12--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:12--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 13:08:13--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:13--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 13:08:14--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:14--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 31, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 31]
+31 10
+41
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 13:08:15--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:16--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 13:08:17--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:18--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 13:08:19--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:19--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 13:08:21--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:21--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 13:08:22--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:23--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 13:08:24--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:25--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 13:08:26--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:26--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 13:08:28--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:28--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 13:08:29--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:30--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 13:08:31--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:32--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 13:08:33--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:33--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 13:08:35--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:35--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 13:08:37--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:37--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 13:08:38--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:39--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 13:08:40--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:41--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+[41, 44, 43, 43, 41, 43, 43, 43, 44, 43, 42, 43, 43, 42, 36]
+[36, 41, 41, 42, 42, 43, 43, 43, 43, 43, 43, 43, 43, 44, 44]
+44 41
+85
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 13:08:42--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:42--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       88.9K=0.2s
+
+2024-06-06 13:08:43 (88.9 KB/s) - ‘indexPage’ saved [16264]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 13:08:43--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:44--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       87.5K=0.2s
+
+2024-06-06 13:08:44 (87.5 KB/s) - ‘indexPage’ saved [16276]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 13:08:45--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:45--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       85.9K=0.2s
+
+2024-06-06 13:08:46 (85.9 KB/s) - ‘indexPage’ saved [16278]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 13:08:47--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww25.9anime.gs/?subid1=20240607-0508-479a-b77b-72fb9c4b743d [following]
+--2024-06-06 13:08:47--  http://ww25.9anime.gs/?subid1=20240607-0508-479a-b77b-72fb9c4b743d
+Resolving ww25.9anime.gs (ww25.9anime.gs)... 199.59.243.225
+Connecting to ww25.9anime.gs (ww25.9anime.gs)|199.59.243.225|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1170 (1.1K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  106K=0.01s
+
+2024-06-06 13:08:47 (106 KB/s) - ‘indexPage’ saved [1170/1170]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 13:08:48--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:48--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       88.0K=0.2s
+
+2024-06-06 13:08:49 (88.0 KB/s) - ‘indexPage’ saved [16276]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 13:08:49--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:50--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       87.1K=0.2s
+
+2024-06-06 13:08:50 (87.1 KB/s) - ‘indexPage’ saved [16276]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 13:08:51--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:51--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       86.4K=0.2s
+
+2024-06-06 13:08:52 (86.4 KB/s) - ‘indexPage’ saved [16276]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 13:08:53--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:53--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       87.0K=0.2s
+
+2024-06-06 13:08:54 (87.0 KB/s) - ‘indexPage’ saved [16264]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 13:08:54--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:55--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       88.2K=0.2s
+
+2024-06-06 13:08:55 (88.2 KB/s) - ‘indexPage’ saved [16276]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 13:08:56--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww25.9anime.gs/?subid1=20240607-0508-56e6-9632-8deac6fdbd49 [following]
+--2024-06-06 13:08:56--  http://ww25.9anime.gs/?subid1=20240607-0508-56e6-9632-8deac6fdbd49
+Resolving ww25.9anime.gs (ww25.9anime.gs)... 199.59.243.225
+Connecting to ww25.9anime.gs (ww25.9anime.gs)|199.59.243.225|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1170 (1.1K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  107K=0.01s
+
+2024-06-06 13:08:56 (107 KB/s) - ‘indexPage’ saved [1170/1170]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 13:08:57--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:57--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       87.4K=0.2s
+
+2024-06-06 13:08:58 (87.4 KB/s) - ‘indexPage’ saved [16278]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 13:08:59--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:08:59--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       88.0K=0.2s
+
+2024-06-06 13:09:00 (88.0 KB/s) - ‘indexPage’ saved [16268]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 13:09:00--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:09:01--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       87.7K=0.2s
+
+2024-06-06 13:09:01 (87.7 KB/s) - ‘indexPage’ saved [16276]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 13:09:02--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:09:02--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 13.248.148.254, 76.223.26.96
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|13.248.148.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       88.0K=0.2s
+
+2024-06-06 13:09:03 (88.0 KB/s) - ‘indexPage’ saved [16276]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 13:09:03--  http://9anime.gs/
+Resolving 9anime.gs (9anime.gs)... 103.224.182.253
+Connecting to 9anime.gs (9anime.gs)|103.224.182.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.9anime.gs/ [following]
+--2024-06-06 13:09:04--  http://ww38.9anime.gs/
+Resolving ww38.9anime.gs (ww38.9anime.gs)... 76.223.26.96, 13.248.148.254
+Connecting to ww38.9anime.gs (ww38.9anime.gs)|76.223.26.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....                                       87.1K=0.2s
+
+2024-06-06 13:09:05 (87.1 KB/s) - ‘indexPage’ saved [16276]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 85
+85

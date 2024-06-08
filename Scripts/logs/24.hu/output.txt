@@ -1,0 +1,3158 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 06:38:51--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 06:38:54--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 06:38:56--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 06:38:57--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 06:38:59--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 06:39:01--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 06:39:02--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 06:39:04--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 06:39:06--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 06:39:07--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 06:39:09--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 06:39:11--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 06:39:12--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 06:39:14--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 06:39:15--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 06:39:17--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 06:39:18--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 06:39:19--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 06:39:19--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 06:39:20--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 06:39:21--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 06:39:22--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 06:39:23--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 06:39:23--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 06:39:24--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 06:39:25--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 06:39:26--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 06:39:26--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 06:39:27--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 06:39:28--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 06:39:29--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 06:39:29--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 06:39:30--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 06:39:31--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 06:39:32--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 06:39:33--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 06:39:34--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 06:39:35--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 06:39:36--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 06:39:37--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 06:39:38--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 06:39:39--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 06:39:40--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 06:39:40--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 06:39:41--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 3, 3, 3, 1, 3, 3, 1, 1, 3, 3, 1, 1, 1, 3]
+[1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 3, 3]
+3 2
+5
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 06:39:42--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:39:43--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 06:39:43--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:39:44--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 06:39:45--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 06:39:46--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:39:47--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 06:39:48--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:39:48--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 06:39:50--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:39:50--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 06:39:51--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:39:51--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 06:39:53--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:39:53--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 06:39:55--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 06:39:56--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:39:57--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 06:39:57--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:39:58--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 06:39:58--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:39:59--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 06:40:00--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:00--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 06:40:02--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:03--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 06:40:03--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:04--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+[1, 2, 2, 1, 2, 1, 2, 2, 2, 1, 3, 2, 2, 1, 3]
+[1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3]
+3 5
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 06:40:05--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:05--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 06:40:06--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:06--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 06:40:07--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:08--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 06:40:09--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:09--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 06:40:10--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:10--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 06:40:11--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:11--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 06:40:12--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:12--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 06:40:13--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:13--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 06:40:15--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:15--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 06:40:16--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:17--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 06:40:17--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:18--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 06:40:19--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:19--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 06:40:20--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:21--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 06:40:21--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:22--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 06:40:22--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:23--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+Terminated
+[1, 20, 1, 1, 1, 21, 21, 1, 21, 1, 2, 21, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 20, 21, 21, 21, 21]
+21 8
+29
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 06:40:23--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:24--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 06:40:25--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:25--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 06:40:26--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:26--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 06:40:28--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:28--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 06:40:29--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:29--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 06:40:31--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:31--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 06:40:32--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:32--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 06:40:34--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:34--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 06:40:35--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:36--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 06:40:36--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:37--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 06:40:38--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:38--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 06:40:39--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:39--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 06:40:40--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:41--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 06:40:42--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:42--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 06:40:43--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:43--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+Terminated
+[1, 1, 2, 1, 1, 2, 5, 2, 1, 2, 1, 2, 1, 3, 2]
+[1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 5]
+5 29
+34
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 06:40:45--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:45--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 06:40:49--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:49--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 06:40:51--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:51--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 06:40:52--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:52--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 06:40:54--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:54--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 06:40:55--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:56--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 06:40:57--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:40:58--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 06:40:59--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:00--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 06:41:01--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:02--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 06:41:03--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:04--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 06:41:05--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:05--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 06:41:07--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:07--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 06:41:09--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:09--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 06:41:11--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:11--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 06:41:13--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:13--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[49, 47, 1, 44, 1, 45, 48, 47, 48, 1, 45, 48, 45, 45, 46]
+[1, 1, 1, 44, 45, 45, 45, 45, 46, 47, 47, 48, 48, 48, 49]
+49 34
+83
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 06:41:15--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:15--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 06:41:17--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:17--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 06:41:22--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:22--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 06:41:24--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:24--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 06:41:26--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:27--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 06:41:28--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:29--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 06:41:31--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:31--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 06:41:33--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:33--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 06:41:35--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:35--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 06:41:37--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:37--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 06:41:39--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:39--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 06:41:41--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:41--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 06:41:43--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:43--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 06:41:45--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:45--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 06:41:47--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:48--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[79, 81, 75, 81, 82, 83, 82, 78, 82, 81, 78, 76, 78, 82, 79]
+[75, 76, 78, 78, 78, 79, 79, 81, 81, 81, 82, 82, 82, 82, 83]
+83 83
+166
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 06:41:49--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:50--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 06:41:51--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:52--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 06:41:55--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:56--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 06:41:58--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:41:58--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 06:42:00--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:00--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 06:42:02--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:02--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 06:42:04--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:04--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 06:42:05--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:06--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 06:42:07--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:08--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 06:42:09--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:09--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 06:42:11--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:12--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 06:42:13--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:14--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 06:42:15--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:16--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 06:42:17--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:17--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 06:42:19--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:20--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .Terminated
+[81, 83, 84, 86, 86, 80, 81, 86, 83, 153, 83, 86, 81, 86, 83]
+[80, 81, 81, 81, 83, 83, 83, 83, 84, 86, 86, 86, 86, 86, 153]
+153 166
+319
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 06:42:21--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:21--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  176K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 06:42:24--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:24--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  199K
+    50K ......Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 06:42:30--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:31--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 06:42:33--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:33--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 06:42:36--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:36--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 06:42:38--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:39--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 06:42:41--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:41--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 06:42:44--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:44--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 84.1K
+    50K .......... ..Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 06:42:47--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:47--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  172K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 06:42:49--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:50--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 06:42:52--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:52--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 06:42:55--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:55--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 06:42:57--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:42:58--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 06:43:03--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:04--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 06:43:06--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:06--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... ...Terminated
+[167, 163, 169, 164, 163, 165, 163, 163, 164, 165, 163, 164, 163, 164, 164]
+[163, 163, 163, 163, 163, 163, 164, 164, 164, 164, 164, 165, 165, 167, 169]
+169 319
+488
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 06:43:09--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:09--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 06:43:12--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:12--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  161K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 06:43:15--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:16--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 06:43:18--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:19--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 06:43:22--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:22--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  163K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 06:43:26--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:26--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  169K
+    50K .......... .......... .......... .......... ......Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 06:43:30--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:30--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  176K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 06:43:37--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:37--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 06:43:40--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:40--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 06:43:43--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:44--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 06:43:47--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:48--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 06:43:52--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:52--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  163K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 06:43:55--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:55--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 06:43:59--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:43:59--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 06:44:02--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:03--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... .....Terminated
+[166, 165, 167, 165, 187, 185, 171, 165, 168, 187, 185, 164, 187, 165, 187]
+[164, 165, 165, 165, 165, 166, 167, 168, 171, 185, 185, 187, 187, 187, 187]
+187 488
+675
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 06:44:07--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:07--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  165K
+    50K .......... .......... .......... .......... ..........  148K
+   100K .......... .......... .......... .......... ..........  112KTerminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-06 06:44:13--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:14--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-06 06:44:18--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:18--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-06 06:44:21--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:22--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-06 06:44:26--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:26--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  163K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-06 06:44:29--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:30--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  165K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-06 06:44:34--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:34--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-06 06:44:38--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:38--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 84.0K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .......... .......... ..Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-06 06:44:42--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:43--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-06 06:44:51--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:52--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-06 06:44:55--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:55--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... ..........  117K
+   100K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-06 06:44:58--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:44:59--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  158K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-06 06:45:02--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:02--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-06 06:45:07--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:07--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-06 06:45:11--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:12--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ...Terminated
+[139, 185, 139, 187, 137, 187, 164, 185, 193, 166, 167, 115, 187, 187, 137]
+[115, 137, 137, 139, 139, 164, 166, 167, 185, 185, 187, 187, 187, 187, 193]
+193 675
+868
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-06 06:45:15--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:15--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-06 06:45:18--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:19--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  214K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... ..........Terminated
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-06 06:45:25--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:26--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  172K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-06 06:45:29--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:29--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-06 06:45:33--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:33--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  163K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-06 06:45:37--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:37--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  117K
+   100K .......... .......... .......... .......... ..........  119K
+   150K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-06 06:45:42--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:42--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  164K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-06 06:45:46--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:46--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... ..........  117K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-06 06:45:49--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:50--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-06 06:45:53--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:45:54--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  135K
+   100K .......... .......... .......... .......... ..........  100K
+   150K .......... .......... .......... ....Terminated
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-06 06:46:02--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:03--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  162K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-06 06:46:06--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:06--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  156K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-06 06:46:10--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:10--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... ..........  117K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-06 06:46:14--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:14--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  165K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-06 06:46:17--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:18--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  169K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .Terminated
+[121, 117, 121, 117, 115, 191, 117, 121, 119, 185, 115, 115, 119, 115, 117]
+[115, 115, 115, 115, 117, 117, 117, 117, 119, 119, 121, 121, 121, 185, 191]
+191 868
+1059
+--------------------------------- RTT-14, TRIAL-1 ----------------------
+--2024-06-06 06:46:21--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:22--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  172K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-2 ----------------------
+--2024-06-06 06:46:26--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:26--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  169K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-3 ----------------------
+--2024-06-06 06:46:30--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:30--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  167K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-4 ----------------------
+--2024-06-06 06:46:37--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:38--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-5 ----------------------
+--2024-06-06 06:46:41--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:42--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  163K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-6 ----------------------
+--2024-06-06 06:46:46--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:46--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-7 ----------------------
+--2024-06-06 06:46:50--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:50--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  165K
+    50K .......... .......... .......... .......... ..........  117K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-8 ----------------------
+--2024-06-06 06:46:54--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:54--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  167K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  117K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-9 ----------------------
+--2024-06-06 06:46:58--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:46:59--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-10 ----------------------
+--2024-06-06 06:47:03--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:47:03--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-11 ----------------------
+--2024-06-06 06:47:07--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:47:07--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 87.8K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  126K
+   150K .......... .......... .......... .......... ..........  100K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-12 ----------------------
+--2024-06-06 06:47:14--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:47:15--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  165K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-13 ----------------------
+--2024-06-06 06:47:18--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:47:19--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-14 ----------------------
+--2024-06-06 06:47:23--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:47:23--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  113K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-15 ----------------------
+--2024-06-06 06:47:27--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:47:27--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  172K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .........Terminated
+[117, 117, 115, 115, 117, 115, 119, 121, 117, 117, 119, 119, 117, 117, 115]
+[115, 115, 115, 115, 117, 117, 117, 117, 117, 117, 117, 119, 119, 119, 121]
+121 1059
+1180
+--------------------------------- RTT-15, TRIAL-1 ----------------------
+--2024-06-06 06:47:31--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:47:32--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .Terminated
+--------------------------------- RTT-15, TRIAL-2 ----------------------
+--2024-06-06 06:47:36--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:47:36--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .Terminated
+--------------------------------- RTT-15, TRIAL-3 ----------------------
+--2024-06-06 06:47:40--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:47:40--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.4K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .Terminated
+--------------------------------- RTT-15, TRIAL-4 ----------------------
+--2024-06-06 06:47:47--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:47:47--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .....Terminated
+--------------------------------- RTT-15, TRIAL-5 ----------------------
+--2024-06-06 06:47:52--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:47:52--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  167K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .Terminated
+--------------------------------- RTT-15, TRIAL-6 ----------------------
+--2024-06-06 06:47:56--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:47:56--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  158K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .....Terminated
+--------------------------------- RTT-15, TRIAL-7 ----------------------
+--2024-06-06 06:48:01--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:48:01--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  119K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .Terminated
+--------------------------------- RTT-15, TRIAL-8 ----------------------
+--2024-06-06 06:48:05--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:48:05--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .Terminated
+--------------------------------- RTT-15, TRIAL-9 ----------------------
+--2024-06-06 06:48:10--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:48:10--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .Terminated
+--------------------------------- RTT-15, TRIAL-10 ----------------------
+--2024-06-06 06:48:14--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:48:14--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 83.0K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .Terminated
+--------------------------------- RTT-15, TRIAL-11 ----------------------
+--2024-06-06 06:48:21--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:48:21--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .Terminated
+--------------------------------- RTT-15, TRIAL-12 ----------------------
+--2024-06-06 06:48:25--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:48:25--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .Terminated
+--------------------------------- RTT-15, TRIAL-13 ----------------------
+--2024-06-06 06:48:30--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:48:30--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  150K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .....Terminated
+--------------------------------- RTT-15, TRIAL-14 ----------------------
+--2024-06-06 06:48:34--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.28, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:48:34--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .Terminated
+--------------------------------- RTT-15, TRIAL-15 ----------------------
+--2024-06-06 06:48:39--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:48:39--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  116K
+   250K .......... .......... .Terminated
+[115, 115, 115, 121, 115, 115, 137, 119, 115, 115, 117, 119, 119, 119, 117]
+[115, 115, 115, 115, 115, 115, 115, 117, 117, 119, 119, 119, 119, 121, 137]
+137 1180
+1317
+--------------------------------- RTT-16, TRIAL-1 ----------------------
+--2024-06-06 06:48:43--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:48:43--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .......... .......... ..........  116K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-2 ----------------------
+--2024-06-06 06:48:47--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:48:48--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  176K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .......... .......... ..........  115K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-3 ----------------------
+--2024-06-06 06:48:55--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:48:56--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .......... ..........  116K
+   250K .......... .......... .......... .......... ..........  118K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-4 ----------------------
+--2024-06-06 06:49:00--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:00--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .......... .......... ..........  115K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-5 ----------------------
+--2024-06-06 06:49:04--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:04--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  162K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .......... .......... ..........  116K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-6 ----------------------
+--2024-06-06 06:49:08--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:09--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  116K
+   250K .......... .......... .......... .......... ..........  114K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-7 ----------------------
+--2024-06-06 06:49:13--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:13--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  175K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .......... .......... ..........  116K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-8 ----------------------
+--2024-06-06 06:49:17--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:18--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .......... .......... ..........  114K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-9 ----------------------
+--2024-06-06 06:49:22--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:22--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  266K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  111K
+   200K .......... .......... .......... .......... .......... 99.9K
+   250K .......... .......... .......... .......... ..........  116K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-10 ----------------------
+--2024-06-06 06:49:29--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:30--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .......... .......... ..........  115K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-11 ----------------------
+--2024-06-06 06:49:34--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:34--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  116K
+   250K .......... .......... .......... .......... ..........  117K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-12 ----------------------
+--2024-06-06 06:49:38--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:38--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  116K
+   250K .......... .......... .......... .......... ..........  119K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-13 ----------------------
+--2024-06-06 06:49:42--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:43--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  176K
+    50K .......... .......... .......... .......... ..........  119K
+   100K .......... .......... .......... .......... ..........  119K
+   150K .......... .......... .......... .......... ..........  118K
+   200K .......... .......... .......... .......... ..........  116K
+   250K .......... .......... .......... .......... ..........  116K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-14 ----------------------
+--2024-06-06 06:49:47--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:47--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .......... .......... ..........  115K
+   300K ...Terminated
+--------------------------------- RTT-16, TRIAL-15 ----------------------
+--2024-06-06 06:49:51--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.126, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:52--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  164K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .......... .......... ..........  115K
+   300K ...Terminated
+[83, 80, 82, 82, 84, 82, 80, 81, 86, 83, 82, 82, 82, 81, 84]
+[80, 80, 81, 81, 82, 82, 82, 82, 82, 82, 83, 83, 84, 84, 86]
+86 1317
+1403
+--------------------------------- RTT-17, TRIAL-1 ----------------------
+--2024-06-06 06:49:56--  http://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.25, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24.hu/ [following]
+--2024-06-06 06:49:56--  https://24.hu/
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  179K
+    50K .......... .......... .......... .......... ..........  119K
+   100K .......... .......... .......... .......... ..........  140K
+   150K .......... .......... .......... .......... ..........  103K
+   200K .......... .......... .......... .......... ..........  118K
+   250K .......... .......... .......... .......... ..........  117K
+   300K .......... .......... ...                               127K=2.6s
+
+2024-06-06 06:50:03 (125 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:04--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  177K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... ...                               128K=2.6s
+
+2024-06-06 06:50:07 (123 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:08--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  186K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... ...                               129K=2.6s
+
+2024-06-06 06:50:11 (123 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:12--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.23, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  189K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... ...                               129K=2.6s
+
+2024-06-06 06:50:15 (123 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:16--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  186K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... ...                               128K=2.6s
+
+2024-06-06 06:50:19 (123 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:20--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.126, 18.65.3.28, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  179K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... ...                               128K=2.7s
+
+2024-06-06 06:50:24 (122 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:24--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  177K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... ...                               128K=2.6s
+
+2024-06-06 06:50:28 (123 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:28--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  189K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... ...                               128K=2.6s
+
+2024-06-06 06:50:32 (123 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:32--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  188K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  113K
+   200K .......... .......... .......... .......... ..........  118K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... ...                               126K=2.6s
+
+2024-06-06 06:50:38 (123 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:39--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  195K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  117K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... ...                               129K=2.6s
+
+2024-06-06 06:50:42 (124 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:43--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.126, 18.65.3.23, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  187K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... ...                               128K=2.6s
+
+2024-06-06 06:50:47 (122 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:47--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... ...                               128K=2.7s
+
+2024-06-06 06:50:51 (122 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:51--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.23, 18.65.3.25, 18.65.3.28, ...
+Connecting to 24.hu (24.hu)|18.65.3.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  191K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  117K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .......... ..........  119K
+   250K .......... .......... .......... .......... ..........  118K
+   300K .......... .......... ...                               133K=2.6s
+
+2024-06-06 06:50:55 (126 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:50:55--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.28, 18.65.3.23, 18.65.3.25, ...
+Connecting to 24.hu (24.hu)|18.65.3.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  186K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... ...                               129K=2.6s
+
+2024-06-06 06:50:59 (123 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 06:51:00--  https://24.hu/
+Resolving 24.hu (24.hu)... 18.65.3.25, 18.65.3.28, 18.65.3.126, ...
+Connecting to 24.hu (24.hu)|18.65.3.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  183K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  118K
+   150K .......... .......... .......... .......... ..........  118K
+   200K .......... .......... .......... .......... ..........  117K
+   250K .......... .......... .......... .......... ..........  117K
+   300K .......... .......... ...                               130K=2.6s
+
+2024-06-06 06:51:03 (125 KB/s) - ‘indexPage’ saved [331578]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 1403
+1403

@@ -1,0 +1,2106 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-07 06:57:21--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-07 06:57:22--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.70, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-07 06:57:24--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-07 06:57:26--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-07 06:57:27--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-07 06:57:29--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-07 06:57:31--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-07 06:57:32--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-07 06:57:34--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-07 06:57:36--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.70, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-07 06:57:37--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-07 06:57:39--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-07 06:57:41--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-07 06:57:42--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-07 06:57:44--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-07 06:57:45--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.70, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-07 06:57:46--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-07 06:57:47--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-07 06:57:48--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-07 06:57:49--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-07 06:57:49--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-07 06:57:50--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-07 06:57:51--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-07 06:57:52--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-07 06:57:52--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-07 06:57:53--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-07 06:57:54--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-07 06:57:55--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-07 06:57:55--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-07 06:57:56--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-07 06:57:57--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-07 06:57:58--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-07 06:57:59--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-07 06:58:00--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-07 06:58:00--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-07 06:58:01--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-07 06:58:02--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-07 06:58:03--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-07 06:58:03--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-07 06:58:04--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-07 06:58:05--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-07 06:58:06--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-07 06:58:06--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-07 06:58:07--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.70, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-07 06:58:08--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 3, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3]
+3 2
+5
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-07 06:58:09--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-07 06:58:10--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-07 06:58:11--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:12--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-07 06:58:12--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-07 06:58:13--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-07 06:58:14--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-07 06:58:15--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-07 06:58:16--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-07 06:58:17--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-07 06:58:18--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-07 06:58:19--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-07 06:58:20--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:20--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-07 06:58:22--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-07 06:58:23--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-07 06:58:24--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 3, 1, 3, 2, 3, 1, 3, 3, 3, 1, 1, 2, 3, 3]
+[1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3]
+3 5
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-07 06:58:25--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:25--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-07 06:58:26--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:26--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-07 06:58:27--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:27--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-07 06:58:28--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:29--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-07 06:58:29--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:30--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-07 06:58:30--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:31--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-07 06:58:32--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:33--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-07 06:58:33--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:34--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-07 06:58:35--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:35--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-07 06:58:36--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:37--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-07 06:58:38--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:38--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-07 06:58:39--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:39--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-07 06:58:40--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:40--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-07 06:58:41--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:41--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-07 06:58:42--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:42--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 2, 24, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 24]
+24 8
+32
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-07 06:58:44--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:44--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-07 06:58:45--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:45--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-07 06:58:46--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:47--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-07 06:58:48--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:48--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-07 06:58:49--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:50--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-07 06:58:50--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:51--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-07 06:58:52--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:52--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-07 06:58:53--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.70, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:54--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-07 06:58:55--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:55--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-07 06:58:56--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:57--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-07 06:58:58--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:58:58--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-07 06:58:59--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:00--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-07 06:59:01--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:01--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-07 06:59:02--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.70, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:03--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-07 06:59:04--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:04--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+Terminated
+[1, 7, 4, 2, 1, 5, 7, 7, 2, 2, 3, 6, 5, 4, 2]
+[1, 1, 2, 2, 2, 2, 3, 4, 4, 5, 5, 6, 7, 7, 7]
+7 32
+39
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-07 06:59:05--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:06--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-07 06:59:08--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:08--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-07 06:59:09--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:10--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-07 06:59:11--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:11--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-07 06:59:13--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:13--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-07 06:59:15--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:16--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-07 06:59:18--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:18--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-07 06:59:19--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:20--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 06:59:21--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-07 06:59:22--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:22--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-07 06:59:23--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:24--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-07 06:59:25--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:25--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 06:59:26--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-07 06:59:27--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:27--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-07 06:59:28--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:29--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-07 06:59:30--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:30--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 06:59:31--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-07 06:59:32--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:32--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 1, 1, 3, 3, 3, 1, 1, 1, 1, 2, 3, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3]
+3 39
+42
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-07 06:59:33--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:34--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-07 06:59:36--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:36--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-07 06:59:38--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:38--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 06:59:39--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-07 06:59:41--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:42--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 06:59:43--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-07 06:59:45--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:45--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 06:59:46--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-07 06:59:48--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:49--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 06:59:49--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-07 06:59:51--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:52--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 06:59:53--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-07 06:59:54--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:54--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 06:59:56--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-07 06:59:56--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:57--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 06:59:58--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-07 06:59:58--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 06:59:59--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-07 07:00:00--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:01--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:02--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-07 07:00:03--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:03--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-07 07:00:04--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:05--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:06--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-07 07:00:08--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:08--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:09--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-07 07:00:10--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:10--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:11--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+[3, 3, 7, 4, 6, 7, 1, 1, 2, 2, 2, 3, 8, 1, 8]
+[1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 6, 7, 7, 8, 8]
+8 42
+50
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-07 07:00:13--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:13--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:14--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-07 07:00:16--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:17--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:18--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-07 07:00:19--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:19--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:20--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-07 07:00:22--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:22--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:23--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-07 07:00:25--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.70, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:25--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:26--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-07 07:00:27--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:28--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:28--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:00:29--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-07 07:00:30--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:30--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:31--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:00:32--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-07 07:00:32--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:33--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:33--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:00:34--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-07 07:00:35--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:35--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:36--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:00:37--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-07 07:00:38--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:38--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:39--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-07 07:00:41--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:41--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:42--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:00:44--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-07 07:00:44--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:44--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:45--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-07 07:00:46--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:47--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:48--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-07 07:00:50--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:50--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:51--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:00:52--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-07 07:00:52--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:53--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:54--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+[2, 4, 4, 3, 2, 1, 1, 1, 1, 4, 1, 3, 3, 1, 3]
+[1, 1, 1, 1, 1, 1, 2, 2, 3, 3, 3, 3, 4, 4, 4]
+4 50
+54
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-07 07:00:56--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:00:56--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:00:57--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:00:58--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-07 07:01:00--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.70, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:00--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:01--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:02--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-07 07:01:03--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:03--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:04--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:05--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-07 07:01:06--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:06--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:07--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:16--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-07 07:01:16--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:17--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:18--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:19--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-07 07:01:19--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:20--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:20--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:21--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-07 07:01:22--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:22--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:23--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:24--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-07 07:01:25--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:26--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:27--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-07 07:01:29--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:29--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:30--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:31--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-07 07:01:32--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:32--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:33--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:34--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-07 07:01:35--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:36--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:37--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:38--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-07 07:01:38--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:39--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:40--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-07 07:01:42--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:42--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:43--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:44--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-07 07:01:45--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:45--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:47--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:47--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-07 07:01:49--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:49--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:50--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:51--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+[13, 1, 1, 1, 1, 1, 1, 3, 1, 1, 1, 2, 1, 12, 13]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3, 12, 13, 13]
+13 54
+67
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-07 07:01:52--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:53--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:54--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:55--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-07 07:01:56--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:01:57--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:01:58--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:01:59--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  688M=0s
+
+2024-06-07 07:01:59 (688 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-07 07:02:00--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:00--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:01--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:02--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  619M=0s
+
+2024-06-07 07:02:03 (619 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-07 07:02:03--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:04--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:05--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:06--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-07 07:02:07--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.70, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:08--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:09--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:10--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  678M=0s
+
+2024-06-07 07:02:11 (678 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-07 07:02:12--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:12--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:13--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:14--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-07 07:02:15--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:16--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:17--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:18--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-07 07:02:20--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:20--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:21--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:22--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-07 07:02:23--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:24--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:25--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:26--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  668M=0s
+
+2024-06-07 07:02:27 (668 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-07 07:02:27--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.96, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:28--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:29--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:30--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  609M=0s
+
+2024-06-07 07:02:31 (609 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-07 07:02:31--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:32--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:33--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:33--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-07 07:02:35--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.70, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:35--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:37--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:37--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-07 07:02:39--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:40--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:40--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:41--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100% 1.15G=0s
+
+2024-06-07 07:02:42 (1.15 GB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-07 07:02:43--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:43--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:44--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:45--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-07 07:02:47--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:47--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:48--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:49--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  673M=0s
+
+2024-06-07 07:02:49 (673 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+[3, 0, 0, 4, 1, 6, 6, 13, 0, 1, 4, 2, 0, 6, 0]
+[0, 0, 0, 0, 0, 1, 1, 2, 3, 4, 4, 6, 6, 6, 13]
+13 67
+80
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-07 07:02:50--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.70, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:50--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:52--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:52--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  611M=0s
+
+2024-06-07 07:02:53 (611 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-07 07:02:54--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:54--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:55--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:56--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  626M=0s
+
+2024-06-07 07:02:57 (626 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-07 07:02:57--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:02:58--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:02:59--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:02:59--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  699M=0s
+
+2024-06-07 07:03:00 (699 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-07 07:03:01--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:03:01--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:03:02--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:03:03--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  704M=0s
+
+2024-06-07 07:03:04 (704 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-07 07:03:04--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:03:05--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:03:06--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:03:07--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  639M=0s
+
+2024-06-07 07:03:08 (639 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-07 07:03:08--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:03:09--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:03:10--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:03:10--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100% 1.25G=0s
+
+2024-06-07 07:03:11 (1.25 GB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-07 07:03:12--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:03:12--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:03:13--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:03:14--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  688M=0s
+
+2024-06-07 07:03:15 (688 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-07 07:03:16--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:03:16--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:03:17--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:03:18--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  673M=0s
+
+2024-06-07 07:03:19 (673 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-07 07:03:20--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:03:20--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:03:21--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:03:22--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  636M=0s
+
+2024-06-07 07:03:23 (636 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-07 07:03:23--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.64, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:03:23--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:03:24--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:03:25--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100% 1.35G=0s
+
+2024-06-07 07:03:26 (1.35 GB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-07 07:03:26--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:03:26--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:03:28--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:03:29--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  572M=0s
+
+2024-06-07 07:03:29 (572 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-07 07:03:30--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.42, 13.226.228.96, 13.226.228.70, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:03:30--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.42|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:03:31--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:03:32--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  575M=0s
+
+2024-06-07 07:03:33 (575 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-07 07:03:34--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.96, 13.226.228.64, 13.226.228.42, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:03:34--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.96|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:03:35--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:03:36--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  661M=0s
+
+2024-06-07 07:03:37 (661 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-07 07:03:37--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.70, 13.226.228.42, 13.226.228.64, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:03:38--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:03:39--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:03:39--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  605M=0s
+
+2024-06-07 07:03:40 (605 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-07 07:03:41--  http://admin.bigbasket.com/
+Resolving admin.bigbasket.com (admin.bigbasket.com)... 13.226.228.64, 13.226.228.42, 13.226.228.96, ...
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/ [following]
+--2024-06-07 07:03:41--  https://admin.bigbasket.com/
+Connecting to admin.bigbasket.com (admin.bigbasket.com)|13.226.228.64|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://admin.bigbasket.com/admin/ [following]
+--2024-06-07 07:03:42--  https://admin.bigbasket.com/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /admin/login/?next=/admin/ [following]
+--2024-06-07 07:03:43--  https://admin.bigbasket.com/admin/login/?next=/admin/
+Reusing existing connection to admin.bigbasket.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1952 (1.9K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  383M=0s
+
+2024-06-07 07:03:44 (383 MB/s) - ‘indexPage’ saved [1952/1952]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 80
+80

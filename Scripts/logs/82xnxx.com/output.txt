@@ -1,0 +1,1789 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 12:50:53--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 12:50:54--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 12:50:56--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 12:50:58--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 12:50:59--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 12:51:01--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 12:51:03--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 12:51:04--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 12:51:06--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 12:51:08--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 12:51:09--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 12:51:11--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 12:51:12--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 12:51:14--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 12:51:16--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 12:51:17--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 12:51:18--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 12:51:19--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 12:51:20--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 12:51:21--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 12:51:21--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 12:51:22--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 12:51:23--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 12:51:24--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 12:51:24--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 12:51:25--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 12:51:26--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 12:51:27--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 12:51:28--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 12:51:28--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 12:51:29--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 12:51:30--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 12:51:31--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 12:51:32--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 12:51:33--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 12:51:34--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 12:51:35--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 12:51:35--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 12:51:36--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 12:51:37--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 12:51:38--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 12:51:39--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 12:51:40--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 12:51:41--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 12:51:42--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 1, 4, 1, 4, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4]
+[1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 12:51:43--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:51:43--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 12:51:45--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:51:46--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 12:51:46--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:51:47--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 12:51:47--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:51:48--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 12:51:49--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:51:49--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 12:51:50--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:51:51--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 12:51:52--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:51:53--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 12:51:53--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:51:54--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 12:51:54--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:51:55--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 12:51:56--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:51:57--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 12:51:57--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:51:58--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 12:51:59--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:51:59--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 12:52:00--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:00--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 12:52:02--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:03--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 12:52:03--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:04--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... Terminated
+[1, 1, 2, 2, 2, 1, 2, 2, 2, 1, 2, 2, 2, 1, 2]
+[1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 12:52:04--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:05--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 12:52:05--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:06--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 12:52:07--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:07--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 12:52:08--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:08--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 12:52:09--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:09--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 12:52:10--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:10--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 12:52:11--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:11--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 12:52:12--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:12--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 12:52:13--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:13--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 12:52:14--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:14--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 12:52:15--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:15--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 12:52:16--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:17--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 12:52:17--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:18--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 12:52:18--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:19--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 12:52:20--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:20--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+[1, 19, 1, 1, 1, 1, 1, 1, 1, 1, 19, 1, 1, 19, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19, 19, 19]
+19 8
+27
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 12:52:21--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:21--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 12:52:22--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:23--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 12:52:24--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:24--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 12:52:25--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:26--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 12:52:27--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:27--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 12:52:28--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:29--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 12:52:30--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:30--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 12:52:32--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:32--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 12:52:33--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:33--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 12:52:35--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:35--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 12:52:36--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:36--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 12:52:38--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:38--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 12:52:39--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:39--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 12:52:41--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:41--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 12:52:42--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:43--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 2, 3, 3, 2, 1, 1, 1, 1, 2]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3]
+3 27
+30
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 12:52:44--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:44--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 12:52:46--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:46--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 12:52:47--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:48--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 12:52:49--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:49--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 12:52:50--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:51--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 12:52:52--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:52--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 12:52:53--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:54--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 12:52:55--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:55--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 12:52:56--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:56--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 12:52:58--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:52:58--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 12:52:59--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:00--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 12:53:01--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:01--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 12:53:02--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:02--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 12:53:04--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:04--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 12:53:05--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:05--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[128, 2, 1, 2, 2, 1, 2, 0, 1, 1, 1, 0, 1, 1, 1]
+[0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 128]
+128 30
+158
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 12:53:06--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:06--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 12:53:07--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:08--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 12:53:09--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:09--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 12:53:10--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:10--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 12:53:13--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:13--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 12:53:15--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:15--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 12:53:16--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:17--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 12:53:18--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:19--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 12:53:20--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:21--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 12:53:22--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:22--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 12:53:24--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:24--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 12:53:25--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:26--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 12:53:27--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:28--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 12:53:29--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:29--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 12:53:30--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:31--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 132, 0, 0, 0, 129, 0, 130, 0, 129, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 129, 129, 130, 132]
+132 158
+290
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 12:53:32--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:32--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 12:53:33--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:34--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 12:53:35--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:35--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 12:53:37--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:37--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  101K
+    50K ........Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 12:53:39--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:40--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  125K
+    50K ........Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 12:53:42--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:43--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K ........Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 12:53:45--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:46--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 12:53:47--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:47--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 12:53:48--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:48--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K ........Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 12:53:51--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:51--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 12:53:52--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:53--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K ........Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 12:53:55--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:56--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 12:53:57--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:53:57--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K ........Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 12:54:00--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:00--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 12:54:01--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:02--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K ........Terminated
+[0, 0, 0, 166, 166, 164, 0, 0, 164, 0, 166, 0, 169, 0, 166]
+[0, 0, 0, 0, 0, 0, 0, 0, 164, 164, 166, 166, 166, 166, 169]
+169 290
+459
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 12:54:05--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:05--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 12:54:06--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:07--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 12:54:08--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:09--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 12:54:12--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:12--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 12:54:13--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:13--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 12:54:14--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:15--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 12:54:16--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:16--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 12:54:17--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:17--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 12:54:19--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:19--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 12:54:20--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:20--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 12:54:22--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:22--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 12:54:25--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:25--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 12:54:28--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:29--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 12:54:30--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:30--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 12:54:33--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:34--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 103, 0, 0, 0, 0, 0, 0, 0, 102, 101, 0, 103, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 102, 103, 103]
+103 459
+562
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 12:54:35--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:35--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 12:54:36--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:36--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 12:54:38--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:38--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... ..                               25.4K=1.9s
+
+2024-06-06 12:54:41 (66.3 KB/s) - ‘indexPage’ saved [125937]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 12:54:41--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:42--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 12:54:43--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:43--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 12:54:44--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:45--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 12:54:46--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:46--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 12:54:47--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:48--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 12:54:49--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:50--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... ..........Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 12:54:53--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:53--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 12:54:54--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:55--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 12:54:56--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:56--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... ..                                131K=1.1s
+
+2024-06-06 12:54:58 (110 KB/s) - ‘indexPage’ saved [125937]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 12:54:58--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:54:59--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  157K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... ..                                132K=1.0s
+
+2024-06-06 12:55:00 (127 KB/s) - ‘indexPage’ saved [125937]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 12:55:01--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:01--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 12:55:02--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:03--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  301K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... ..                                130K=0.8s
+
+2024-06-06 12:55:04 (149 KB/s) - ‘indexPage’ saved [125937]
+
+wget: no process found
+[0, 0, 1, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3]
+3 562
+565
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 12:55:05--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:05--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-06 12:55:06--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:07--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-06 12:55:08--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:08--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... ..                                131K=1.1s
+
+2024-06-06 12:55:10 (110 KB/s) - ‘indexPage’ saved [125937]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-06 12:55:11--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:11--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-06 12:55:12--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:12--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-06 12:55:14--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:14--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-06 12:55:15--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:15--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-06 12:55:17--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:17--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-06 12:55:19--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:19--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-06 12:55:20--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:21--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... ..                                131K=1.1s
+
+2024-06-06 12:55:23 (109 KB/s) - ‘indexPage’ saved [125937]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-06 12:55:23--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:24--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-06 12:55:25--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:25--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-06 12:55:26--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 104.21.15.241, 172.67.208.211, 2606:4700:3031::6815:ff1, ...
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:27--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|104.21.15.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... ..                                130K=1.1s
+
+2024-06-06 12:55:29 (109 KB/s) - ‘indexPage’ saved [125937]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-06 12:55:29--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:30--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-06 12:55:31--  http://82xnxx.com/
+Resolving 82xnxx.com (82xnxx.com)... 172.67.208.211, 104.21.15.241, 2606:4700:3033::ac43:d0d3, ...
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://82xnxx.com/ [following]
+--2024-06-06 12:55:31--  https://82xnxx.com/
+Connecting to 82xnxx.com (82xnxx.com)|172.67.208.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 565
+565

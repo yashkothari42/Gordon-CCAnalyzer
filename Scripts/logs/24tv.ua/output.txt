@@ -1,0 +1,3776 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 07:12:19--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 07:12:21--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 07:12:22--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 07:12:24--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 07:12:26--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 07:12:27--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 07:12:29--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 07:12:31--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 07:12:32--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 07:12:34--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 07:12:35--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 07:12:37--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 07:12:39--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 07:12:40--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 07:12:42--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 07:12:44--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 07:12:45--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 07:12:45--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 07:12:46--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 07:12:47--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 07:12:48--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 07:12:48--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 07:12:49--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 07:12:50--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 07:12:51--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 07:12:52--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 07:12:52--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 07:12:53--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 07:12:54--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 07:12:55--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 07:12:55--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 07:12:56--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 07:12:57--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 07:12:58--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 07:12:59--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 07:13:00--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 07:13:00--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 07:13:02--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 07:13:02--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 07:13:03--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 07:13:04--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 07:13:05--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 07:13:06--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 07:13:07--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 07:13:08--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 3, 1, 1, 1, 3, 1, 1, 3, 1, 1, 1, 3, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3]
+3 2
+5
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 07:13:08--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:09--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 07:13:10--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:11--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 07:13:12--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:12--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 07:13:13--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:14--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 07:13:14--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:15--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 07:13:16--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:16--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 07:13:18--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:19--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 07:13:19--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:20--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 07:13:21--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:22--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 07:13:23--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:24--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 07:13:24--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:25--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 07:13:26--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 07:13:27--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:28--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 07:13:28--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:29--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 07:13:30--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:31--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... Terminated
+[1, 1, 2, 2, 2, 1, 1, 2, 1, 1, 2, 3, 1, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3]
+3 5
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 07:13:31--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:32--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 07:13:32--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:33--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 07:13:33--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:34--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 07:13:35--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:35--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 07:13:36--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:36--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 07:13:37--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:37--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 07:13:38--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:39--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 07:13:39--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:40--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 07:13:40--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:41--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 07:13:42--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:42--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 07:13:43--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:43--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 07:13:44--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:44--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 07:13:45--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:45--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 07:13:46--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:46--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 07:13:47--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:47--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+Terminated
+[1, 1, 1, 19, 1, 19, 1, 1, 19, 1, 1, 1, 1, 19, 19]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19, 19, 19, 19, 19]
+19 8
+27
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 07:13:48--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:49--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 07:13:50--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:50--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 07:13:51--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:52--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 07:13:53--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:53--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 07:13:55--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:55--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 07:13:56--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:57--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 07:13:58--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:58--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 07:13:59--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:13:59--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 07:14:00--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:01--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 07:14:02--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:02--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 07:14:03--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:03--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 07:14:05--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:05--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 07:14:06--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:06--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 07:14:07--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:08--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 07:14:09--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:09--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+Terminated
+[1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2]
+2 27
+29
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 07:14:10--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:11--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 07:14:12--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:12--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 07:14:13--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:14--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 07:14:15--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:15--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 07:14:17--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:17--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 07:14:19--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:20--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 07:14:21--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:21--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 07:14:22--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:23--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 07:14:24--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:24--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 07:14:25--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:26--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 07:14:27--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:27--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 07:14:28--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:28--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 07:14:29--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:30--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 07:14:31--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:31--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 07:14:33--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:33--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 1, 1, 1, 159, 2, 1, 0, 0, 0, 1, 0, 1, 1, 2]
+[0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 159]
+159 29
+188
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 07:14:34--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:35--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ....Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 07:14:37--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:37--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 07:14:39--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:39--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 07:14:41--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:41--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 07:14:42--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:42--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ....Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 07:14:45--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:45--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 07:14:46--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:47--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ....Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 07:14:49--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:49--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ....Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 07:14:51--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:51--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 07:14:53--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:53--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 07:14:54--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:55--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 07:14:56--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:56--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 07:14:57--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:14:58--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 07:14:59--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:00--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 07:15:01--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:01--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ....Terminated
+[169, 0, 0, 0, 164, 0, 188, 161, 0, 0, 0, 0, 0, 0, 169]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 161, 164, 169, 169, 188]
+188 188
+376
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 07:15:04--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:05--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 07:15:06--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:06--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 07:15:08--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:08--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 07:15:09--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:09--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... ......Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 07:15:12--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:13--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... ......Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 07:15:16--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:16--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 07:15:17--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:18--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 07:15:19--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:19--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 07:15:21--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:21--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 07:15:23--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:23--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 07:15:25--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:25--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 07:15:27--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:27--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 07:15:28--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:29--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 07:15:30--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:31--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 07:15:32--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:32--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  101K
+    50K .......... .......... .....Terminated
+[0, 0, 0, 190, 174, 0, 0, 0, 0, 0, 0, 0, 0, 0, 170]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 170, 174, 190]
+190 376
+566
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 07:15:36--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:36--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 07:15:37--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:37--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 07:15:42--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:42--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 07:15:43--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:44--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  104K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 07:15:48--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:49--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 07:15:50--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:50--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 07:15:51--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:52--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 07:15:53--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:54--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .........Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 07:15:57--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:15:58--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 07:15:59--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:00--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 07:16:02--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:02--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 07:16:04--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:04--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 07:16:06--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:06--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 07:16:08--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:08--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 07:16:10--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:11--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  104K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... ...Terminated
+[0, 196, 0, 195, 0, 0, 0, 185, 0, 0, 0, 0, 0, 0, 197]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 185, 195, 196, 197]
+197 566
+763
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 07:16:15--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:16--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 07:16:17--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:17--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  107K
+   150K .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 07:16:21--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:22--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  110K
+   150K .......... .......Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 07:16:26--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:26--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... .......... .......... ..........  107K
+   150K .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 07:16:29--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:30--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 07:16:31--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:31--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 07:16:33--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:33--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 07:16:35--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:35--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 07:16:40--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:41--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 07:16:43--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:43--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 07:16:45--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:45--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 07:16:46--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:47--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 07:16:48--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:49--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 07:16:50--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:50--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 07:16:51--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:52--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 186, 174, 155, 0, 0, 0, 209, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 155, 174, 186, 209]
+209 763
+972
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 07:16:53--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:54--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  105K
+   150K .......... .......... .......... .......... ..........  113K
+   200K ........Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-06 07:16:57--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:58--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-06 07:16:59--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:16:59--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-06 07:17:01--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:01--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-06 07:17:03--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:03--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-06 07:17:04--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:05--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-06 07:17:06--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:07--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... .......... .......... ..........  117K
+   150K .......... .......... .......... .......... ..........  117K
+   200K .......... .........Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-06 07:17:11--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:11--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-06 07:17:13--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:13--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  113K
+   200K .......... .........Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-06 07:17:18--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:18--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-06 07:17:20--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:20--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-06 07:17:22--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:22--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-06 07:17:25--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:25--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-06 07:17:26--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:27--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-06 07:17:28--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:28--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[121, 0, 0, 0, 0, 0, 125, 0, 131, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 121, 125, 131]
+131 972
+1103
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-06 07:17:29--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:30--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-06 07:17:32--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:32--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-06 07:17:33--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:34--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-06 07:17:35--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:36--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-06 07:17:37--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:37--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-06 07:17:40--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:40--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-06 07:17:42--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:42--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-06 07:17:43--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:43--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-06 07:17:44--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:45--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-06 07:17:46--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:46--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-06 07:17:48--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:48--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-06 07:17:49--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:50--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-06 07:17:51--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:51--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-06 07:17:52--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:53--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-06 07:17:54--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:55--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... .......... .......... ..........  107K
+   150K .......... .......... .......... .......... ..........  113K
+   200K .......... .......... .......... ..........Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 121]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 121]
+121 1103
+1224
+--------------------------------- RTT-14, TRIAL-1 ----------------------
+--2024-06-06 07:17:59--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:17:59--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-2 ----------------------
+--2024-06-06 07:18:01--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:01--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-3 ----------------------
+--2024-06-06 07:18:03--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:04--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-4 ----------------------
+--2024-06-06 07:18:06--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:06--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... .......... .......... ..........  107K
+   150K .......... .......... .......... .......... ..........  113K
+   200K .......... .......... .......... .......... ..........  100K
+   250K .......... ........Terminated
+--------------------------------- RTT-14, TRIAL-5 ----------------------
+--2024-06-06 07:18:11--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:12--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-6 ----------------------
+--2024-06-06 07:18:13--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:13--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  107K
+   200K .......... .......... .......... .......... .......... 98.7K
+   250K .......... .......... ....Terminated
+--------------------------------- RTT-14, TRIAL-7 ----------------------
+--2024-06-06 07:18:18--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:18--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-8 ----------------------
+--2024-06-06 07:18:20--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:20--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-9 ----------------------
+--2024-06-06 07:18:21--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:22--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-10 ----------------------
+--2024-06-06 07:18:23--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:24--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-11 ----------------------
+--2024-06-06 07:18:25--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:25--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-12 ----------------------
+--2024-06-06 07:18:27--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:28--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-13 ----------------------
+--2024-06-06 07:18:30--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:30--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-14, TRIAL-14 ----------------------
+--2024-06-06 07:18:31--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:32--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  106K
+   200K .......... .......... .......... .......... .......... 98.6K
+   250K .......... .......... ....Terminated
+--------------------------------- RTT-14, TRIAL-15 ----------------------
+--2024-06-06 07:18:36--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:37--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 0, 0, 121, 0, 121, 0, 0, 0, 0, 0, 0, 0, 123, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 121, 121, 123]
+123 1224
+1347
+--------------------------------- RTT-15, TRIAL-1 ----------------------
+--2024-06-06 07:18:39--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:39--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-2 ----------------------
+--2024-06-06 07:18:41--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:41--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-3 ----------------------
+--2024-06-06 07:18:43--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:43--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  112K
+   200K .......... .......... .......... .......... ..........  106K
+   250K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-15, TRIAL-4 ----------------------
+--2024-06-06 07:18:48--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:49--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-5 ----------------------
+--2024-06-06 07:18:50--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:51--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  107K
+   200K .......... .......... .......... .......... .......... 99.0K
+   250K .......... .......... .......... .......... ..........  114K
+   300K ......Terminated
+--------------------------------- RTT-15, TRIAL-6 ----------------------
+--2024-06-06 07:18:56--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:56--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-7 ----------------------
+--2024-06-06 07:18:58--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:18:58--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-8 ----------------------
+--2024-06-06 07:19:00--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:00--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-9 ----------------------
+--2024-06-06 07:19:02--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:02--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-10 ----------------------
+--2024-06-06 07:19:04--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:04--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-11 ----------------------
+--2024-06-06 07:19:05--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:06--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-12 ----------------------
+--2024-06-06 07:19:07--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:07--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-13 ----------------------
+--2024-06-06 07:19:08--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:09--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-14 ----------------------
+--2024-06-06 07:19:10--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:11--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-15, TRIAL-15 ----------------------
+--2024-06-06 07:19:12--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:12--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 0, 120, 0, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 120, 161]
+161 1347
+1508
+--------------------------------- RTT-16, TRIAL-1 ----------------------
+--2024-06-06 07:19:14--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:14--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... .......... .......... ..........  105K
+   150K .......... .......... .......... .......... ..........  112K
+   200K .......... .......... .......... .......... ..........  108K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... .......... ..Terminated
+--------------------------------- RTT-16, TRIAL-2 ----------------------
+--2024-06-06 07:19:20--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:20--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  105K
+   150K .......... .......... .......... .......... ..........  113K
+   200K .......... .......... .......... .......... .......... 99.4K
+   250K .......... .......... .......... .......... ..........  125K
+   300K .......... .......... .......... ..Terminated
+--------------------------------- RTT-16, TRIAL-3 ----------------------
+--2024-06-06 07:19:25--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:25--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-4 ----------------------
+--2024-06-06 07:19:27--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:27--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-5 ----------------------
+--2024-06-06 07:19:28--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:28--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... .......... .......... ..........  107K
+   150K .......... .......... .......... .......... ..........  113K
+   200K .......... .......... .......... .......... .......... 99.7K
+   250K .......... .......... .......... .......... ..........  126K
+   300K .......... .......... .......... ..Terminated
+--------------------------------- RTT-16, TRIAL-6 ----------------------
+--2024-06-06 07:19:34--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:34--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-7 ----------------------
+--2024-06-06 07:19:36--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:36--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-8 ----------------------
+--2024-06-06 07:19:37--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:37--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-9 ----------------------
+--2024-06-06 07:19:39--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:39--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-10 ----------------------
+--2024-06-06 07:19:40--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:41--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-11 ----------------------
+--2024-06-06 07:19:43--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:43--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-12 ----------------------
+--2024-06-06 07:19:45--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:45--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-13 ----------------------
+--2024-06-06 07:19:46--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:46--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  107K
+   250K .......... .......... .......... .......... .......... 85.9K
+   300K .......... .......... .......... .Terminated
+--------------------------------- RTT-16, TRIAL-14 ----------------------
+--2024-06-06 07:19:52--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:53--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-16, TRIAL-15 ----------------------
+--2024-06-06 07:19:55--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:55--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[119, 121, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 123, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 119, 121, 121, 123]
+123 1508
+1631
+--------------------------------- RTT-17, TRIAL-1 ----------------------
+--2024-06-06 07:19:57--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:57--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-2 ----------------------
+--2024-06-06 07:19:59--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:19:59--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-3 ----------------------
+--2024-06-06 07:20:00--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:01--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  111K
+   200K .......... .......... .......... .......... .......... 92.8K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... .......... .......... ..........  103K
+   350K .......... .......... ..Terminated
+--------------------------------- RTT-17, TRIAL-4 ----------------------
+--2024-06-06 07:20:07--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:07--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  109K
+   200K .......... .......... .......... .......... ..........  100K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... .......... .......... ..........  107K
+   350K .......... ..........Terminated
+--------------------------------- RTT-17, TRIAL-5 ----------------------
+--2024-06-06 07:20:14--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:14--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-6 ----------------------
+--2024-06-06 07:20:16--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:16--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-7 ----------------------
+--2024-06-06 07:20:17--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:18--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-8 ----------------------
+--2024-06-06 07:20:19--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:19--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-9 ----------------------
+--2024-06-06 07:20:21--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:21--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-10 ----------------------
+--2024-06-06 07:20:23--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:23--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-11 ----------------------
+--2024-06-06 07:20:24--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:24--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-12 ----------------------
+--2024-06-06 07:20:25--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:26--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  107K
+   200K .......... .......... .......... .......... ..........  107K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... .......... .......... ..........  108K
+   350K .......... .......Terminated
+--------------------------------- RTT-17, TRIAL-13 ----------------------
+--2024-06-06 07:20:32--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:32--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  106K
+   200K .......... .......... .......... .......... ..........  116K
+   250K .......... .......... .......... .......... .......... 85.9K
+   300K .......... .......... .......... .......... .......... 97.3K
+   350K .......... ...Terminated
+--------------------------------- RTT-17, TRIAL-14 ----------------------
+--2024-06-06 07:20:38--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:39--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-17, TRIAL-15 ----------------------
+--2024-06-06 07:20:40--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:41--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 0, 121, 125, 0, 0, 0, 0, 0, 0, 0, 121, 123, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 121, 121, 123, 125]
+125 1631
+1756
+--------------------------------- RTT-18, TRIAL-1 ----------------------
+--2024-06-06 07:20:42--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:43--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-18, TRIAL-2 ----------------------
+--2024-06-06 07:20:44--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:44--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-18, TRIAL-3 ----------------------
+--2024-06-06 07:20:46--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:47--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  105K
+   200K .......... .......... .......... .......... .......... 98.7K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... .......... .......... ..........  104K
+   350K .......... .......... .......... .......... .......... 78.6K
+   400K ..Terminated
+--------------------------------- RTT-18, TRIAL-4 ----------------------
+--2024-06-06 07:20:53--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:53--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-18, TRIAL-5 ----------------------
+--2024-06-06 07:20:54--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:55--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-18, TRIAL-6 ----------------------
+--2024-06-06 07:20:56--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:56--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-18, TRIAL-7 ----------------------
+--2024-06-06 07:20:58--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:20:58--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  112K
+   200K .......... .......... .......... .......... ..........  109K
+   250K .......... .......... .......... .......... .......... 85.7K
+   300K .......... .......... .......... .......... .......... 98.9K
+   350K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-18, TRIAL-8 ----------------------
+--2024-06-06 07:21:04--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:05--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  105K
+   200K .......... .......... .......... .......... ..........  116K
+   250K .......... .......... .......... .......... .......... 86.5K
+   300K .......... .......... .......... .......... .......... 98.3K
+   350K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-18, TRIAL-9 ----------------------
+--2024-06-06 07:21:11--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:11--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-18, TRIAL-10 ----------------------
+--2024-06-06 07:21:13--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:13--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  105K
+   200K .......... .......... .......... .......... .......... 98.8K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... .......... .......... ..........  105K
+   350K .......... .......... .......... .......... .......... 78.9K
+   400K ..Terminated
+--------------------------------- RTT-18, TRIAL-11 ----------------------
+--2024-06-06 07:21:19--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:20--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-18, TRIAL-12 ----------------------
+--2024-06-06 07:21:21--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:21--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-18, TRIAL-13 ----------------------
+--2024-06-06 07:21:23--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:23--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-18, TRIAL-14 ----------------------
+--2024-06-06 07:21:25--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:25--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-18, TRIAL-15 ----------------------
+--2024-06-06 07:21:27--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:27--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 0, 119, 0, 0, 0, 123, 123, 0, 119, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 119, 119, 123, 123]
+123 1756
+1879
+--------------------------------- RTT-19, TRIAL-1 ----------------------
+--2024-06-06 07:21:29--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:29--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-19, TRIAL-2 ----------------------
+--2024-06-06 07:21:30--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:31--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-19, TRIAL-3 ----------------------
+--2024-06-06 07:21:32--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:32--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-19, TRIAL-4 ----------------------
+--2024-06-06 07:21:34--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:34--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-19, TRIAL-5 ----------------------
+--2024-06-06 07:21:35--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:35--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  101K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  106K
+   200K .......... .......... .......... .......... ..........  107K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... .......... .......... ..........  110K
+   350K .......... .......... .......... .......... .......... 59.0K
+   400K .......... .......... .......... .Terminated
+--------------------------------- RTT-19, TRIAL-6 ----------------------
+--2024-06-06 07:21:42--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:42--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-19, TRIAL-7 ----------------------
+--2024-06-06 07:21:43--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:44--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  102K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  109K
+   200K .......... .......... .......... .......... .......... 86.5K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... .......... .......... .......... 98.9K
+   350K .......... .......... .......... .......... .......... 78.8K
+   400K .......... .......... ....Terminated
+--------------------------------- RTT-19, TRIAL-8 ----------------------
+--2024-06-06 07:21:51--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:51--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-19, TRIAL-9 ----------------------
+--2024-06-06 07:21:53--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:54--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-19, TRIAL-10 ----------------------
+--2024-06-06 07:21:55--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:56--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-19, TRIAL-11 ----------------------
+--2024-06-06 07:21:57--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:21:58--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-19, TRIAL-12 ----------------------
+--2024-06-06 07:22:00--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:00--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-19, TRIAL-13 ----------------------
+--2024-06-06 07:22:01--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:02--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-19, TRIAL-14 ----------------------
+--2024-06-06 07:22:03--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:04--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  101K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  107K
+   200K .......... .......... .......... .......... .......... 98.9K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... .......... .......... ..........  105K
+   350K .......... .......... .......... .......... .......... 78.6K
+   400K .......... .......... .......... ....Terminated
+--------------------------------- RTT-19, TRIAL-15 ----------------------
+--2024-06-06 07:22:11--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:11--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  101K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  106K
+   200K .......... .......... .......... .......... .......... 98.9K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... .......... .......... ..........  106K
+   350K .......... .......... .......... .......... .......... 78.7K
+   400K .......... .......... .......... ....Terminated
+[0, 0, 0, 0, 119, 0, 121, 0, 0, 0, 0, 0, 0, 123, 119]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 119, 119, 121, 123]
+123 1879
+2002
+--------------------------------- RTT-20, TRIAL-1 ----------------------
+--2024-06-06 07:22:18--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:19--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  105K
+   200K .......... .......... .......... .......... .......... 97.9K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... .......... .......... ..........  105K
+   350K .......... .......... .......... .......... .......... 78.8K
+   400K .......... .......... .......... .......... .......... 79.6KTerminated
+--------------------------------- RTT-20, TRIAL-2 ----------------------
+--2024-06-06 07:22:26--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:27--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  107K
+   200K .......... .......... .......... .......... ..........  117K
+   250K .......... .......... .......... .......... .......... 86.8K
+   300K .......... .......... .......... .......... .......... 98.2K
+   350K .......... .......... .......... .......... .......... 91.9K
+   400K .......... .......... .......... .......... .......... 80.4K
+   450K .Terminated
+--------------------------------- RTT-20, TRIAL-3 ----------------------
+--2024-06-06 07:22:34--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:34--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-20, TRIAL-4 ----------------------
+--2024-06-06 07:22:35--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:35--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-20, TRIAL-5 ----------------------
+--2024-06-06 07:22:37--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:37--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-20, TRIAL-6 ----------------------
+--2024-06-06 07:22:39--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:39--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-20, TRIAL-7 ----------------------
+--2024-06-06 07:22:41--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 172.67.22.142, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:41--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-20, TRIAL-8 ----------------------
+--2024-06-06 07:22:43--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:43--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-20, TRIAL-9 ----------------------
+--2024-06-06 07:22:44--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:45--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-20, TRIAL-10 ----------------------
+--2024-06-06 07:22:46--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:47--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-20, TRIAL-11 ----------------------
+--2024-06-06 07:22:48--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:49--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-20, TRIAL-12 ----------------------
+--2024-06-06 07:22:50--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:51--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  107K
+   200K .......... .......... .......... .......... .......... 99.1K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... .......... .......... ..........  105K
+   350K .......... .......... .......... .......... .......... 77.2K
+   400K .......... .......... .......... .......... .......... 79.0K
+   450K .Terminated
+--------------------------------- RTT-20, TRIAL-13 ----------------------
+--2024-06-06 07:22:57--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:22:58--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-20, TRIAL-14 ----------------------
+--2024-06-06 07:22:59--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:23:00--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-20, TRIAL-15 ----------------------
+--2024-06-06 07:23:01--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:23:02--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[58, 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 61, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 58, 61, 61]
+61 2002
+2063
+--------------------------------- RTT-21, TRIAL-1 ----------------------
+--2024-06-06 07:23:03--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:23:04--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-21, TRIAL-2 ----------------------
+--2024-06-06 07:23:05--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:23:05--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-21, TRIAL-3 ----------------------
+--2024-06-06 07:23:07--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:23:07--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-21, TRIAL-4 ----------------------
+--2024-06-06 07:23:08--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.50.244, 104.22.51.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:23:09--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.50.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-21, TRIAL-5 ----------------------
+--2024-06-06 07:23:10--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:23:11--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-21, TRIAL-6 ----------------------
+--2024-06-06 07:23:12--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:23:12--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-21, TRIAL-7 ----------------------
+--2024-06-06 07:23:14--  http://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24tv.ua/ [following]
+--2024-06-06 07:23:14--  https://24tv.ua/
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  107K
+   200K .......... .......... .......... .......... .......... 99.3K
+   250K .......... .......... .......... .......... ..........  115K
+   300K .......... .......... .......... .......... ..........  106K
+   350K .......... .......... .......... .......... .......... 78.8K
+   400K .......... .......... .......... .......... .......... 78.5K
+   450K .......... .......... ........                         77.0K=4.9s
+
+2024-06-06 07:23:20 (97.7 KB/s) - ‘indexPage’ saved [490069]
+
+wget: no process found
+--------------------------------- RTT-21, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:23:21--  https://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-21, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:23:22--  https://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-21, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:23:23--  https://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-21, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:23:24--  https://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 172.67.22.142, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-21, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:23:25--  https://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 104.22.51.244, 104.22.50.244, 172.67.22.142, ...
+Connecting to 24tv.ua (24tv.ua)|104.22.51.244|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-21, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:23:26--  https://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.51.244, 104.22.50.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  410K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  110K
+   150K .......... .......... .......... .......... ..........  105K
+   200K .......... .......... .......... .......... ..........  107K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... .......... .......... ..........  110K
+   350K .......... .......... .......... .......... .......... 59.2K
+   400K .......... .......... .......... .......... .......... 78.7K
+   450K .......... .......... ........                          142K=4.6s
+
+2024-06-06 07:23:32 (105 KB/s) - ‘indexPage’ saved [490069]
+
+wget: no process found
+--------------------------------- RTT-21, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:23:32--  https://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  748K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .......... .......... .......... .......... ..........  105K
+   150K .......... .......... .......... .......... ..........  112K
+   200K .......... .......... .......... .......... ..........  107K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... .......... .......... .......... 75.9K
+   350K .......... .......... .......... .......... .......... 78.7K
+   400K .......... .......... .......... .......... .......... 78.6K
+   450K .......... .......... ........                          123K=4.5s
+
+2024-06-06 07:23:38 (106 KB/s) - ‘indexPage’ saved [490069]
+
+wget: no process found
+--------------------------------- RTT-21, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:23:39--  https://24tv.ua/
+Resolving 24tv.ua (24tv.ua)... 172.67.22.142, 104.22.50.244, 104.22.51.244, ...
+Connecting to 24tv.ua (24tv.ua)|172.67.22.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  111K
+   150K .......... .......... .......... .......... ..........  106K
+   200K .......... .......... .......... .......... ..........  107K
+   250K .......... .......... .......... .......... ..........  114K
+   300K .......... .......... .......... .......... ..........  112K
+   350K .......... .......... .......... .......... .......... 59.8K
+   400K .......... .......... .......... .......... .......... 78.4K
+   450K .......... .......... ........                          142K=4.9s
+
+2024-06-06 07:23:44 (97.5 KB/s) - ‘indexPage’ saved [490069]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 2063
+2063

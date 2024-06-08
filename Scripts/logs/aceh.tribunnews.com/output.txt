@@ -1,0 +1,2842 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-07 00:11:52--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-07 00:11:54--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-07 00:11:55--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-07 00:11:57--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-07 00:11:59--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-07 00:12:00--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-07 00:12:02--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-07 00:12:04--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-07 00:12:05--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-07 00:12:07--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-07 00:12:09--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-07 00:12:10--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-07 00:12:12--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-07 00:12:14--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-07 00:12:15--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-07 00:12:17--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-07 00:12:18--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-07 00:12:18--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-07 00:12:19--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-07 00:12:20--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-07 00:12:21--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-07 00:12:22--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-07 00:12:22--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-07 00:12:23--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-07 00:12:24--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-07 00:12:25--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-07 00:12:25--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-07 00:12:26--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-07 00:12:27--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-07 00:12:28--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-07 00:12:28--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-07 00:12:29--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-07 00:12:30--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-07 00:12:31--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-07 00:12:32--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-07 00:12:33--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-07 00:12:34--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-07 00:12:35--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-07 00:12:36--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-07 00:12:37--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-07 00:12:38--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-07 00:12:38--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-07 00:12:39--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-07 00:12:40--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-07 00:12:41--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 6, 6, 6, 1, 6, 6, 6, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 6, 6, 6, 6, 6, 6]
+6 2
+8
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-07 00:12:42--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:12:42--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-07 00:12:43--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:12:44--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-07 00:12:45--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:12:46--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-07 00:12:46--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:12:46--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-07 00:12:48--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-07 00:12:49--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:12:50--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-07 00:12:50--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:12:51--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-07 00:12:52--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:12:52--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-07 00:12:53--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:12:54--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-07 00:12:55--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:12:56--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-07 00:12:57--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:12:57--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-07 00:12:59--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-07 00:13:00--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-07 00:13:01--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-07 00:13:02--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:03--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... Terminated
+[1, 1, 2, 3, 2, 1, 2, 3, 2, 1, 3, 2, 2, 2, 1]
+[1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+3 8
+11
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-07 00:13:03--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:04--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-07 00:13:05--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:05--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-07 00:13:06--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:06--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-07 00:13:07--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:07--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-07 00:13:08--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:08--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-07 00:13:09--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:09--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-07 00:13:10--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:10--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-07 00:13:11--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:12--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-07 00:13:12--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:13--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-07 00:13:13--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:14--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-07 00:13:15--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:15--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-07 00:13:16--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:16--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-07 00:13:17--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:17--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-07 00:13:18--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:19--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-07 00:13:20--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:20--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+Terminated
+[24, 23, 1, 23, 1, 1, 1, 23, 1, 23, 23, 1, 23, 22, 1]
+[1, 1, 1, 1, 1, 1, 1, 22, 23, 23, 23, 23, 23, 23, 24]
+24 11
+35
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-07 00:13:21--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:21--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-07 00:13:22--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:23--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-07 00:13:24--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:24--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-07 00:13:25--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:26--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-07 00:13:27--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:27--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-07 00:13:28--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:28--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-07 00:13:30--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:30--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-07 00:13:31--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:32--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-07 00:13:33--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:33--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-07 00:13:34--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:35--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-07 00:13:36--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:36--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-07 00:13:37--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:37--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-07 00:13:38--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:39--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-07 00:13:40--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:40--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-07 00:13:41--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:41--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+Terminated
+[1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 5, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 5]
+5 35
+40
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-07 00:13:43--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:43--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-07 00:13:45--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:45--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-07 00:13:47--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:47--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-07 00:13:49--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:49--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-07 00:13:51--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:51--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-07 00:13:53--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:53--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-07 00:13:55--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:55--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-07 00:13:57--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:13:57--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-07 00:13:59--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:00--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-07 00:14:01--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:02--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-07 00:14:03--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:04--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-07 00:14:05--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:06--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-07 00:14:07--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:08--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-07 00:14:10--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:10--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-07 00:14:12--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:12--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[46, 47, 45, 47, 47, 48, 49, 47, 48, 47, 48, 49, 49, 47, 47]
+[45, 46, 47, 47, 47, 47, 47, 47, 47, 48, 48, 48, 49, 49, 49]
+49 40
+89
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-07 00:14:14--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:14--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-07 00:14:16--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:16--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-07 00:14:18--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:18--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-07 00:14:19--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:20--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-07 00:14:22--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:22--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-07 00:14:24--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:24--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-07 00:14:26--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:26--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-07 00:14:28--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:28--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-07 00:14:30--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:30--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-07 00:14:32--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:32--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-07 00:14:34--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:34--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-07 00:14:35--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:36--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-07 00:14:38--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:38--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-07 00:14:40--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:40--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-07 00:14:42--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:42--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[80, 84, 82, 82, 79, 78, 81, 84, 79, 83, 82, 81, 79, 82, 80]
+[78, 79, 79, 79, 80, 80, 81, 81, 82, 82, 82, 82, 83, 84, 84]
+84 89
+173
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-07 00:14:44--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:44--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-07 00:14:46--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:46--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-07 00:14:47--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:48--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-07 00:14:49--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:50--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-07 00:14:51--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:52--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-07 00:14:54--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:54--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-07 00:14:55--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:56--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-07 00:14:58--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:14:58--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-07 00:14:59--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:00--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-07 00:15:01--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:01--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-07 00:15:03--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:04--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-07 00:15:05--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:05--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-07 00:15:07--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:08--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-07 00:15:10--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:10--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-07 00:15:12--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:12--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+[80, 81, 85, 81, 82, 81, 85, 80, 82, 85, 80, 81, 85, 82, 81]
+[80, 80, 80, 81, 81, 81, 81, 81, 82, 82, 82, 85, 85, 85, 85]
+85 173
+258
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-07 00:15:14--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:14--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ......Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-07 00:15:16--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:17--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ......Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-07 00:15:19--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:19--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ......Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-07 00:15:21--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:21--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ......Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-07 00:15:24--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:24--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-07 00:15:26--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:26--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-07 00:15:29--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:29--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ......Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-07 00:15:31--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:31--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-07 00:15:33--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:34--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ......Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-07 00:15:36--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:36--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ......Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-07 00:15:38--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:38--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-07 00:15:41--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:41--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-07 00:15:43--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:44--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ......Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-07 00:15:46--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:46--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ......Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-07 00:15:48--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:49--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......Terminated
+[165, 168, 166, 166, 163, 165, 169, 163, 167, 165, 165, 167, 165, 165, 165]
+[163, 163, 165, 165, 165, 165, 165, 165, 165, 166, 166, 167, 167, 168, 169]
+169 258
+427
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-07 00:15:51--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:51--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.8K
+    50K .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-07 00:15:54--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:54--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.6K
+    50K .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-07 00:15:57--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:15:57--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-07 00:16:00--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:01--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  172K
+    50K .......... .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-07 00:16:03--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:03--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.9K
+    50K .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-07 00:16:06--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:06--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  169K
+    50K .......... .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-07 00:16:09--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:09--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-07 00:16:12--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:13--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 90.0K
+    50K .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-07 00:16:15--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:16--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  165K
+    50K .......... .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-07 00:16:18--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:19--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.7K
+    50K .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-07 00:16:22--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:22--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.0K
+    50K .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-07 00:16:25--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:25--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-07 00:16:28--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:28--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.2K
+    50K .......... .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-07 00:16:31--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:31--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.0K
+    50K .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-07 00:16:34--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:34--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  160K
+    50K .......... .......... ........Terminated
+[166, 164, 173, 175, 167, 167, 166, 183, 168, 166, 165, 166, 177, 177, 165]
+[164, 165, 165, 166, 166, 166, 166, 167, 167, 168, 173, 175, 177, 177, 183]
+183 427
+610
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-07 00:16:37--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:37--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  190K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-07 00:16:41--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:42--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  165K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... ......Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-07 00:16:45--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:45--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  167K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... ......Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-07 00:16:48--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:48--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... ......Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-07 00:16:52--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:52--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  191K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... ....Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-07 00:16:55--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:16:55--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... ......Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-07 00:16:59--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:00--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  287K
+    50K .......... .......... .......... .......... .......... 85.8K
+   100K .......... .......... ..........Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-07 00:17:04--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:04--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.4K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-07 00:17:07--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:08--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  172K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... ......Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-07 00:17:11--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:11--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... ......Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-07 00:17:15--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:15--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.8K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-07 00:17:18--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:19--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.7K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-07 00:17:23--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:23--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  160K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... ......Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-07 00:17:27--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:27--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  103K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... ..Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-07 00:17:31--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:32--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.4K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .Terminated
+[187, 139, 139, 139, 167, 189, 189, 165, 139, 187, 165, 189, 189, 193, 165]
+[139, 139, 139, 139, 165, 165, 165, 167, 187, 187, 189, 189, 189, 189, 193]
+193 610
+803
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-07 00:17:35--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:35--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  159K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .....Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-07 00:17:40--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:40--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  160K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... ....Terminated
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-07 00:17:44--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:44--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... ....Terminated
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-07 00:17:49--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:49--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.9K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... ......Terminated
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-07 00:17:52--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:53--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  164K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  129K
+   150K .......... .........Terminated
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-07 00:17:56--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:17:56--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.4K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  110K
+   150K .......... .......... ....Terminated
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-07 00:18:01--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:01--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.0K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .....Terminated
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-07 00:18:05--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:05--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... ....Terminated
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-07 00:18:08--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:09--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  158K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... ....Terminated
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-07 00:18:13--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:13--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... ....Terminated
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-07 00:18:16--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:17--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  165K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  127K
+   150K .......... .........Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-07 00:18:21--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.97, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:22--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  169K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... ....Terminated
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-07 00:18:26--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:27--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  163K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  130K
+   150K .......... .........Terminated
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-07 00:18:30--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:30--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... ....Terminated
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-07 00:18:34--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:34--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  167K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... ....Terminated
+[187, 117, 189, 121, 121, 187, 117, 141, 117, 117, 189, 189, 119, 139, 117]
+[117, 117, 117, 117, 117, 119, 121, 121, 139, 141, 187, 187, 189, 189, 189]
+189 803
+992
+--------------------------------- RTT-14, TRIAL-1 ----------------------
+--2024-06-07 00:18:37--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:38--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... ..Terminated
+--------------------------------- RTT-14, TRIAL-2 ----------------------
+--2024-06-07 00:18:42--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:42--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  195K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... .......... .......... .......... 96.7K
+   150K .......... .......... .......... .......... ..........  154K
+   200K .......... ...Terminated
+--------------------------------- RTT-14, TRIAL-3 ----------------------
+--2024-06-07 00:18:46--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:46--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  169K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... ..Terminated
+--------------------------------- RTT-14, TRIAL-4 ----------------------
+--2024-06-07 00:18:50--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:50--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.9K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  119K
+   150K .......... .......... .......... .......... ..........  120K
+   200K .......... ......Terminated
+--------------------------------- RTT-14, TRIAL-5 ----------------------
+--2024-06-07 00:18:54--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:54--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  162K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... ..Terminated
+--------------------------------- RTT-14, TRIAL-6 ----------------------
+--2024-06-07 00:18:58--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:18:59--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......... .......... ..........  119K
+   150K .......... .......... .......... .......... ..........  126K
+   200K .......... .....Terminated
+--------------------------------- RTT-14, TRIAL-7 ----------------------
+--2024-06-07 00:19:02--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:03--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  163K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... ..Terminated
+--------------------------------- RTT-14, TRIAL-8 ----------------------
+--2024-06-07 00:19:06--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:07--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  195K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-9 ----------------------
+--2024-06-07 00:19:11--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:11--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  169K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... ..Terminated
+--------------------------------- RTT-14, TRIAL-10 ----------------------
+--2024-06-07 00:19:15--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:15--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  167K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  117K
+   200K .......... .......... ..Terminated
+--------------------------------- RTT-14, TRIAL-11 ----------------------
+--2024-06-07 00:19:19--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:19--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... ..Terminated
+--------------------------------- RTT-14, TRIAL-12 ----------------------
+--2024-06-07 00:19:23--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:23--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.5K
+    50K .......... .......... .......... .......... ..........  118K
+   100K .......... .......... .......... .......... ..........  119K
+   150K .......... .......... .......... .......... ..........  117K
+   200K .......... .......... ...Terminated
+--------------------------------- RTT-14, TRIAL-13 ----------------------
+--2024-06-07 00:19:27--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:27--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  166K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  131K
+   200K .......... ......Terminated
+--------------------------------- RTT-14, TRIAL-14 ----------------------
+--2024-06-07 00:19:31--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:31--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  176K
+    50K .......... .......... .......... .......... ..........  119K
+   100K .......... .......... .......... .......... ..........  132K
+   150K .......... .......... .......... .......... ..........  123K
+   200K .......... ......Terminated
+--------------------------------- RTT-14, TRIAL-15 ----------------------
+--2024-06-07 00:19:35--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:35--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.2K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .......... .......... ..........  119K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... ..Terminated
+[119, 117, 117, 121, 118, 117, 117, 121, 119, 123, 119, 123, 117, 121, 119]
+[117, 117, 117, 117, 117, 118, 119, 119, 119, 119, 121, 121, 121, 123, 123]
+123 992
+1115
+--------------------------------- RTT-15, TRIAL-1 ----------------------
+--2024-06-07 00:19:39--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:40--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  163K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-15, TRIAL-2 ----------------------
+--2024-06-07 00:19:43--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:44--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  171K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  118K
+   250K ...Terminated
+--------------------------------- RTT-15, TRIAL-3 ----------------------
+--2024-06-07 00:19:47--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:48--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.5K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  119K
+   150K .......... .......... .......... .......... ..........  119K
+   200K .......... .......... .......... .......... ......Terminated
+--------------------------------- RTT-15, TRIAL-4 ----------------------
+--2024-06-07 00:19:51--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:52--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  175K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  118K
+   250K ...Terminated
+--------------------------------- RTT-15, TRIAL-5 ----------------------
+--2024-06-07 00:19:55--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:19:56--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  175K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  124K
+   200K .......... .......... .......... .......... ..........  117K
+   250K .Terminated
+--------------------------------- RTT-15, TRIAL-6 ----------------------
+--2024-06-07 00:20:00--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:20:00--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .......... 99.7K
+   200K .......... .......... .......... .......... ..........  142K
+   250K ...Terminated
+--------------------------------- RTT-15, TRIAL-7 ----------------------
+--2024-06-07 00:20:04--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:20:04--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  127KTerminated
+--------------------------------- RTT-15, TRIAL-8 ----------------------
+--2024-06-07 00:20:08--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:20:08--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.2K
+    50K .......... .......... .......... .......... ..........  113K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-15, TRIAL-9 ----------------------
+--2024-06-07 00:20:12--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.97, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:20:12--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 81.8K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  123K
+   200K .......... .......... .......... .......... ..........  114K
+   250K ..Terminated
+--------------------------------- RTT-15, TRIAL-10 ----------------------
+--2024-06-07 00:20:16--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:20:16--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.1K
+    50K .......... .......... .......... .......... ..........  101K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .........Terminated
+--------------------------------- RTT-15, TRIAL-11 ----------------------
+--2024-06-07 00:20:20--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:20:20--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.9K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  119K
+   150K .......... .......... .......... .......... ..........  120K
+   200K .......... .......... .......... .......... ..........  103K
+   250K ...Terminated
+--------------------------------- RTT-15, TRIAL-12 ----------------------
+--2024-06-07 00:20:24--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:20:25--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  117K
+   250K ...Terminated
+--------------------------------- RTT-15, TRIAL-13 ----------------------
+--2024-06-07 00:20:28--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:20:29--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.7K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .......... .......... ..........  132K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-15, TRIAL-14 ----------------------
+--2024-06-07 00:20:32--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.8, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:20:33--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  234K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... .......... 86.4K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-15, TRIAL-15 ----------------------
+--2024-06-07 00:20:36--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:20:37--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  117K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  118K
+   250K ...Terminated
+[29, 26, 27, 25, 24, 26, 25, 26, 26, 27, 26, 27, 25, 26, 26]
+[24, 25, 25, 25, 26, 26, 26, 26, 26, 26, 26, 27, 27, 27, 29]
+29 1115
+1144
+--------------------------------- RTT-16, TRIAL-1 ----------------------
+--2024-06-07 00:20:40--  http://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.97, 3.163.125.118, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aceh.tribunnews.com/ [following]
+--2024-06-07 00:20:41--  https://aceh.tribunnews.com/
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  117K
+   250K ..........                                              170K=2.1s
+
+2024-06-07 00:20:44 (125 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:20:44--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.118, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  198K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  117K
+   250K ..........                                              168K=2.0s
+
+2024-06-07 00:20:47 (128 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:20:48--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.8K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  123K
+   200K .......... .......... .......... .......... .......... 91.1K
+   250K ..........                                              250M=2.4s
+
+2024-06-07 00:20:51 (109 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:20:51--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  238K
+    50K .......... .......... .......... .......... ..........  102K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  107K
+   200K .......... .......... .......... .......... ..........  115K
+   250K ..........                                              994K=2.1s
+
+2024-06-07 00:20:55 (127 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:20:55--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.53, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  195K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  118K
+   250K ..........                                              169K=2.0s
+
+2024-06-07 00:20:58 (128 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:20:59--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.5K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  120K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K ..........                                              182K=2.4s
+
+2024-06-07 00:21:02 (109 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:21:02--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  193K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  117K
+   250K ..........                                              163K=2.1s
+
+2024-06-07 00:21:05 (126 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:21:06--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.8, 3.163.125.53, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  201K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  117K
+   250K ..........                                              168K=2.0s
+
+2024-06-07 00:21:09 (127 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:21:09--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.118, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  202K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  118K
+   250K ..........                                              164K=2.0s
+
+2024-06-07 00:21:12 (128 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:21:13--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  198K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  123K
+   200K .......... .......... .......... .......... ..........  115K
+   250K ..........                                              126K=2.0s
+
+2024-06-07 00:21:16 (127 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:21:17--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.53, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  197K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  118K
+   250K ..........                                              168K=2.0s
+
+2024-06-07 00:21:20 (128 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:21:20--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.1K
+    50K .......... .......... .......... .......... ..........  113K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .......... ..........  115K
+   250K ..........                                              245K=2.4s
+
+2024-06-07 00:21:23 (109 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:21:24--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.97, 3.163.125.118, 3.163.125.8, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  202K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  102K
+   250K ..........                                              213M=2.0s
+
+2024-06-07 00:21:27 (128 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:21:27--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.9K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  115K
+   250K ..........                                              245K=2.4s
+
+2024-06-07 00:21:30 (110 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:21:31--  https://aceh.tribunnews.com/
+Resolving aceh.tribunnews.com (aceh.tribunnews.com)... 3.163.125.8, 3.163.125.53, 3.163.125.97, ...
+Connecting to aceh.tribunnews.com (aceh.tribunnews.com)|3.163.125.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.5K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .......... .......... ..........  120K
+   150K .......... .......... .......... .......... ..........  119K
+   200K .......... .......... .......... .......... .......... 91.2K
+   250K ..........                                              177M=2.4s
+
+2024-06-07 00:21:34 (109 KB/s) - ‘indexPage’ saved [266814]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 1144
+1144

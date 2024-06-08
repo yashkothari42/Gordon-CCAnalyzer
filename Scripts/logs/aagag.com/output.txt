@@ -1,0 +1,734 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 13:28:05--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 13:28:07--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 13:28:08--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 13:28:10--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 13:28:12--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 13:28:13--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 13:28:15--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 13:28:17--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 13:28:18--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 13:28:20--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 13:28:22--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 13:28:23--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 13:28:25--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 13:28:27--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 13:28:28--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 13:28:30--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 13:28:31--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 13:28:32--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 13:28:32--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 13:28:33--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 13:28:34--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 13:28:35--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 13:28:36--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 13:28:37--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 13:28:38--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 13:28:39--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 13:28:39--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 13:28:40--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 13:28:41--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 13:28:42--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 13:28:42--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 13:28:43--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 13:28:44--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 13:28:46--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 13:28:47--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 13:28:48--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 13:28:49--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 13:28:51--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 13:28:52--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 13:28:53--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 13:28:54--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 13:28:55--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 13:28:55--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 13:28:57--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 13:28:58--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 46, 1, 31, 1, 31, 1, 1, 1, 1, 1, 31, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 31, 31, 31, 46]
+46 2
+48
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 13:28:59--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 13:29:01--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 13:29:03--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 13:29:05--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 13:29:06--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 13:29:08--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 13:29:10--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 13:29:12--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 13:29:14--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 13:29:16--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 13:29:18--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 13:29:20--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 13:29:22--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 13:29:24--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 13:29:26--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .........Terminated
+[70, 76, 76, 73, 76, 71, 71, 71, 77, 77, 70, 71, 76, 78, 74]
+[70, 70, 71, 71, 71, 71, 73, 74, 76, 76, 76, 76, 77, 77, 78]
+78 48
+126
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 13:29:27--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 13:29:29--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 13:29:31--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 13:29:33--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 13:29:35--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 13:29:36--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 13:29:38--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 13:29:40--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 13:29:42--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 13:29:44--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 13:29:45--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 13:29:47--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 13:29:49--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 13:29:51--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 13:29:53--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ........Terminated
+[113, 111, 112, 111, 112, 111, 112, 112, 112, 111, 111, 112, 112, 111, 112]
+[111, 111, 111, 111, 111, 111, 112, 112, 112, 112, 112, 112, 112, 112, 113]
+113 126
+239
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 13:29:54--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K ....                                                   67.0M=0.5s
+
+2024-06-06 13:29:55 (110 KB/s) - ‘indexPage’ saved [56111]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 13:29:56--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K ....                                                   82.0M=0.5s
+
+2024-06-06 13:29:57 (110 KB/s) - ‘indexPage’ saved [56111]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 13:29:58--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K ....                                                   78.8M=0.5s
+
+2024-06-06 13:29:59 (110 KB/s) - ‘indexPage’ saved [56111]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 13:29:59--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.3K
+    50K ....                                                   72.9M=0.5s
+
+2024-06-06 13:30:00 (101 KB/s) - ‘indexPage’ saved [56111]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 13:30:01--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.5K
+    50K ....                                                   69.0M=0.5s
+
+2024-06-06 13:30:02 (101 KB/s) - ‘indexPage’ saved [56111]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 13:30:03--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K ....                                                   67.2M=0.5s
+
+2024-06-06 13:30:04 (110 KB/s) - ‘indexPage’ saved [56064]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 13:30:04--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 90.4K
+    50K ....                                                    135M=0.6s
+
+2024-06-06 13:30:06 (99.0 KB/s) - ‘indexPage’ saved [56064]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 13:30:06--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 99.1K
+    50K ....                                                   89.5M=0.5s
+
+2024-06-06 13:30:07 (109 KB/s) - ‘indexPage’ saved [56064]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 13:30:08--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 99.0K
+    50K ....                                                   73.2M=0.5s
+
+2024-06-06 13:30:09 (108 KB/s) - ‘indexPage’ saved [56064]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 13:30:09--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K ....                                                   80.3M=0.5s
+
+2024-06-06 13:30:11 (110 KB/s) - ‘indexPage’ saved [56064]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 13:30:11--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.3K
+    50K ....                                                    142M=0.5s
+
+2024-06-06 13:30:12 (105 KB/s) - ‘indexPage’ saved [56064]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 13:30:13--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K ....                                                   92.3M=0.5s
+
+2024-06-06 13:30:14 (110 KB/s) - ‘indexPage’ saved [56064]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 13:30:14--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K ....                                                   79.1M=0.5s
+
+2024-06-06 13:30:16 (110 KB/s) - ‘indexPage’ saved [56064]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 13:30:16--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.168, 104.21.234.169, 2606:4700:3038::6815:eaa8, ...
+Connecting to aagag.com (aagag.com)|104.21.234.168|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K ....                                                   98.3M=0.5s
+
+2024-06-06 13:30:17 (110 KB/s) - ‘indexPage’ saved [56064]
+
+wget: no process found
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 13:30:18--  http://aagag.com/
+Resolving aagag.com (aagag.com)... 104.21.234.169, 104.21.234.168, 2606:4700:3038::6815:eaa9, ...
+Connecting to aagag.com (aagag.com)|104.21.234.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  100K
+    50K ....                                                   92.9M=0.5s
+
+2024-06-06 13:30:19 (110 KB/s) - ‘indexPage’ saved [56064]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 239
+239

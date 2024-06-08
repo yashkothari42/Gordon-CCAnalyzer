@@ -1,0 +1,2170 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 11:58:15--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 11:58:18--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 11:58:20--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 11:58:21--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 11:58:23--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 11:58:25--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 11:58:26--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 11:58:28--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 11:58:30--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 11:58:31--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 11:58:33--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 11:58:34--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 11:58:36--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 11:58:38--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 11:58:39--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 11:58:41--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 11:58:42--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 11:58:43--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 11:58:43--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 11:58:44--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 11:58:45--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 11:58:46--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 11:58:47--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 11:58:47--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 11:58:48--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 11:58:49--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 11:58:50--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 11:58:50--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 11:58:51--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 11:58:52--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 11:58:53--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 11:58:54--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 11:58:55--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 11:58:55--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 11:58:56--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 11:58:57--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 11:58:58--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 11:58:59--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 11:59:00--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 11:59:01--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 11:59:01--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 11:59:02--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 11:59:03--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 11:59:04--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 11:59:05--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 1, 1, 4, 1, 4, 1, 1, 1, 1, 1, 1, 4, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 11:59:06--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:06--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 11:59:07--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:08--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 11:59:08--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:09--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 11:59:10--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:10--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 11:59:12--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:13--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 11:59:13--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:14--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 11:59:15--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:15--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 11:59:16--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:17--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 11:59:18--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:19--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 11:59:20--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:20--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 11:59:21--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:21--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 11:59:23--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:23--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 11:59:25--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:26--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 11:59:26--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:26--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 11:59:28--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:29--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... Terminated
+[1, 2, 2, 1, 1, 2, 2, 1, 1, 2, 2, 1, 1, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 11:59:29--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:30--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 11:59:30--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:31--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 11:59:31--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:32--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 11:59:33--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:33--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 11:59:34--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:35--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 11:59:35--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:36--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 11:59:37--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:37--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 11:59:38--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:39--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 11:59:39--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:39--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 11:59:40--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:41--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 11:59:41--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:42--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 11:59:42--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:43--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 11:59:43--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:44--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 11:59:44--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:45--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 11:59:45--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:46--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+[1, 19, 1, 1, 1, 19, 1, 1, 1, 1, 1, 1, 1, 1, 19]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19, 19, 19]
+19 8
+27
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 11:59:47--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:47--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 11:59:48--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:49--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 11:59:50--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:50--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 11:59:51--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:52--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 11:59:53--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:53--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 11:59:54--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:54--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 11:59:55--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:56--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 11:59:57--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:57--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 11:59:59--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 11:59:59--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 12:00:00--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:01--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 12:00:02--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:02--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 12:00:03--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:04--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 12:00:05--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:05--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 12:00:06--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:07--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 12:00:08--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:08--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+Terminated
+[1, 1, 1, 2, 1, 3, 2, 1, 1, 1, 1, 2, 1, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3]
+3 27
+30
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 12:00:10--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:10--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 12:00:11--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:11--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 12:00:13--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:13--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 12:00:14--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:15--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 12:00:16--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:17--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 12:00:19--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:19--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 12:00:21--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:21--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 12:00:22--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:23--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 12:00:24--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:24--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 12:00:26--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:27--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 12:00:28--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:28--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 12:00:29--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:30--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 12:00:31--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:31--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 12:00:33--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:33--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 12:00:35--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:35--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 5, 5, 5, 1, 1, 5, 1, 1, 1, 5, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 5, 5, 5, 5]
+5 30
+35
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 12:00:36--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:37--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:00:38--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 12:00:39--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:39--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 12:00:41--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:41--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:00:42--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 12:00:43--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:43--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 12:00:46--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:46--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:00:47--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 12:00:48--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:48--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 12:00:50--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:51--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:00:52--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 12:00:53--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:53--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 12:00:55--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:55--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:00:57--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 12:00:58--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:00:58--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:00--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 12:01:00--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:00--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 12:01:02--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:03--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:04--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.9.70, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 12:01:05--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:05--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 12:01:07--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:08--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:09--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 12:01:10--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:10--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 3, 3, 2, 3, 3, 3, 2, 3, 3, 2, 3, 2, 3, 2]
+[2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+3 35
+38
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 12:01:12--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:13--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:14--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 12:01:15--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:15--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:16--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 12:01:18--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:18--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:20--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 12:01:20--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:21--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:22--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 12:01:23--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:24--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:25--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.9.70, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 12:01:26--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:26--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:28--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 12:01:28--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:29--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:30--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.9.70, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 12:01:31--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:31--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:32--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 12:01:33--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:34--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:35--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 12:01:36--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:36--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:37--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 12:01:39--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:39--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:40--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 12:01:41--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:42--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:43--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 12:01:43--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:44--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:45--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 12:01:46--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:46--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:47--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 12:01:48--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:48--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:50--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+Terminated
+[18, 1, 1, 1, 19, 1, 1, 19, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 18, 19, 19]
+19 38
+57
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 12:01:51--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:51--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:52--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 12:01:53--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:53--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:55--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 12:01:55--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:56--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:01:57--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 12:01:58--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:01:59--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:00--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.9.70, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 12:02:01--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:02--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:03--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 12:02:04--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:04--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:05--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 12:02:07--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:07--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:08--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 12:02:10--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:10--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:11--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 12:02:12--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:13--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:14--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 12:02:15--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:15--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:17--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 12:02:18--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:18--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:19--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 12:02:21--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:21--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:22--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 12:02:23--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:24--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:25--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.9.70, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 12:02:26--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:27--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:28--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 12:02:29--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:29--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:31--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+Terminated
+[1, 1, 3, 1, 2, 2, 1, 2, 2, 1, 2, 1, 1, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3]
+3 57
+60
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 12:02:32--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:32--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:34--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 12:02:35--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:35--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:36--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 12:02:39--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:39--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:40--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 12:02:41--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:42--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:43--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 12:02:45--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:46--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:47--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 12:02:48--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:49--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:50--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 12:02:51--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:52--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:53--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 12:02:55--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:56--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:02:57--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 12:02:58--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:02:59--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:00--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 12:03:01--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:01--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:03--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 12:03:04--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:04--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:06--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 12:03:07--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:07--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:08--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 12:03:09--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:10--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:11--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 12:03:12--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:13--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:14--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 12:03:16--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:17--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:18--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 223, 1, 221, 1, 1, 221, 1, 1, 1, 1, 1, 2, 189, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 189, 221, 221, 223]
+223 60
+283
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 12:03:19--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:19--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:21--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  447KTerminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-06 12:03:23--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:23--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:25--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.9.70, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ......Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-06 12:03:27--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:27--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:28--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-06 12:03:31--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:31--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:32--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-06 12:03:35--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:36--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:37--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  441KTerminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-06 12:03:39--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:40--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:41--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 172.67.71.144, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  448KTerminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-06 12:03:43--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:44--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:45--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ......Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-06 12:03:47--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:47--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:48--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  449KTerminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-06 12:03:51--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:51--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:52--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ......Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-06 12:03:54--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:55--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:03:56--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-06 12:03:58--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:03:59--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:00--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-06 12:04:03--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:04:04--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:05--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-06 12:04:07--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:04:07--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:09--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-06 12:04:11--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:04:11--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:12--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-06 12:04:15--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:04:15--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:16--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+[47, 0, 0, 50, 49, 48, 0, 47, 0, 0, 52, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 47, 47, 48, 49, 50, 52]
+52 283
+335
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-06 12:04:18--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:04:19--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:20--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-06 12:04:22--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:04:23--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:24--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-06 12:04:26--  http://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.ru/ [following]
+--2024-06-06 12:04:26--  https://5play.ru/
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:27--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  447K
+    50K .......... .                                            113K=0.2s
+
+2024-06-06 12:04:29 (287 KB/s) - ‘indexPage’ saved [63077]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 12:04:30--  https://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 104.26.6.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:31--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 99.2K
+    50K .......... .                                            113K=0.6s
+
+2024-06-06 12:04:33 (102 KB/s) - ‘indexPage’ saved [63077]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 12:04:33--  https://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 172.67.74.124, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:35--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .                                            112K=0.6s
+
+2024-06-06 12:04:37 (107 KB/s) - ‘indexPage’ saved [63077]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 12:04:37--  https://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:39--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .                                            112K=0.6s
+
+2024-06-06 12:04:41 (108 KB/s) - ‘indexPage’ saved [63077]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 12:04:41--  https://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:42--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .                                            113K=0.6s
+
+2024-06-06 12:04:44 (107 KB/s) - ‘indexPage’ saved [63077]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 12:04:45--  https://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:46--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.9.70, 104.26.8.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  449K
+    50K .......... .                                            112K=0.2s
+
+2024-06-06 12:04:48 (287 KB/s) - ‘indexPage’ saved [63077]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 12:04:48--  https://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.7.4, 172.67.74.124, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|104.26.7.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:50--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  450K
+    50K .......... .                                            112K=0.2s
+
+2024-06-06 12:04:52 (287 KB/s) - ‘indexPage’ saved [63077]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 12:04:52--  https://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:53--  https://5play.org/
+Resolving 5play.org (5play.org)... 172.67.71.144, 104.26.8.70, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|172.67.71.144|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  449K
+    50K .......... .                                            112K=0.2s
+
+2024-06-06 12:04:55 (287 KB/s) - ‘indexPage’ saved [63077]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 12:04:56--  https://5play.ru/
+Resolving 5play.ru (5play.ru)... 104.26.6.4, 104.26.7.4, 172.67.74.124, ...
+Connecting to 5play.ru (5play.ru)|104.26.6.4|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:04:57--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 12:04:59--  https://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:05:00--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .                                            112K=0.6s
+
+2024-06-06 12:05:02 (107 KB/s) - ‘indexPage’ saved [63077]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 12:05:02--  https://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.6.4, 104.26.7.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:05:04--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 172.67.71.144, 104.26.9.70, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .                                            112K=0.6s
+
+2024-06-06 12:05:06 (107 KB/s) - ‘indexPage’ saved [63077]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 12:05:06--  https://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:05:07--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.8.70, 104.26.9.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.8.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  448K
+    50K .......... .                                            112K=0.2s
+
+2024-06-06 12:05:09 (286 KB/s) - ‘indexPage’ saved [63077]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 12:05:10--  https://5play.ru/
+Resolving 5play.ru (5play.ru)... 172.67.74.124, 104.26.7.4, 104.26.6.4, ...
+Connecting to 5play.ru (5play.ru)|172.67.74.124|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://5play.org/ [following]
+--2024-06-06 12:05:11--  https://5play.org/
+Resolving 5play.org (5play.org)... 104.26.9.70, 104.26.8.70, 172.67.71.144, ...
+Connecting to 5play.org (5play.org)|104.26.9.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  151K
+    50K .......... .                                            113K=0.4s
+
+2024-06-06 12:05:13 (142 KB/s) - ‘indexPage’ saved [63077]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 335
+335

@@ -1,0 +1,1009 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-07 00:21:35--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-07 00:21:37--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-07 00:21:39--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-07 00:21:41--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-07 00:21:42--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-07 00:21:44--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-07 00:21:46--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-07 00:21:47--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.32, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-07 00:21:49--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.22, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-07 00:21:51--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.28, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-07 00:21:52--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.28, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-07 00:21:54--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-07 00:21:55--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-07 00:21:57--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.22, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-07 00:21:59--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-07 00:22:00--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.28, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-07 00:22:01--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-07 00:22:02--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-07 00:22:03--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-07 00:22:04--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-07 00:22:04--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-07 00:22:05--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-07 00:22:06--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-07 00:22:07--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.32, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-07 00:22:07--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.32, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-07 00:22:08--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-07 00:22:09--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-07 00:22:10--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.32, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-07 00:22:10--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-07 00:22:11--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.22, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-07 00:22:12--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-07 00:22:13--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-07 00:22:14--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-07 00:22:15--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-07 00:22:16--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-07 00:22:17--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-07 00:22:18--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.28, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-07 00:22:18--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-07 00:22:19--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.32, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-07 00:22:20--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.28, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-07 00:22:21--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-07 00:22:22--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-07 00:22:23--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-07 00:22:23--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-07 00:22:24--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[7, 7, 7, 7, 1, 1, 1, 1, 1, 1, 7, 1, 1, 7, 8]
+[1, 1, 1, 1, 1, 1, 1, 1, 7, 7, 7, 7, 7, 7, 8]
+8 2
+10
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-07 00:22:25--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.22, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:26--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-07 00:22:26--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:27--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-07 00:22:28--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:29--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-07 00:22:29--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:30--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-07 00:22:30--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.22, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:31--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-07 00:22:32--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:33--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-07 00:22:33--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:34--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-07 00:22:35--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:35--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-07 00:22:36--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.32, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:36--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-07 00:22:37--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-07 00:22:38--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:38--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-07 00:22:40--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:40--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-07 00:22:42--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:42--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-07 00:22:44--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.28, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:44--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-07 00:22:45--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:45--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4]
+4 10
+14
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-07 00:22:47--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.22, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:47--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-07 00:22:48--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:48--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-07 00:22:49--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:49--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-07 00:22:50--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:50--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-07 00:22:51--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:52--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-07 00:22:53--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:53--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-07 00:22:54--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:54--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-07 00:22:55--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:55--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-07 00:22:56--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.32, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:57--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-07 00:22:58--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:58--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-07 00:22:59--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:22:59--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-07 00:23:00--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:01--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-07 00:23:01--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:02--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-07 00:23:03--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.32, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:03--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-07 00:23:04--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:04--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+Terminated
+[20, 1, 1, 22, 1, 22, 1, 22, 21, 1, 22, 1, 20, 22, 21]
+[1, 1, 1, 1, 1, 1, 20, 20, 21, 21, 22, 22, 22, 22, 22]
+22 14
+36
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-07 00:23:05--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.28, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:06--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-07 00:23:07--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:07--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-07 00:23:08--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:09--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-07 00:23:10--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:10--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-07 00:23:11--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.22, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:12--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-07 00:23:12--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:13--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-07 00:23:14--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:14--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-07 00:23:15--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:16--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-07 00:23:16--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:17--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-07 00:23:18--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:18--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-07 00:23:19--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:19--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-07 00:23:21--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:21--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-07 00:23:22--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:22--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-07 00:23:23--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:24--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-07 00:23:25--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:25--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+Terminated
+[2, 2, 1, 1, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 4]
+4 36
+40
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-07 00:23:26--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:26--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-07 00:23:28--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:28--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-07 00:23:29--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.32, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:30--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-07 00:23:31--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.22, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:31--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-07 00:23:33--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:33--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-07 00:23:34--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:35--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-07 00:23:36--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:36--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-07 00:23:38--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:38--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-07 00:23:39--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:40--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-07 00:23:41--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:42--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-07 00:23:43--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:43--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-07 00:23:45--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.32, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:45--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-07 00:23:46--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:46--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-07 00:23:48--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.28, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:48--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-07 00:23:49--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.28, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:50--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[13, 14, 15, 13, 14, 12, 13, 14, 13, 13, 13, 1, 13, 1, 14]
+[1, 1, 12, 13, 13, 13, 13, 13, 13, 13, 14, 14, 14, 14, 15]
+15 40
+55
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-07 00:23:51--  http://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acessounico.mec.gov.br/ [following]
+--2024-06-07 00:23:51--  https://acessounico.mec.gov.br/
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  357M=0s
+
+2024-06-07 00:23:52 (357 MB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:23:53--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100% 1.01G=0s
+
+2024-06-07 00:23:53 (1.01 GB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:23:54--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.26, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  969M=0s
+
+2024-06-07 00:23:54 (969 MB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:23:55--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  580M=0s
+
+2024-06-07 00:23:56 (580 MB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:23:56--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  493M=0s
+
+2024-06-07 00:23:57 (493 MB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:23:57--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.28, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  115K=0.01s
+
+2024-06-07 00:23:58 (115 KB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:23:59--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.22, 3.163.125.32, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  483M=0s
+
+2024-06-07 00:23:59 (483 MB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:24:00--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  114K=0.01s
+
+2024-06-07 00:24:00 (114 KB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:24:01--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  614M=0s
+
+2024-06-07 00:24:02 (614 MB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:24:02--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.32, 3.163.125.28, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  607M=0s
+
+2024-06-07 00:24:03 (607 MB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:24:03--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  115K=0.01s
+
+2024-06-07 00:24:04 (115 KB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:24:05--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.28, 3.163.125.26, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  573M=0s
+
+2024-06-07 00:24:05 (573 MB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:24:06--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.32, 3.163.125.22, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  512M=0s
+
+2024-06-07 00:24:07 (512 MB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:24:07--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.22, 3.163.125.28, 3.163.125.26, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.22|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  571M=0s
+
+2024-06-07 00:24:08 (571 MB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 00:24:08--  https://acessounico.mec.gov.br/
+Resolving acessounico.mec.gov.br (acessounico.mec.gov.br)... 3.163.125.26, 3.163.125.32, 3.163.125.22, ...
+Connecting to acessounico.mec.gov.br (acessounico.mec.gov.br)|3.163.125.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1517 (1.5K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  387M=0s
+
+2024-06-07 00:24:09 (387 MB/s) - ‘indexPage’ saved [1517/1517]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 55
+55

@@ -1,0 +1,2376 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 08:02:51--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 08:02:53--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 08:02:54--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 08:02:56--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 08:02:58--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 08:02:59--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 08:03:01--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 08:03:03--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 08:03:04--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 08:03:06--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 08:03:07--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 08:03:09--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 08:03:11--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 08:03:12--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 08:03:14--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 08:03:16--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 08:03:17--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 08:03:17--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 08:03:18--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 08:03:19--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 08:03:20--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 08:03:20--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 08:03:21--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 08:03:22--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 08:03:23--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 08:03:24--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 08:03:24--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 08:03:25--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 08:03:26--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 08:03:27--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 08:03:28--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 08:03:29--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 08:03:29--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 08:03:30--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 08:03:31--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 08:03:32--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 08:03:33--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 08:03:34--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 08:03:35--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 08:03:36--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 08:03:37--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 08:03:38--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 08:03:38--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 08:03:39--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 08:03:40--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 1, 1, 2, 1, 1, 1, 2, 2, 2, 2, 1, 2, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2]
+2 2
+4
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 08:03:41--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 08:03:42--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:03:43--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 08:03:43--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:03:44--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 08:03:45--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:03:45--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 08:03:47--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:03:47--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 08:03:48--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:03:48--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 08:03:50--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:03:50--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 08:03:52--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:03:52--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 08:03:54--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:03:54--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 08:03:55--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:03:56--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 08:03:56--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:03:57--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 08:03:57--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:03:58--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 08:03:59--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 08:04:00--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:01--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 08:04:02--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:03--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+Terminated
+[2, 1, 2, 2, 1, 2, 1, 1, 1, 2, 2, 2, 2, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2]
+2 4
+6
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 08:04:04--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:04--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 08:04:05--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:05--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 08:04:06--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:07--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 08:04:07--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:08--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 08:04:09--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:09--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 08:04:10--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:10--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 08:04:11--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:11--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 08:04:12--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:12--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 08:04:13--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:13--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 08:04:14--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:14--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 08:04:15--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:15--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 08:04:16--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:16--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 08:04:17--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:17--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 08:04:18--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:18--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 08:04:19--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:19--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+Terminated
+[1, 1, 18, 1, 18, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 18, 18]
+18 6
+24
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 08:04:20--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:21--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 08:04:22--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:22--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 08:04:23--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:24--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 08:04:25--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:25--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 08:04:26--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:26--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 08:04:28--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:28--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 08:04:29--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:30--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 08:04:31--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:31--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 08:04:32--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:33--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 08:04:34--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:34--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 08:04:35--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:36--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 08:04:37--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:37--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 08:04:38--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:39--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 08:04:40--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:40--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 08:04:41--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:42--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+Terminated
+[1, 2, 1, 1, 1, 2, 2, 1, 2, 3, 1, 2, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3]
+3 24
+27
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 08:04:43--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:43--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 08:04:44--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:45--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 08:04:46--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:46--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 08:04:47--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:48--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 08:04:49--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:49--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 08:04:50--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:50--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 08:04:51--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:52--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 08:04:53--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:53--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 08:04:54--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:54--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 08:04:56--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:56--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 08:04:57--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:58--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 08:04:59--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:04:59--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 08:05:00--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:00--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 08:05:02--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:02--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 08:05:03--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:04--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 2, 1, 2, 1, 2, 1, 74, 92, 0]
+[0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 74, 92]
+92 27
+119
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 08:05:05--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:05--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 08:05:06--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:07--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 08:05:08--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:08--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 08:05:09--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:09--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 08:05:10--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:11--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 08:05:12--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:12--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 08:05:14--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:14--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 08:05:15--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:15--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 08:05:16--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:17--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 08:05:18--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:18--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 08:05:19--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:19--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 08:05:21--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:21--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 08:05:23--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:23--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 08:05:24--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:25--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 08:05:26--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:27--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 108, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 108]
+108 119
+227
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 08:05:28--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:29--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 08:05:30--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:30--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 08:05:32--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:32--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 08:05:35--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:35--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 08:05:37--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:37--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 08:05:40--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:40--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 08:05:41--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:42--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 08:05:44--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:44--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 08:05:47--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:47--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 08:05:50--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:50--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 08:05:51--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:51--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ....Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 08:05:54--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:55--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 08:05:56--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:56--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 08:05:57--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:57--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 08:05:59--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:05:59--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 187, 0, 186, 0, 171, 189, 175, 0, 174, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 171, 174, 175, 186, 187, 189]
+189 227
+416
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 08:06:01--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:01--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 08:06:02--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:02--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 08:06:03--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:04--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  110K
+    50K .......... .......... .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 08:06:07--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:07--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 08:06:08--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:08--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... ......Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 08:06:11--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:12--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 08:06:13--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:13--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 08:06:14--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:14--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 08:06:16--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:16--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 08:06:19--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:19--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 08:06:20--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:21--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  110K
+    50K .......... .......... .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 08:06:24--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:24--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  110K
+    50K .......... .......... .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 08:06:27--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:27--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 08:06:28--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:29--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 08:06:30--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:30--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 174, 0, 187, 0, 0, 0, 171, 0, 171, 171, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 171, 171, 171, 174, 187]
+187 416
+603
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 08:06:31--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:31--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 08:06:32--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:33--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 08:06:34--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:34--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 08:06:36--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:36--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 08:06:37--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:38--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 08:06:39--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:39--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 08:06:43--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:43--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 08:06:45--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:45--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  109K
+    50K .......... .......... .......... .......... ..........  102K
+   100K .......... .......... .......... ..Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 08:06:49--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:49--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... .......... .......... ..........  102K
+   100K .......... .......... .......... ..Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 08:06:53--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:53--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 08:06:55--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:55--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 08:06:56--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:06:56--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  110K
+    50K .......... .......... .......... .......... ..........  102K
+   100K .......... .......... .......... ..Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 08:07:00--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:00--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 08:07:01--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:01--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 08:07:03--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:03--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 173, 0, 174, 201, 0, 0, 174, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 173, 174, 174, 201]
+201 603
+804
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 08:07:05--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:05--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-06 08:07:07--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:07--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-06 08:07:08--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:09--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-06 08:07:10--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:11--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  109K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... ..........Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-06 08:07:16--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:16--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-06 08:07:17--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:17--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-06 08:07:18--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:19--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  104K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... ..........Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-06 08:07:24--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:24--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-06 08:07:26--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:26--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-06 08:07:28--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:28--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-06 08:07:30--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:30--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... ........Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-06 08:07:34--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:34--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-06 08:07:36--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:36--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-06 08:07:38--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:38--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-06 08:07:39--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:39--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 213, 0, 0, 211, 0, 0, 0, 157, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 157, 211, 213]
+213 804
+1017
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-06 08:07:41--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:41--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-06 08:07:43--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:43--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-06 08:07:44--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:45--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-06 08:07:46--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:46--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-06 08:07:47--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:48--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-06 08:07:49--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:50--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  106K
+   200K .......... .......... .........Terminated
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-06 08:07:54--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:54--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-06 08:07:56--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:56--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-06 08:07:57--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:58--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-06 08:07:59--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:07:59--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-06 08:08:01--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:01--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-06 08:08:02--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:03--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  109K
+    50K .......... .......... .......... .......... ..........  102K
+   100K .......... .......... .......... .......... ..........  111K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... ...Terminated
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-06 08:08:07--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:07--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-06 08:08:08--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:09--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-06 08:08:10--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:11--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 119, 0, 0, 0, 0, 0, 121, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 119, 121]
+121 1017
+1138
+--------------------------------- RTT-14, TRIAL-1 ----------------------
+--2024-06-06 08:08:12--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:12--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-14, TRIAL-2 ----------------------
+--2024-06-06 08:08:14--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:14--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-14, TRIAL-3 ----------------------
+--2024-06-06 08:08:15--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:16--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-14, TRIAL-4 ----------------------
+--2024-06-06 08:08:17--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:17--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-14, TRIAL-5 ----------------------
+--2024-06-06 08:08:18--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:19--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-14, TRIAL-6 ----------------------
+--2024-06-06 08:08:20--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:21--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-14, TRIAL-7 ----------------------
+--2024-06-06 08:08:22--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:22--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  109K
+    50K .......... .......... .......... .......... ..........  102K
+   100K .......... .......... .......... .......... ..........  111K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .......... .......... 99.2K
+   250K .....Terminated
+--------------------------------- RTT-14, TRIAL-8 ----------------------
+--2024-06-06 08:08:27--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:27--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-14, TRIAL-9 ----------------------
+--2024-06-06 08:08:28--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:28--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  109K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .......... .......... 99.0K
+   250K .....Terminated
+--------------------------------- RTT-14, TRIAL-10 ----------------------
+--2024-06-06 08:08:32--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:33--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-14, TRIAL-11 ----------------------
+--2024-06-06 08:08:34--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:34--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-14, TRIAL-12 ----------------------
+--2024-06-06 08:08:35--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:36--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-14, TRIAL-13 ----------------------
+--2024-06-06 08:08:37--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:37--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-14, TRIAL-14 ----------------------
+--2024-06-06 08:08:39--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:39--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-14, TRIAL-15 ----------------------
+--2024-06-06 08:08:40--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:41--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 0, 123, 0, 121, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 121, 123]
+123 1138
+1261
+--------------------------------- RTT-15, TRIAL-1 ----------------------
+--2024-06-06 08:08:42--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:42--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-2 ----------------------
+--2024-06-06 08:08:44--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:44--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-3 ----------------------
+--2024-06-06 08:08:46--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 104.22.35.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:46--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-4 ----------------------
+--2024-06-06 08:08:47--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:48--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-5 ----------------------
+--2024-06-06 08:08:49--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:50--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-6 ----------------------
+--2024-06-06 08:08:51--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 104.22.34.226, 172.67.6.182, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:51--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-7 ----------------------
+--2024-06-06 08:08:52--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:53--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-8 ----------------------
+--2024-06-06 08:08:54--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:55--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-9 ----------------------
+--2024-06-06 08:08:56--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.35.226, 172.67.6.182, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:56--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.35.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-10 ----------------------
+--2024-06-06 08:08:58--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.34.226, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:08:58--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-11 ----------------------
+--2024-06-06 08:09:00--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:09:00--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-12 ----------------------
+--2024-06-06 08:09:02--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:09:02--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-13 ----------------------
+--2024-06-06 08:09:03--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 104.22.34.226, 172.67.6.182, 104.22.35.226, ...
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:09:04--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|104.22.34.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-14 ----------------------
+--2024-06-06 08:09:05--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:09:06--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-15, TRIAL-15 ----------------------
+--2024-06-06 08:09:07--  http://4pda.to/
+Resolving 4pda.to (4pda.to)... 172.67.6.182, 104.22.35.226, 104.22.34.226, ...
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4pda.to/ [following]
+--2024-06-06 08:09:07--  https://4pda.to/
+Connecting to 4pda.to (4pda.to)|172.67.6.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 1261
+1261

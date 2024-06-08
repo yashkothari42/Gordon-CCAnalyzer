@@ -1,0 +1,1476 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 00:33:27--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 00:33:28--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 00:33:30--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 00:33:32--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 00:33:33--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 00:33:35--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 00:33:37--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 00:33:38--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 00:33:40--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 00:33:41--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 00:33:43--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 00:33:45--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 00:33:46--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 00:33:48--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 00:33:50--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 00:33:51--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 00:33:52--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 00:33:53--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 00:33:54--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 00:33:55--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 00:33:55--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 00:33:56--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 00:33:57--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 00:33:58--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 00:33:58--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 00:33:59--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 00:34:00--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 00:34:01--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 00:34:02--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 00:34:02--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 00:34:03--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 00:34:04--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 00:34:05--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 00:34:06--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 00:34:07--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 00:34:08--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 00:34:08--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 00:34:09--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 00:34:10--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 00:34:11--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 00:34:12--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 00:34:13--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 00:34:13--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 00:34:14--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 00:34:15--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 4, 1, 4, 1, 1, 4, 1, 1, 1, 1, 4, 4, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 00:34:16--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:17--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 00:34:18--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:19--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 00:34:19--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:20--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 00:34:21--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:22--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 00:34:22--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:22--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 00:34:24--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:24--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 00:34:26--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:27--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 00:34:27--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:28--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 00:34:28--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:29--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 00:34:30--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:30--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 00:34:31--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:32--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 00:34:33--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:34--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 00:34:34--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:35--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 00:34:35--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:36--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 00:34:37--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:38--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+[1, 1, 2, 2, 2, 1, 1, 2, 2, 2, 1, 2, 2, 2, 1]
+[1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 00:34:39--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:40--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 00:34:40--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:41--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 00:34:41--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:42--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 00:34:42--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:43--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 00:34:44--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:44--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 00:34:45--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:45--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 00:34:46--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:46--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 00:34:47--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:47--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 00:34:48--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:48--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 00:34:49--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:49--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 00:34:50--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:50--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 00:34:51--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:51--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 00:34:52--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:53--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 00:34:53--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:54--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 00:34:54--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:55--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+[1, 1, 1, 19, 1, 1, 1, 1, 19, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19, 19]
+19 8
+27
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 00:34:55--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:56--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 00:34:57--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:57--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 00:34:58--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:34:59--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 00:35:00--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:00--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 00:35:01--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:02--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 00:35:03--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:03--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 00:35:04--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:05--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 00:35:06--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:06--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 00:35:07--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:08--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 00:35:09--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:09--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 00:35:10--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:11--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 00:35:12--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:12--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 00:35:13--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:14--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 00:35:15--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:15--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 00:35:16--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:17--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+[1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 2, 1, 2, 2]
+[1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 27
+29
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 00:35:18--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:18--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 00:35:19--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:20--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 00:35:21--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:21--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 00:35:22--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:22--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 00:35:23--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:24--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 00:35:25--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:25--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 00:35:26--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:26--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 00:35:27--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:28--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 00:35:29--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:29--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 00:35:30--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:30--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 00:35:31--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:32--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 00:35:33--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:33--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 00:35:34--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:35--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 00:35:35--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:36--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 00:35:37--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:37--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 2, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2]
+2 29
+31
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 00:35:39--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:39--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 00:35:40--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:41--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 00:35:42--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:42--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 00:35:43--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:43--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 00:35:44--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:45--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 00:35:46--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:46--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 00:35:48--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:48--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 00:35:49--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:49--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 00:35:51--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:51--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 00:35:52--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:52--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 00:35:53--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:54--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 00:35:55--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:55--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 00:35:56--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:57--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 00:35:57--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:58--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 00:35:59--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:35:59--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 119, 0, 1, 0, 0, 0, 0, 1, 1, 1]
+[0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 119]
+119 31
+150
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 00:36:00--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:01--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 00:36:02--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:03--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 00:36:04--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:05--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 00:36:07--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:07--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 00:36:08--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:09--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 00:36:10--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:10--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 00:36:11--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:12--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 00:36:13--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:14--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 00:36:15--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:15--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 00:36:17--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:17--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 00:36:18--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:19--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 00:36:20--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:20--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 00:36:22--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:22--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 00:36:23--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:24--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 00:36:26--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:26--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 118, 185, 0, 0, 0, 186, 0, 0, 0, 0, 0, 0, 145, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 118, 145, 185, 186]
+186 150
+336
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 00:36:27--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:27--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 00:36:28--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:29--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 00:36:30--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:31--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 00:36:32--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:32--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 00:36:33--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:34--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 00:36:37--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:37--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 00:36:38--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:38--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 00:36:39--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:40--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  154K
+    50K .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 00:36:42--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:42--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 00:36:43--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:44--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 00:36:45--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:45--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 00:36:46--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:46--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 00:36:49--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:49--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 00:36:50--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:51--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 00:36:52--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:52--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......Terminated
+[0, 0, 0, 0, 41, 0, 0, 35, 0, 0, 0, 37, 0, 0, 36]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 35, 36, 37, 41]
+41 336
+377
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 00:36:55--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:55--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 00:36:56--  http://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1pornxxx.com/ [following]
+--2024-06-06 00:36:57--  https://1pornxxx.com/
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... ........                          114K=0.7s
+
+2024-06-06 00:36:58 (109 KB/s) - ‘indexPage’ saved [80052]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:36:59--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... ........                          116K=0.7s
+
+2024-06-06 00:37:00 (110 KB/s) - ‘indexPage’ saved [80052]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:37:01--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:37:02--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  107K
+    50K .......... .......... ........                          114K=0.7s
+
+2024-06-06 00:37:03 (109 KB/s) - ‘indexPage’ saved [80052]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:37:04--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:37:05--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:37:06--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:37:07--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  706K
+    50K .......... .......... ........                          114K=0.3s
+
+2024-06-06 00:37:09 (246 KB/s) - ‘indexPage’ saved [80052]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:37:09--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:37:10--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3030::ac43:c70b, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:37:11--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:37:12--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... ........                          113K=0.7s
+
+2024-06-06 00:37:14 (109 KB/s) - ‘indexPage’ saved [80052]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:37:14--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 172.67.199.11, 104.21.44.112, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|172.67.199.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 00:37:15--  https://1pornxxx.com/
+Resolving 1pornxxx.com (1pornxxx.com)... 104.21.44.112, 172.67.199.11, 2606:4700:3033::6815:2c70, ...
+Connecting to 1pornxxx.com (1pornxxx.com)|104.21.44.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 377
+377

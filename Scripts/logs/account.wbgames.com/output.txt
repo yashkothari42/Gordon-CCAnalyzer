@@ -1,0 +1,1181 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 15:32:24--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 15:32:26--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 15:32:27--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.35, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 15:32:29--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 15:32:31--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 15:32:32--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 15:32:34--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 15:32:36--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.35, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 15:32:37--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 15:32:39--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.35, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 15:32:41--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.30, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 15:32:42--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 15:32:44--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 15:32:46--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 15:32:47--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.30, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2]
+2 0
+2
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 15:32:49--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 15:32:50--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 15:32:50--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 15:32:51--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 15:32:52--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.106, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 15:32:53--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.106, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 15:32:54--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 15:32:55--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.35, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 15:32:56--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.35, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 15:32:56--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 15:32:57--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 15:32:58--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 15:32:59--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 15:33:00--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.32, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 15:33:01--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 3, 1, 3, 3, 1, 3, 1, 1, 1, 1, 3]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3]
+3 2
+5
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 15:33:02--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.35, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:02--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 15:33:03--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.35, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:04--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 15:33:05--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:06--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 15:33:07--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:07--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 15:33:08--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:09--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 15:33:10--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:11--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 15:33:11--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.35, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:11--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 15:33:13--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:14--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 15:33:14--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.106, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 15:33:15--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:16--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 15:33:17--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.30, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:17--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 15:33:18--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 15:33:19--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.35, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:19--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 15:33:21--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.32, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 15:33:22--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.106, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:22--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+Terminated
+[1, 1, 1, 2, 2, 2, 3, 3, 2, 1, 3, 3, 2, 2, 1]
+[1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3]
+3 5
+8
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 15:33:24--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:24--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 15:33:25--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.32, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:25--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 15:33:26--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.35, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:26--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 15:33:27--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:27--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 15:33:28--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.106, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:28--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 15:33:29--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:29--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 15:33:30--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.32, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:30--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 15:33:31--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.106, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:32--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 15:33:33--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.32, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:33--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 15:33:34--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:34--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 15:33:35--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:35--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 15:33:36--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.32, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:36--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 15:33:37--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.30, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:37--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 15:33:38--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:38--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 15:33:39--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:39--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+Terminated
+[1, 1, 1, 23, 1, 1, 22, 1, 1, 1, 1, 1, 1, 1, 24]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 22, 23, 24]
+24 8
+32
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 15:33:40--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.32, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:40--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 15:33:42--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:42--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 15:33:43--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:43--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 15:33:44--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:44--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 15:33:46--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:46--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 15:33:47--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.106, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:47--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 15:33:49--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.35, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:49--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 15:33:50--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.30, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:50--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 15:33:51--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:52--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 15:33:53--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:53--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 15:33:54--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:55--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 15:33:56--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:56--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 15:33:58--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:58--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 15:33:59--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.32, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:33:59--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 15:34:00--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:00--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 2, 3, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 3]
+3 32
+35
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 15:34:01--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:02--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 15:34:03--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:03--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 15:34:05--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:05--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 15:34:06--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.32, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:07--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 15:34:08--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:08--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 15:34:10--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.35, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:10--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 15:34:11--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.30, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:12--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 15:34:12--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:13--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 15:34:14--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.35, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:15--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 15:34:16--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.35, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:16--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 15:34:17--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:17--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 15:34:19--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:19--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 15:34:21--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:21--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 15:34:22--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:23--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 15:34:24--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:24--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+Terminated
+[13, 15, 13, 14, 14, 15, 1, 12, 14, 1, 11, 13, 13, 13, 2]
+[1, 1, 2, 11, 12, 13, 13, 13, 13, 13, 14, 14, 14, 15, 15]
+15 35
+50
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 15:34:26--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:26--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  571M=0s
+
+2024-06-06 15:34:27 (571 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 15:34:27--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:27--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  662M=0s
+
+2024-06-06 15:34:28 (662 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 15:34:29--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:29--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  751M=0s
+
+2024-06-06 15:34:29 (751 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 15:34:30--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:30--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 15:34:32--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.106, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:32--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  663M=0s
+
+2024-06-06 15:34:33 (663 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 15:34:33--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:33--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  842M=0s
+
+2024-06-06 15:34:35 (842 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 15:34:35--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.106, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:35--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 15:34:37--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.30, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:37--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 15:34:39--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:39--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  676M=0s
+
+2024-06-06 15:34:40 (676 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 15:34:40--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.32, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:41--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 15:34:42--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:42--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  723M=0s
+
+2024-06-06 15:34:43 (723 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 15:34:44--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:44--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 15:34:45--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:46--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  736M=0s
+
+2024-06-06 15:34:46 (736 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 15:34:47--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:47--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  647M=0s
+
+2024-06-06 15:34:48 (647 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 15:34:48--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:48--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  856M=0s
+
+2024-06-06 15:34:50 (856 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+[0, 0, 0, 4, 0, 1, 2, 3, 1, 4, 0, 2, 0, 0, 1]
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 3, 4, 4]
+4 50
+54
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 15:34:50--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:50--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  965M=0s
+
+2024-06-06 15:34:51 (965 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 15:34:51--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:52--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  810M=0s
+
+2024-06-06 15:34:52 (810 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 15:34:53--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:53--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100% 1.73G=0s
+
+2024-06-06 15:34:54 (1.73 GB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 15:34:54--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.32, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:55--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100% 1.11G=0s
+
+2024-06-06 15:34:55 (1.11 GB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 15:34:56--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:56--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  839M=0s
+
+2024-06-06 15:34:57 (839 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 15:34:57--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.35, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:58--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100% 1.90G=0s
+
+2024-06-06 15:34:58 (1.90 GB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 15:34:59--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.106, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:34:59--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100% 1.47G=0s
+
+2024-06-06 15:35:00 (1.47 GB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 15:35:00--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:35:00--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  103K=0.03s
+
+2024-06-06 15:35:01 (103 KB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 15:35:02--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.106, 18.164.154.30, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:35:02--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100% 1.83G=0s
+
+2024-06-06 15:35:02 (1.83 GB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 15:35:03--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.35, 18.164.154.30, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:35:03--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100% 1.97G=0s
+
+2024-06-06 15:35:04 (1.97 GB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 15:35:04--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.32, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:35:05--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  655M=0s
+
+2024-06-06 15:35:05 (655 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 15:35:06--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.30, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:35:06--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100% 1.75G=0s
+
+2024-06-06 15:35:07 (1.75 GB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 15:35:07--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.106, 18.164.154.35, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:35:08--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  102K=0.03s
+
+2024-06-06 15:35:08 (102 KB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 15:35:09--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.32, 18.164.154.30, 18.164.154.106, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:35:09--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  699M=0s
+
+2024-06-06 15:35:10 (699 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 15:35:10--  http://account.wbgames.com/
+Resolving account.wbgames.com (account.wbgames.com)... 18.164.154.30, 18.164.154.35, 18.164.154.32, ...
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.wbgames.com/ [following]
+--2024-06-06 15:35:10--  https://account.wbgames.com/
+Connecting to account.wbgames.com (account.wbgames.com)|18.164.154.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2697 (2.6K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ..                                                    100%  823M=0s
+
+2024-06-06 15:35:11 (823 MB/s) - ‘indexPage’ saved [2697/2697]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 54
+54

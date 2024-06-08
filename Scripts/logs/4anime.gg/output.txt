@@ -1,0 +1,1657 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 07:58:09--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 07:58:11--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 07:58:13--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 07:58:15--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 07:58:16--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 07:58:18--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 07:58:20--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 07:58:21--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 07:58:23--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 07:58:25--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 07:58:26--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 07:58:28--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 07:58:30--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 07:58:31--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 07:58:33--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 07:58:35--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 07:58:35--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 07:58:36--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 07:58:37--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 07:58:38--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 07:58:38--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 07:58:39--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 07:58:40--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 07:58:41--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 07:58:42--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 07:58:42--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 07:58:43--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 07:58:44--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 07:58:45--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 07:58:45--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 07:58:46--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 07:58:47--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 07:58:48--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 07:58:49--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 07:58:50--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 07:58:51--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 07:58:52--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 07:58:53--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 07:58:54--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 07:58:55--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 07:58:55--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 07:58:56--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 07:58:57--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 07:58:58--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 07:58:59--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 4, 4, 4, 1, 1, 1, 4, 4, 1, 4, 1, 1, 1, 4]
+[1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 07:59:00--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:00--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 07:59:02--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:02--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 07:59:04--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:04--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 07:59:05--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:06--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 07:59:06--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:07--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 07:59:08--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:08--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 07:59:10--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:10--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 07:59:12--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:13--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 07:59:13--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:14--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 07:59:14--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:15--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 07:59:16--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:16--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 07:59:18--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:18--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 07:59:20--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:20--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 07:59:21--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:22--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 07:59:22--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:23--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+[1, 1, 1, 2, 2, 1, 1, 1, 2, 2, 2, 1, 1, 2, 2]
+[1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 07:59:24--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:24--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 07:59:25--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:26--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 07:59:26--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:27--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 07:59:27--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:28--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 07:59:28--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:29--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 07:59:29--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:30--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 07:59:30--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:31--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 07:59:32--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:32--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 07:59:33--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:33--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 07:59:34--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:34--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 07:59:35--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:35--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 07:59:36--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:36--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 07:59:37--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:37--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 07:59:38--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:38--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 07:59:39--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:39--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 19, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19]
+19 8
+27
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 07:59:40--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:40--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 07:59:41--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:42--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 07:59:43--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:43--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 07:59:45--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:45--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 07:59:46--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:47--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 07:59:48--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:48--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 07:59:49--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:50--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 07:59:51--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:51--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 07:59:52--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:53--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 07:59:54--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:54--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 07:59:56--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:56--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 07:59:57--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:57--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 07:59:58--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 07:59:59--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 08:00:00--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:00--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 08:00:01--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:02--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+Terminated
+[2, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 1, 2, 2, 1]
+[1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 27
+29
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 08:00:03--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:03--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 08:00:05--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:05--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 08:00:06--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:06--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 08:00:08--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:08--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 08:00:09--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:09--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 08:00:10--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:10--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 08:00:12--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:12--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 08:00:13--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:14--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 08:00:15--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:15--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 08:00:16--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:17--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 08:00:18--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:18--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 08:00:20--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:20--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 08:00:21--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:22--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 08:00:23--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:23--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 08:00:24--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:24--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 0, 1, 1]
+[0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2]
+2 29
+31
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 08:00:26--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:26--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 08:00:27--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:28--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 08:00:30--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:30--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 08:00:31--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:31--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 08:00:33--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:33--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 08:00:34--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:35--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 08:00:37--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:37--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 08:00:38--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:39--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 08:00:40--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:40--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 08:00:41--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:42--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 08:00:43--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:43--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 08:00:45--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:45--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 08:00:47--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:47--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 08:00:49--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:49--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 08:00:50--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:50--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 186, 1, 0, 1, 84, 1, 0, 0, 1, 1, 185, 1, 0, 167]
+[0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 84, 167, 185, 186]
+186 31
+217
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 08:00:52--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:53--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 08:00:54--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:55--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 08:00:56--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:56--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 08:00:58--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:00:58--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 08:01:00--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:01--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 08:01:03--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:03--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 08:01:04--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:05--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 08:01:08--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:08--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 08:01:10--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:10--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 08:01:12--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:12--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 08:01:13--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:14--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 08:01:17--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:17--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 08:01:20--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:20--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 08:01:21--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:22--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 08:01:24--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:24--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 0, 0, 179, 0, 169, 126, 0, 0, 170, 170, 0, 169, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 126, 169, 169, 170, 170, 179]
+179 217
+396
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 08:01:26--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:26--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 08:01:27--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:28--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 08:01:29--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:29--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 08:01:30--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:31--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 08:01:32--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:32--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 08:01:33--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:34--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 08:01:35--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:35--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 08:01:37--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:37--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 08:01:38--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:39--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 08:01:40--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:40--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 08:01:42--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:43--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 08:01:44--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:45--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 08:01:46--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:47--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  103K
+    50K .......... .......... .......... .Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 08:01:50--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:50--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  102K
+    50K .......... .......... .......... .Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 08:01:53--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:54--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 187, 177, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 177, 187]
+187 396
+583
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 08:01:55--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:55--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 08:01:56--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:57--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 08:01:58--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:01:58--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 08:02:00--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:00--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 08:02:02--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:02--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 08:02:03--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:04--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  103K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 08:02:07--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:07--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  678K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 08:02:10--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:11--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 08:02:12--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:12--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  105K
+   100K .......... .......... .....Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 08:02:16--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:16--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  503K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 08:02:20--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:20--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 08:02:21--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:22--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 08:02:23--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:23--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 08:02:25--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:25--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 08:02:27--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:27--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+[0, 0, 0, 0, 0, 77, 73, 0, 79, 72, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 72, 73, 77, 79]
+79 583
+662
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 08:02:28--  http://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4anime.gg/ [following]
+--2024-06-06 08:02:29--  https://4anime.gg/
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  496K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... .....       113K=0.9s
+
+2024-06-06 08:02:31 (153 KB/s) - ‘indexPage’ saved [148665]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:31--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .......... .......... ..........  119K
+   100K .......... .......... .......... .......... .....       114K=1.3s
+
+2024-06-06 08:02:33 (112 KB/s) - ‘indexPage’ saved [148665]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:34--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:35--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:36--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:38--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:39--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:40--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:42--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:43--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:44--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:45--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3030::6815:d61, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:47--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 104.21.13.97, 172.67.132.202, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|104.21.13.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:48--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 08:02:49--  https://4anime.gg/
+Resolving 4anime.gg (4anime.gg)... 172.67.132.202, 104.21.13.97, 2606:4700:3032::ac43:84ca, ...
+Connecting to 4anime.gg (4anime.gg)|172.67.132.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 662
+662

@@ -1,0 +1,1794 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 00:01:49--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 00:01:51--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 00:01:53--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 00:01:54--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 00:01:56--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 00:01:58--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 00:01:59--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 00:02:01--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 00:02:03--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 00:02:04--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 00:02:06--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 00:02:08--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 00:02:09--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 00:02:11--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 00:02:13--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 00:02:14--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 00:02:15--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 00:02:16--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 00:02:17--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 00:02:17--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 00:02:18--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 00:02:19--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 00:02:20--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 00:02:20--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 00:02:21--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 00:02:22--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 00:02:23--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 00:02:24--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 00:02:24--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 00:02:25--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 00:02:26--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 00:02:27--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 00:02:28--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 00:02:29--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 00:02:30--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 00:02:31--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 00:02:31--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 00:02:32--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 00:02:33--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 00:02:34--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 00:02:35--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 00:02:36--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 00:02:37--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 00:02:38--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 00:02:39--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 4, 4, 4, 1, 4, 4, 4, 1, 4, 4, 4, 4, 1]
+[1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 00:02:40--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:41--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 00:02:42--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:42--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 00:02:43--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:44--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 00:02:44--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:45--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 00:02:45--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:46--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 00:02:47--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:47--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 00:02:49--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:49--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 00:02:50--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:51--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 00:02:51--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:51--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 00:02:53--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:54--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 00:02:54--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:55--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 00:02:56--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:56--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 00:02:58--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:02:58--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 00:02:59--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:00--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 00:03:00--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:01--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... Terminated
+[1, 2, 2, 2, 2, 2, 1, 2, 2, 1, 2, 2, 1, 2, 2]
+[1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 00:03:01--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:02--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 00:03:03--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:03--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 00:03:04--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:04--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 00:03:05--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:05--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 00:03:06--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:06--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 00:03:07--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:07--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 00:03:08--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:09--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 00:03:09--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:10--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 00:03:10--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:11--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 00:03:11--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:12--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 00:03:13--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:13--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 00:03:14--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:14--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 00:03:15--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:15--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 00:03:16--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:16--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 00:03:17--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:17--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+Terminated
+[19, 1, 1, 1, 1, 18, 1, 1, 1, 18, 1, 1, 1, 1, 18]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 18, 18, 18, 19]
+19 8
+27
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 00:03:18--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:18--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 00:03:19--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:20--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 00:03:21--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:21--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 00:03:22--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:22--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 00:03:24--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:24--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 00:03:25--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:25--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 00:03:26--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:27--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 00:03:28--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:28--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 00:03:29--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:30--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 00:03:31--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:31--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 00:03:33--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:33--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 00:03:34--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:35--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 00:03:36--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:36--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 00:03:37--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:37--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 00:03:39--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:39--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+Terminated
+[1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2]
+2 27
+29
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 00:03:40--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:41--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 00:03:42--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:42--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 00:03:43--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:44--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 00:03:45--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:45--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 00:03:47--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:47--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 00:03:49--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:49--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 00:03:51--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:51--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 00:03:53--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:53--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 00:03:54--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:55--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 00:03:56--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:56--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 00:03:58--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:58--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 00:03:59--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:03:59--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 00:04:00--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:01--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 00:04:02--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:02--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 00:04:03--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:04--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 5, 4, 5, 1, 1, 5, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 5, 5, 5]
+5 29
+34
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 00:04:05--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:05--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:07--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 00:04:07--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:08--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:09--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 00:04:10--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:10--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 00:04:12--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:12--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:13--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 00:04:13--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:14--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 00:04:16--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:16--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 00:04:18--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:18--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:19--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 00:04:20--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:20--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:21--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 00:04:22--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:22--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 00:04:23--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:24--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:25--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 00:04:25--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:26--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 00:04:27--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:28--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 00:04:30--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:30--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:31--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 00:04:31--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:32--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 00:04:34--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:34--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+Terminated
+[3, 1, 2, 1, 2, 2, 1, 2, 5, 3, 2, 2, 2, 2, 3]
+[1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 5]
+5 34
+39
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 00:04:36--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:36--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:37--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 00:04:38--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:39--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:40--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 00:04:41--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:41--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:42--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 00:04:43--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:44--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:45--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 00:04:46--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:46--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:47--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 00:04:48--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:48--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:49--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 00:04:50--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:51--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:52--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 00:04:53--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:53--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:54--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 00:04:55--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:56--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:56--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 00:04:58--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:04:58--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:04:59--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 00:05:00--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:00--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:01--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 00:05:02--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:03--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:04--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 00:05:05--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:05--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:06--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 00:05:07--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:08--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:08--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 00:05:10--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:10--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:11--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... Terminated
+[34, 34, 34, 34, 34, 34, 35, 35, 32, 33, 34, 35, 32, 33, 33]
+[32, 32, 33, 33, 33, 34, 34, 34, 34, 34, 34, 34, 35, 35, 35]
+35 39
+74
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 00:05:12--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:12--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:13--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 105K=0.07s
+
+2024-06-06 00:05:14 (105 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 00:05:14--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:15--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:16--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 106K=0.07s
+
+2024-06-06 00:05:16 (106 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 00:05:17--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:17--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:18--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 109K=0.07s
+
+2024-06-06 00:05:18 (109 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 00:05:19--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:19--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:20--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 121K=0.06s
+
+2024-06-06 00:05:20 (121 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 00:05:21--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:21--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:22--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 106K=0.07s
+
+2024-06-06 00:05:23 (106 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 00:05:23--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:24--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:24--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 106K=0.07s
+
+2024-06-06 00:05:25 (106 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 00:05:25--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:26--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:27--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 107K=0.07s
+
+2024-06-06 00:05:27 (107 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 00:05:28--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:28--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:29--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 121K=0.06s
+
+2024-06-06 00:05:30 (121 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 00:05:30--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:30--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:31--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                12.8K=0.6s
+
+2024-06-06 00:05:32 (12.8 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 00:05:33--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:33--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:34--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 120K=0.06s
+
+2024-06-06 00:05:35 (120 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 00:05:35--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:36--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:37--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 120K=0.06s
+
+2024-06-06 00:05:37 (120 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 00:05:37--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:38--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:39--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                13.4K=0.5s
+
+2024-06-06 00:05:40 (13.4 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 00:05:40--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:40--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:41--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 00:05:42--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:43--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:43--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 118K=0.06s
+
+2024-06-06 00:05:44 (118 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 00:05:44--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:45--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:46--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 105K=0.07s
+
+2024-06-06 00:05:46 (105 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 2, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2]
+2 74
+76
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 00:05:46--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:47--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:48--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 106K=0.07s
+
+2024-06-06 00:05:48 (106 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 00:05:49--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:49--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:50--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 106K=0.07s
+
+2024-06-06 00:05:50 (106 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 00:05:51--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:51--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:52--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 106K=0.07s
+
+2024-06-06 00:05:52 (106 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 00:05:53--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:53--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:54--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 105K=0.07s
+
+2024-06-06 00:05:54 (105 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 00:05:55--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:55--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:56--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 105K=0.07s
+
+2024-06-06 00:05:57 (105 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 00:05:57--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:05:58--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:05:58--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 121K=0.06s
+
+2024-06-06 00:05:59 (121 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 00:05:59--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:06:00--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:06:01--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 106K=0.07s
+
+2024-06-06 00:06:01 (106 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 00:06:02--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:06:02--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:06:03--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 106K=0.07s
+
+2024-06-06 00:06:03 (106 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 00:06:04--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:06:04--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:06:05--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 106K=0.07s
+
+2024-06-06 00:06:06 (106 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 00:06:06--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:06:06--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:06:07--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 106K=0.07s
+
+2024-06-06 00:06:08 (106 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 00:06:08--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:06:09--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:06:10--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 109K=0.07s
+
+2024-06-06 00:06:10 (109 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 00:06:10--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:06:11--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:06:12--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 106K=0.07s
+
+2024-06-06 00:06:12 (106 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 00:06:13--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:06:13--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:06:14--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 106K=0.07s
+
+2024-06-06 00:06:14 (106 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 00:06:15--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 172.67.199.241, 104.21.52.138, 2606:4700:3037::6815:348a, ...
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:06:15--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|172.67.199.241|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:06:16--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 102K=0.07s
+
+2024-06-06 00:06:17 (102 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 00:06:17--  http://101desires.com/
+Resolving 101desires.com (101desires.com)... 104.21.52.138, 172.67.199.241, 2606:4700:3030::ac43:c7f1, ...
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://101desires.com/ [following]
+--2024-06-06 00:06:18--  https://101desires.com/
+Connecting to 101desires.com (101desires.com)|104.21.52.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://101desires.com/cgi-sys/suspendedpage.cgi [following]
+--2024-06-06 00:06:19--  https://101desires.com/cgi-sys/suspendedpage.cgi
+Reusing existing connection to 101desires.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......                                                 107K=0.07s
+
+2024-06-06 00:06:19 (107 KB/s) - ‘indexPage’ saved [7473]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 76
+76

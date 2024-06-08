@@ -1,0 +1,1462 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 13:09:05--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 13:09:08--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 13:09:09--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 13:09:11--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 13:09:13--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 13:09:14--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 13:09:16--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 13:09:17--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 13:09:19--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 13:09:21--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 13:09:22--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 13:09:24--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 13:09:26--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 13:09:27--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 13:09:29--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 13:09:31--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 13:09:31--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 13:09:32--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 13:09:33--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 13:09:34--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 13:09:35--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 13:09:35--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 13:09:36--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 13:09:37--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 13:09:38--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 13:09:38--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 13:09:39--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 13:09:40--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 13:09:41--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 13:09:42--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 13:09:42--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 13:09:43--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 13:09:44--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 13:09:45--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 13:09:46--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 13:09:47--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 13:09:48--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 13:09:48--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 13:09:49--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 13:09:50--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 13:09:51--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 13:09:52--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 13:09:53--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 13:09:54--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 13:09:55--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 1, 1, 1, 4, 1, 1, 4, 4, 1, 1, 1, 4, 4, 4]
+[1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 13:09:56--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:09:57--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 13:09:57--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:09:58--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 13:09:58--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:09:59--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 13:10:00--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:01--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 13:10:02--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:02--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 13:10:03--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:04--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 13:10:04--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:04--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 13:10:06--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:07--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 13:10:07--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:08--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 13:10:09--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:09--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 13:10:10--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:10--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 13:10:12--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:12--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 13:10:14--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:14--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 13:10:15--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:16--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 13:10:16--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:17--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... Terminated
+[1, 2, 2, 1, 2, 2, 2, 1, 2, 2, 2, 1, 1, 2, 2]
+[1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 13:10:17--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:18--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 13:10:18--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:19--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 13:10:19--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:20--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 13:10:21--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:21--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 13:10:22--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:22--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 13:10:23--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:23--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 13:10:24--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:24--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 13:10:25--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:25--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 13:10:26--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:27--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 13:10:27--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:28--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 13:10:28--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:29--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 13:10:29--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:30--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 13:10:31--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:31--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 13:10:32--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:32--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 13:10:33--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:33--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+[1, 1, 19, 1, 1, 1, 19, 19, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19, 19, 19]
+19 8
+27
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 13:10:35--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:35--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 13:10:36--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:36--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 13:10:38--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:38--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 13:10:39--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:39--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 13:10:41--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:41--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 13:10:42--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:42--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 13:10:44--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:44--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 13:10:45--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:46--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 13:10:47--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:47--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 13:10:48--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:49--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 13:10:50--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:50--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 13:10:51--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:52--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 13:10:53--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:53--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 13:10:54--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:54--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 13:10:55--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:56--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+Terminated
+[1, 2, 1, 3, 2, 2, 1, 1, 2, 2, 1, 2, 1, 1, 2]
+[1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3]
+3 27
+30
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 13:10:57--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:57--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 13:10:59--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:10:59--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 13:11:01--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:01--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 13:11:03--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:03--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 13:11:05--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:05--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 13:11:07--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:07--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 13:11:08--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:09--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 13:11:10--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:11--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 13:11:12--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:12--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 13:11:13--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:14--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 13:11:15--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:15--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 13:11:16--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:17--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 13:11:18--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:18--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 13:11:19--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:20--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 13:11:21--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:21--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[3, 4, 4, 3, 1, 1, 4, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 4, 4, 4]
+4 30
+34
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 13:11:23--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:23--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         185K=0s
+
+2024-06-06 13:11:24 (185 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 13:11:24--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:25--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 13:11:26--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:26--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 13:11:28--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:28--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 13:11:30--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:31--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 13:11:33--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:33--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         191K=0s
+
+2024-06-06 13:11:34 (191 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 13:11:34--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:35--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 13:11:36--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:36--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         165K=0s
+
+2024-06-06 13:11:37 (165 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 13:11:38--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:38--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 13:11:40--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:40--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 13:11:42--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:42--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 13:11:44--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:44--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         295K=0s
+
+2024-06-06 13:11:45 (295 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 13:11:46--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:46--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 13:11:47--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:47--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         278K=0s
+
+2024-06-06 13:11:48 (278 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 13:11:49--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:49--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 1, 3, 3, 3, 0, 3, 0, 1, 2, 2, 0, 1, 0, 2]
+[0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3]
+3 34
+37
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 13:11:51--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:51--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         277K=0s
+
+2024-06-06 13:11:52 (277 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 13:11:53--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:53--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         161K=0s
+
+2024-06-06 13:11:54 (161 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 13:11:55--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:55--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 13:11:57--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:57--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         203K=0s
+
+2024-06-06 13:11:58 (203 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 13:11:59--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:11:59--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         166K=0s
+
+2024-06-06 13:12:00 (166 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 13:12:01--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:01--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 13:12:03--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:03--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         381K=0s
+
+2024-06-06 13:12:04 (381 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 13:12:05--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:05--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         199K=0s
+
+2024-06-06 13:12:06 (199 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 13:12:06--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:07--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 13:12:08--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:09--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         191K=0s
+
+2024-06-06 13:12:10 (191 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 13:12:10--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:11--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         196K=0s
+
+2024-06-06 13:12:12 (196 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 13:12:12--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:12--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 13:12:14--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:15--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         192K=0s
+
+2024-06-06 13:12:15 (192 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 13:12:16--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:16--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         207K=0s
+
+2024-06-06 13:12:17 (207 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 13:12:18--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:18--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 3, 0, 0, 3, 0, 0, 3, 0, 0, 2, 0, 0, 2]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 3, 3, 3]
+3 37
+40
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 13:12:20--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:20--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         170K=0s
+
+2024-06-06 13:12:21 (170 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 13:12:22--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:22--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         195K=0s
+
+2024-06-06 13:12:23 (195 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 13:12:23--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:24--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         376K=0s
+
+2024-06-06 13:12:25 (376 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 13:12:25--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:25--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         184K=0s
+
+2024-06-06 13:12:26 (184 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 13:12:27--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:27--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         349K=0s
+
+2024-06-06 13:12:28 (349 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 13:12:29--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:29--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         195K=0s
+
+2024-06-06 13:12:30 (195 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 13:12:30--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:31--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         176K=0s
+
+2024-06-06 13:12:32 (176 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 13:12:32--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:33--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         198K=0s
+
+2024-06-06 13:12:34 (198 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 13:12:34--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:34--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         198K=0s
+
+2024-06-06 13:12:35 (198 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 13:12:36--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:36--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         302K=0s
+
+2024-06-06 13:12:37 (302 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 13:12:38--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 172.67.219.173, 104.21.45.226, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:38--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|172.67.219.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         164K=0s
+
+2024-06-06 13:12:39 (164 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 13:12:39--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:40--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         164K=0s
+
+2024-06-06 13:12:41 (164 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 13:12:41--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:42--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         306K=0s
+
+2024-06-06 13:12:42 (306 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 13:12:43--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3030::6815:2de2, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:43--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         173K=0s
+
+2024-06-06 13:12:44 (173 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 13:12:45--  http://9anime.pl/
+Resolving 9anime.pl (9anime.pl)... 104.21.45.226, 172.67.219.173, 2606:4700:3033::ac43:dbad, ...
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.pl/ [following]
+--2024-06-06 13:12:45--  https://9anime.pl/
+Connecting to 9anime.pl (9anime.pl)|104.21.45.226|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         181K=0s
+
+2024-06-06 13:12:46 (181 KB/s) - ‘indexPage’ saved [1]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 40
+40

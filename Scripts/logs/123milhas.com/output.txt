@@ -1,0 +1,2541 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 00:06:20--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 00:06:22--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 00:06:23--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 00:06:25--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 00:06:27--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 00:06:28--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 00:06:30--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 00:06:31--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 00:06:33--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 00:06:35--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 00:06:36--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 00:06:38--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 00:06:40--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 00:06:41--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 00:06:43--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 00:06:45--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 00:06:45--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 00:06:46--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 00:06:47--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 00:06:48--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 00:06:49--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 00:06:49--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 00:06:50--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 00:06:51--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 00:06:52--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 00:06:52--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 00:06:53--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 00:06:54--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 00:06:55--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 00:06:55--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 00:06:56--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 00:06:57--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 00:06:58--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 00:06:59--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 00:07:00--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 00:07:01--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 00:07:02--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 00:07:03--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 00:07:04--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 00:07:05--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 00:07:06--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 00:07:07--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 00:07:07--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 00:07:09--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 00:07:10--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 1, 4, 4, 4, 1, 4, 1, 4, 4, 1, 1, 4, 4, 4]
+[1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 00:07:11--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:11--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 00:07:12--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:13--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 00:07:13--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:14--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 00:07:14--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:15--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 00:07:16--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 00:07:17--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 00:07:18--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:19--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 00:07:19--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:20--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 00:07:21--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:21--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 00:07:22--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:23--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 00:07:23--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:24--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 00:07:24--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:25--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 00:07:26--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:27--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 00:07:28--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:29--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 00:07:29--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:30--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... Terminated
+[1, 2, 2, 2, 4, 3, 1, 2, 2, 2, 2, 2, 1, 1, 2]
+[1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 4]
+4 6
+10
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 00:07:31--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:31--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 00:07:32--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:33--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 00:07:33--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:34--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 00:07:35--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:35--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 00:07:36--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:37--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 00:07:38--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:38--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 00:07:39--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:39--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 00:07:40--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:41--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 00:07:42--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:42--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 00:07:43--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:43--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 00:07:44--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:45--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 00:07:46--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:46--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 00:07:47--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:47--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 00:07:49--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:49--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 00:07:50--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:51--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+Terminated
+[11, 11, 9, 9, 10, 10, 11, 11, 11, 10, 10, 10, 1, 11, 9]
+[1, 9, 9, 9, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11]
+11 10
+21
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 00:07:52--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:52--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 00:07:53--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:54--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 00:07:55--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:55--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 00:07:56--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:57--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 00:07:58--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:58--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 00:07:59--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:07:59--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 00:08:00--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:01--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 00:08:01--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:02--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 00:08:03--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:03--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 00:08:05--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:05--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 00:08:07--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:07--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 00:08:08--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:08--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 00:08:10--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:10--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 00:08:11--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:11--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 00:08:12--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:13--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 39, 2, 2, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 39]
+39 21
+60
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 00:08:14--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:14--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 00:08:16--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:16--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 00:08:18--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:18--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 00:08:20--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:20--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 00:08:22--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:23--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 00:08:24--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:24--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 00:08:26--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:26--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 00:08:28--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:28--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 00:08:30--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:30--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 00:08:32--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:32--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 00:08:34--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:34--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 00:08:36--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:36--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 00:08:37--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:38--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 00:08:39--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:40--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 00:08:41--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:42--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ......Terminated
+[66, 63, 66, 64, 67, 65, 64, 66, 66, 66, 64, 66, 66, 66, 66]
+[63, 64, 64, 64, 65, 66, 66, 66, 66, 66, 66, 66, 66, 66, 67]
+67 60
+127
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 00:08:43--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:44--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 00:08:46--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:46--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 00:08:48--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:48--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 00:08:51--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:51--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 00:08:53--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:53--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 00:08:55--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:56--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 00:08:58--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:08:59--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 00:09:01--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:01--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 00:09:03--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:03--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 00:09:06--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:06--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 00:09:08--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:08--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 00:09:11--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:11--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 00:09:13--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:13--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 00:09:15--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:16--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 00:09:18--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:18--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+[132, 130, 130, 127, 130, 127, 129, 129, 128, 129, 131, 129, 129, 131, 129]
+[127, 127, 128, 129, 129, 129, 129, 129, 129, 130, 130, 130, 131, 131, 132]
+132 127
+259
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 00:09:20--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:21--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.5K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 00:09:23--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:23--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.2K
+    50K ..Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 00:09:25--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:26--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.1K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 00:09:28--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:29--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.2K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 00:09:30--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:31--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.7K
+    50K ..Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 00:09:33--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:33--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.0K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 00:09:36--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:36--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.5K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 00:09:38--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:39--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.4K
+    50K .Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 00:09:41--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:41--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.8KTerminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 00:09:44--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:44--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.8KTerminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 00:09:47--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:47--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.5K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 00:09:49--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:49--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.5K
+    50K ..Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 00:09:51--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:52--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.2K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 00:09:54--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:54--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.7K
+    50K ...Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 00:09:56--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:57--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.0K
+    50K .Terminated
+[129, 131, 131, 129, 129, 131, 131, 131, 131, 131, 129, 130, 133, 129, 133]
+[129, 129, 129, 129, 129, 130, 131, 131, 131, 131, 131, 131, 131, 133, 133]
+133 259
+392
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 00:09:59--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:09:59--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.4K
+    50K .......... .......... .......... ....Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 00:10:02--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:03--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.8K
+    50K .......... .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 00:10:06--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:06--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.4K
+    50K .......... .......... ..........Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 00:10:09--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:09--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.8K
+    50K .......... .......... .......... ..Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 00:10:12--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:12--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.0K
+    50K .......... .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 00:10:15--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:15--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.6K
+    50K .......... .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 00:10:18--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:19--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.6K
+    50K .......... .......... .......... ....Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 00:10:21--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:22--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.4K
+    50K .......... .......... .......... ..Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 00:10:25--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:25--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.5K
+    50K .......... .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 00:10:28--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:28--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.4K
+    50K .......... .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 00:10:31--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:31--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.0K
+    50K .......... .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 00:10:34--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:35--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.9K
+    50K .......... .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 00:10:37--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:38--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.9K
+    50K .......... .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 00:10:40--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:41--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.8K
+    50K .......... .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 00:10:43--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:44--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.5K
+    50K .......... .......... .......... ...Terminated
+[167, 165, 165, 167, 170, 168, 167, 165, 166, 167, 165, 167, 168, 169, 167]
+[165, 165, 165, 165, 166, 167, 167, 167, 167, 167, 167, 168, 168, 169, 170]
+170 392
+562
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 00:10:47--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:47--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.2K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... ...Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 00:10:50--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:50--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.1K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... ...Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 00:10:54--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:54--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.4K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... ....Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 00:10:57--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:10:58--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.9K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... ...Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 00:11:01--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:01--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.8K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... ...Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 00:11:04--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:05--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.9K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... ....Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 00:11:08--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:08--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.4K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... ...Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 00:11:11--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:12--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.7K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... ....Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 00:11:15--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:15--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.5K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... ....Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 00:11:19--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:19--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.8K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... ...Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 00:11:22--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:23--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.9K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... ....Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 00:11:26--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:26--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.9K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... ....Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 00:11:29--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:30--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.8K
+    50K .......... .......... .......... .......... ..........  118K
+   100K .......... .......... ....Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 00:11:33--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:33--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.0K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... ....Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 00:11:37--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:37--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.4K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... ...Terminated
+[177, 177, 174, 174, 178, 177, 178, 177, 177, 173, 177, 176, 177, 178, 179]
+[173, 174, 174, 176, 177, 177, 177, 177, 177, 177, 177, 178, 178, 178, 179]
+179 562
+741
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 00:11:40--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:41--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.5K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-06 00:11:44--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:44--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.1K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-06 00:11:48--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:48--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.9K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-06 00:11:52--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:52--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.1K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-06 00:11:55--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:56--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.2K
+    50K .......... .......... .......... .......... ..........  113K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-06 00:11:59--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:11:59--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.1K
+    50K .......... .......... .......... .......... ..........  117K
+   100K .......... .......... .......... .......... ..........  107K
+   150K .......... .....Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-06 00:12:03--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:03--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.3K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-06 00:12:07--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:07--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.6K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-06 00:12:11--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:11--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.5K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-06 00:12:14--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:15--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.9K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... ......Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-06 00:12:18--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:18--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.5K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-06 00:12:22--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:22--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.3K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-06 00:12:25--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:26--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.6K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-06 00:12:29--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:29--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.3K
+    50K .......... .......... .......... .......... ..........  118K
+   100K .......... .......... .......... .......... ..........  104K
+   150K .......... .....Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-06 00:12:33--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:33--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.1K
+    50K .......... .......... .......... .......... ..........  118K
+   100K .......... .......... .......... .......... ..........  106K
+   150K .......... .......Terminated
+[6, 3, 4, 3, 3, 3, 3, 3, 4, 3, 5, 5, 4, 4, 6]
+[3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6]
+6 741
+747
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-06 00:12:37--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:37--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.1K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... ........                                     120K=1.6s
+
+2024-06-06 00:12:39 (107 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-06 00:12:40--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:40--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.4K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     127K=1.6s
+
+2024-06-06 00:12:42 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-06 00:12:43--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:43--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.6K
+    50K .......... .......... .......... .......... ..........  117K
+   100K .......... .......... .......... .......... ..........  104K
+   150K .......... ........                                     141K=1.6s
+
+2024-06-06 00:12:45 (107 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-06 00:12:46--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:46--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.0K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... ........                                     116K=1.6s
+
+2024-06-06 00:12:49 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-06 00:12:49--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:50--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.2K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     125K=1.6s
+
+2024-06-06 00:12:52 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-06 00:12:52--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:53--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.7K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     126K=1.6s
+
+2024-06-06 00:12:55 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-06 00:12:55--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:56--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.5K
+    50K .......... .......... .......... .......... ..........  123K
+   100K .......... .......... .......... .......... ..........  109K
+   150K .......... ........                                     127K=1.6s
+
+2024-06-06 00:12:58 (109 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-06 00:12:59--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:12:59--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.5K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... ........                                     120K=1.6s
+
+2024-06-06 00:13:01 (107 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-06 00:13:02--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:02--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 90.9K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     126K=1.6s
+
+2024-06-06 00:13:04 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-06 00:13:05--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:05--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.8K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     123K=1.6s
+
+2024-06-06 00:13:08 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-06 00:13:08--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:08--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.4K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .......... .......... ..........  106K
+   150K .......... ........                                     128K=1.6s
+
+2024-06-06 00:13:11 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-06 00:13:12--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:12--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.8K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     127K=1.6s
+
+2024-06-06 00:13:14 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-06 00:13:15--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:15--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.2K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... ......Terminated
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-06 00:13:18--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:19--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.8K
+    50K .......... .......... .......... .......... ..........  113K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     120K=1.6s
+
+2024-06-06 00:13:21 (107 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-06 00:13:22--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:22--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.5K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... ........                                     120K=1.6s
+
+2024-06-06 00:13:24 (107 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]
+3 747
+750
+--------------------------------- RTT-14, TRIAL-1 ----------------------
+--2024-06-06 00:13:25--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:25--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.9K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  104K
+   150K .......... ........                                     141K=1.6s
+
+2024-06-06 00:13:27 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-2 ----------------------
+--2024-06-06 00:13:28--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:28--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.3K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     127K=1.6s
+
+2024-06-06 00:13:30 (107 KB/s) - ‘indexPage’ saved [172850]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-3 ----------------------
+--2024-06-06 00:13:31--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:31--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.6K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... ........                                     117K=1.6s
+
+2024-06-06 00:13:34 (107 KB/s) - ‘indexPage’ saved [172850]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-4 ----------------------
+--2024-06-06 00:13:34--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:35--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.8K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  104K
+   150K .......... ........                                     141K=1.6s
+
+2024-06-06 00:13:37 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-5 ----------------------
+--2024-06-06 00:13:38--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:38--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.6K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     120K=1.6s
+
+2024-06-06 00:13:40 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-6 ----------------------
+--2024-06-06 00:13:41--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:41--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.3K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     126K=1.6s
+
+2024-06-06 00:13:43 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-7 ----------------------
+--2024-06-06 00:13:44--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:44--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.3K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     127K=1.6s
+
+2024-06-06 00:13:47 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-8 ----------------------
+--2024-06-06 00:13:47--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:48--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.4K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  119K
+   150K .......... ........                                     123K=1.5s
+
+2024-06-06 00:13:50 (110 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-9 ----------------------
+--2024-06-06 00:13:50--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:51--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 90.4K
+    50K .......... .......... .......... .......... ..........  113K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... ........                                     116K=1.6s
+
+2024-06-06 00:13:53 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-10 ----------------------
+--2024-06-06 00:13:54--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:54--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.2K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... ........                                     123K=1.6s
+
+2024-06-06 00:13:56 (107 KB/s) - ‘indexPage’ saved [172849]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-11 ----------------------
+--2024-06-06 00:13:57--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:13:57--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.9K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     121K=1.6s
+
+2024-06-06 00:13:59 (106 KB/s) - ‘indexPage’ saved [172849]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-12 ----------------------
+--2024-06-06 00:14:00--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:14:00--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.6K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......... .......... ..........  117K
+   150K .......... ........                                     131K=1.6s
+
+2024-06-06 00:14:02 (107 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-13 ----------------------
+--2024-06-06 00:14:03--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:14:03--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.9K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .......... .......... ..........  117K
+   150K .......... ........                                     117K=1.6s
+
+2024-06-06 00:14:06 (107 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-14 ----------------------
+--2024-06-06 00:14:06--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 104.18.40.142, 172.64.147.114
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:14:07--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|104.18.40.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.1K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     119K=1.6s
+
+2024-06-06 00:14:09 (106 KB/s) - ‘indexPage’ saved [172851]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-15 ----------------------
+--2024-06-06 00:14:09--  http://123milhas.com/
+Resolving 123milhas.com (123milhas.com)... 172.64.147.114, 104.18.40.142
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://123milhas.com/ [following]
+--2024-06-06 00:14:10--  https://123milhas.com/
+Connecting to 123milhas.com (123milhas.com)|172.64.147.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.6K
+    50K .......... .......... .......... .......... ..........  113K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... ........                                     119K=1.6s
+
+2024-06-06 00:14:12 (106 KB/s) - ‘indexPage’ saved [172850]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 750
+750

@@ -1,0 +1,708 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 11:56:39--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 11:56:42--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 11:56:43--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 11:56:45--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 11:56:46--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 11:56:48--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 11:56:49--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 11:56:51--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 11:56:53--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 11:56:54--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 11:56:56--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 11:56:57--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 11:56:59--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 11:57:00--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 11:57:02--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 2, 2, 2, 2, 2, 3, 2, 3, 2, 2, 2, 3, 2, 2]
+[1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+3 0
+3
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 11:57:03--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 11:57:05--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 11:57:06--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 11:57:08--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 11:57:08--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 11:57:09--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 11:57:11--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 11:57:12--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 11:57:14--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 11:57:14--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 11:57:15--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 11:57:17--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 11:57:18--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 11:57:19--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 11:57:21--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[32, 32, 31, 1, 1, 32, 32, 31, 1, 1, 32, 33, 31, 31, 31]
+[1, 1, 1, 1, 31, 31, 31, 31, 31, 32, 32, 32, 32, 32, 33]
+33 3
+36
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 11:57:22--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 11:57:24--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 11:57:25--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 11:57:26--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 11:57:28--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 11:57:29--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 11:57:30--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 11:57:31--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 11:57:33--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 11:57:34--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 11:57:35--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 11:57:37--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 11:57:38--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 11:57:39--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 11:57:41--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .......Terminated
+[10, 8, 9, 9, 8, 9, 9, 9, 9, 8, 9, 9, 9, 9, 8]
+[8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 10]
+10 36
+46
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 11:57:42--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.1K=0.1s
+
+2024-06-06 11:57:42 (69.1 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 11:57:43--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.7K=0.1s
+
+2024-06-06 11:57:44 (69.7 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 11:57:44--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 15.4K=0.6s
+
+2024-06-06 11:57:45 (15.4 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 11:57:45--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 15.2K=0.6s
+
+2024-06-06 11:57:46 (15.2 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 11:57:47--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.4K=0.1s
+
+2024-06-06 11:57:47 (69.4 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 11:57:48--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 15.0K=0.6s
+
+2024-06-06 11:57:49 (15.0 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 11:57:49--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.3K=0.1s
+
+2024-06-06 11:57:50 (69.3 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 11:57:50--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.0K=0.1s
+
+2024-06-06 11:57:51 (69.0 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 11:57:51--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 68.6K=0.1s
+
+2024-06-06 11:57:52 (68.6 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 11:57:52--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 15.7K=0.6s
+
+2024-06-06 11:57:53 (15.7 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 11:57:54--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.0K=0.1s
+
+2024-06-06 11:57:54 (69.0 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 11:57:55--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 15.4K=0.6s
+
+2024-06-06 11:57:56 (15.4 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 11:57:56--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.1K=0.1s
+
+2024-06-06 11:57:57 (69.1 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 11:57:57--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 15.3K=0.6s
+
+2024-06-06 11:57:58 (15.3 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 11:57:59--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.6K=0.1s
+
+2024-06-06 11:57:59 (69.6 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+[0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+1 46
+47
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 11:58:00--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.6K=0.1s
+
+2024-06-06 11:58:00 (69.6 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 11:58:01--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.6K=0.1s
+
+2024-06-06 11:58:01 (69.6 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 11:58:02--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.9K=0.1s
+
+2024-06-06 11:58:02 (69.9 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 11:58:03--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.7K=0.1s
+
+2024-06-06 11:58:03 (69.7 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 11:58:04--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.2K=0.1s
+
+2024-06-06 11:58:04 (69.2 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 11:58:05--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.7K=0.1s
+
+2024-06-06 11:58:05 (69.7 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 11:58:06--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.0K=0.1s
+
+2024-06-06 11:58:06 (69.0 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 11:58:07--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 68.9K=0.1s
+
+2024-06-06 11:58:07 (68.9 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 11:58:08--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.7K=0.1s
+
+2024-06-06 11:58:08 (69.7 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 11:58:09--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.0K=0.1s
+
+2024-06-06 11:58:09 (69.0 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 11:58:10--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.3K=0.1s
+
+2024-06-06 11:58:10 (69.3 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 11:58:11--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.0K=0.1s
+
+2024-06-06 11:58:11 (69.0 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 11:58:12--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.1K=0.1s
+
+2024-06-06 11:58:12 (69.1 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 11:58:13--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.6K=0.1s
+
+2024-06-06 11:58:13 (69.6 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 11:58:14--  http://5678games.com/
+Resolving 5678games.com (5678games.com)... 68.142.107.4, 2607:f4e8:100:a000::b
+Connecting to 5678games.com (5678games.com)|68.142.107.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9889 (9.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .........                                             100% 69.1K=0.1s
+
+2024-06-06 11:58:14 (69.1 KB/s) - ‘indexPage’ saved [9889/9889]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 47
+47

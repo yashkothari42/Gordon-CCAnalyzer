@@ -1,0 +1,3314 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-07 11:14:56--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-07 11:14:58--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-07 11:15:00--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-07 11:15:01--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-07 11:15:03--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-07 11:15:05--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-07 11:15:06--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-07 11:15:08--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-07 11:15:10--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-07 11:15:11--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-07 11:15:13--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-07 11:15:15--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-07 11:15:16--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-07 11:15:18--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-07 11:15:20--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-07 11:15:21--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-07 11:15:22--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-07 11:15:23--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-07 11:15:24--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-07 11:15:24--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-07 11:15:25--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-07 11:15:26--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-07 11:15:27--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-07 11:15:27--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-07 11:15:28--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-07 11:15:29--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-07 11:15:30--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-07 11:15:31--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-07 11:15:31--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-07 11:15:32--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-07 11:15:33--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-07 11:15:34--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-07 11:15:34--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-07 11:15:36--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-07 11:15:36--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-07 11:15:37--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-07 11:15:38--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-07 11:15:39--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-07 11:15:40--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-07 11:15:41--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-07 11:15:42--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-07 11:15:43--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-07 11:15:44--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-07 11:15:45--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-07 11:15:46--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 3, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 3, 3]
+[1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+3 2
+5
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-07 11:15:47--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:15:48--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-07 11:15:48--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:15:49--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-07 11:15:49--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:15:50--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-07 11:15:51--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:15:51--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-07 11:15:53--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:15:53--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-07 11:15:55--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:15:55--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-07 11:15:56--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:15:57--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-07 11:15:58--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:15:59--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-07 11:16:00--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:00--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-07 11:16:02--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:02--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-07 11:16:03--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:04--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-07 11:16:05--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:06--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-07 11:16:07--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:07--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-07 11:16:09--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:09--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-07 11:16:10--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:11--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... Terminated
+[1, 2, 2, 2, 1, 1, 1, 1, 2, 1, 1, 1, 2, 1, 2]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2]
+2 5
+7
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-07 11:16:11--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:11--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-07 11:16:12--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:12--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-07 11:16:13--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:14--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-07 11:16:14--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:15--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-07 11:16:15--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:16--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-07 11:16:17--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:17--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-07 11:16:18--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:18--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-07 11:16:19--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:19--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-07 11:16:20--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:20--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-07 11:16:21--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:21--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-07 11:16:22--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:22--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-07 11:16:23--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:24--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-07 11:16:25--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:25--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-07 11:16:26--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:27--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-07 11:16:28--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:28--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+Terminated
+[1, 1, 1, 1, 12, 1, 1, 1, 1, 1, 11, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 11, 12]
+12 7
+19
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-07 11:16:29--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:29--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-07 11:16:31--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:31--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-07 11:16:32--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:33--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-07 11:16:34--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:34--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-07 11:16:35--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:35--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-07 11:16:36--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:37--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-07 11:16:38--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:38--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-07 11:16:40--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:40--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-07 11:16:41--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:41--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-07 11:16:43--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:43--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-07 11:16:44--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:44--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-07 11:16:45--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:46--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-07 11:16:46--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:47--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-07 11:16:48--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:48--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-07 11:16:50--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:50--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 2]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2]
+2 19
+21
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-07 11:16:51--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:52--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-07 11:16:53--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:54--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-07 11:16:55--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:55--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-07 11:16:56--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:57--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-07 11:16:58--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:16:58--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-07 11:17:00--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:00--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-07 11:17:01--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:01--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-07 11:17:03--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:04--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-07 11:17:05--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:05--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-07 11:17:06--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:07--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-07 11:17:09--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:09--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-07 11:17:10--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:11--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-07 11:17:12--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:13--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-07 11:17:14--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:14--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-07 11:17:16--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:16--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 1, 1, 1, 1, 1, 4, 1, 1, 4, 1, 4, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4]
+4 21
+25
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-07 11:17:17--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:17--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-07 11:17:20--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:20--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-07 11:17:22--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:22--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-07 11:17:24--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:25--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:17:26--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-07 11:17:26--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:27--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-07 11:17:29--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:29--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-07 11:17:31--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:31--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-07 11:17:33--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:33--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-07 11:17:36--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:36--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-07 11:17:38--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:38--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:17:39--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-07 11:17:40--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:40--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-07 11:17:42--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:43--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:17:44--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-07 11:17:45--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:45--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-07 11:17:47--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:47--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-07 11:17:49--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:50--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:17:51--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+[3, 4, 2, 2, 4, 3, 3, 3, 3, 2, 3, 2, 3, 3, 2]
+[2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4]
+4 25
+29
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-07 11:17:51--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:52--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:17:53--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-07 11:17:54--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:54--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:17:55--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-07 11:17:57--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:57--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:17:58--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-07 11:17:59--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:17:59--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:00--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-07 11:18:02--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:02--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:03--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-07 11:18:05--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:05--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:06--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-07 11:18:07--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:07--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:09--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-07 11:18:10--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:10--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:12--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-07 11:18:12--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:13--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:13--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-07 11:18:15--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:15--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:16--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-07 11:18:17--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:18--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:18--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-07 11:18:19--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:19--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:21--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-07 11:18:22--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:22--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:24--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-07 11:18:24--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:25--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:26--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-07 11:18:27--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:28--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:29--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... Terminated
+[123, 211, 209, 214, 119, 207, 207, 1, 207, 209, 1, 162, 1, 210, 119]
+[1, 1, 1, 119, 119, 123, 162, 207, 207, 207, 209, 209, 210, 211, 214]
+214 29
+243
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-07 11:18:30--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:31--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:32--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-07 11:18:33--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:33--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:34--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-07 11:18:36--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:36--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:37--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-07 11:18:38--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:38--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:39--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-07 11:18:40--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:40--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:42--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-07 11:18:43--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:43--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:44--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-07 11:18:45--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:46--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:47--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-07 11:18:48--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:49--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:50--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-07 11:18:51--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:51--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:53--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-07 11:18:54--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:54--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:55--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-07 11:18:57--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:18:58--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:18:59--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-07 11:19:01--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:01--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:02--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-07 11:19:03--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:03--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:04--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-07 11:19:05--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:05--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:07--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-07 11:19:08--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:08--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:09--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 191, 169, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 169, 191]
+191 243
+434
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-07 11:19:10--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:10--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:11--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-07 11:19:12--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:12--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:13--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-07 11:19:14--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:15--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:16--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-07 11:19:17--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:17--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:18--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-07 11:19:19--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:20--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:20--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.4K
+    50K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-07 11:19:23--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:23--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:25--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 82.8K
+    50K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-07 11:19:27--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:28--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:29--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-07 11:19:30--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:30--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:32--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-07 11:19:33--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:33--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:34--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-07 11:19:35--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:36--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:37--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-07 11:19:38--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:38--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:39--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-07 11:19:40--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:41--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:42--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-07 11:19:43--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:43--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:45--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-07 11:19:46--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:46--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:47--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.8K
+    50K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-07 11:19:49--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:50--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:51--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+[0, 0, 0, 0, 165, 165, 0, 0, 0, 0, 0, 0, 0, 166, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 165, 165, 166]
+166 434
+600
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-07 11:19:52--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:52--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:54--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-07 11:19:55--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:55--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:56--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-07 11:19:57--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:19:57--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:19:59--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.9K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... ..........Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-07 11:20:02--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:02--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:03--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.8K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-07 11:20:06--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:07--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:08--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-07 11:20:09--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:09--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:11--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-07 11:20:12--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:12--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:13--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-07 11:20:14--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:14--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:16--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-07 11:20:17--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:17--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:18--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.1K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... ...Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-07 11:20:21--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:22--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:22--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-07 11:20:24--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:24--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:25--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-07 11:20:26--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:27--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:28--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-07 11:20:29--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:29--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:30--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-07 11:20:32--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:32--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:33--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-07 11:20:34--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:34--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:35--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+[0, 0, 167, 165, 0, 0, 0, 0, 165, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 165, 165, 167]
+167 600
+767
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-07 11:20:36--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:37--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:38--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-07 11:20:39--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:39--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:41--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-07 11:20:42--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:42--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:44--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 83.0K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-07 11:20:48--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:48--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:49--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-07 11:20:51--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:51--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:52--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.6K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-07 11:20:55--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:55--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:56--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-07 11:20:58--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:20:58--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:20:59--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.3K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-07 11:21:02--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:03--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:04--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ..Terminated
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-07 11:21:05--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:06--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:07--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.9K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .Terminated
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-07 11:21:10--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:11--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:11--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-07 11:21:12--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:13--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:14--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-07 11:21:15--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:15--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:17--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-07 11:21:18--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:18--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:19--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-07 11:21:20--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:21--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:22--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-07 11:21:23--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:23--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:24--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.8K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  105K
+   150K .......... .......... .Terminated
+[0, 0, 195, 0, 127, 0, 127, 0, 164, 0, 0, 0, 0, 0, 167]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 127, 127, 164, 167, 195]
+195 767
+962
+--------------------------------- RTT-14, TRIAL-1 ----------------------
+--2024-06-07 11:21:28--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:28--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:29--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-14, TRIAL-2 ----------------------
+--2024-06-07 11:21:30--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:31--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:32--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-3 ----------------------
+--2024-06-07 11:21:33--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:33--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:34--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-14, TRIAL-4 ----------------------
+--2024-06-07 11:21:36--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:36--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:37--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.0K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  101K
+   200K .....Terminated
+--------------------------------- RTT-14, TRIAL-5 ----------------------
+--2024-06-07 11:21:42--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:43--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:43--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.6K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... .......... 99.8K
+   200K .....Terminated
+--------------------------------- RTT-14, TRIAL-6 ----------------------
+--2024-06-07 11:21:47--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:47--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:48--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-14, TRIAL-7 ----------------------
+--2024-06-07 11:21:50--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:50--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:51--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-14, TRIAL-8 ----------------------
+--2024-06-07 11:21:52--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:53--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:54--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-9 ----------------------
+--2024-06-07 11:21:55--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:55--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:56--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-14, TRIAL-10 ----------------------
+--2024-06-07 11:21:58--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:21:58--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:21:59--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-14, TRIAL-11 ----------------------
+--2024-06-07 11:22:00--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:00--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:01--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-12 ----------------------
+--2024-06-07 11:22:02--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:03--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:03--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .....Terminated
+--------------------------------- RTT-14, TRIAL-13 ----------------------
+--2024-06-07 11:22:05--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:05--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:06--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-14, TRIAL-14 ----------------------
+--2024-06-07 11:22:07--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:08--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:09--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.3K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  111K
+   150K .......... .......... .......... .......... .......... 94.3K
+   200K ........Terminated
+--------------------------------- RTT-14, TRIAL-15 ----------------------
+--2024-06-07 11:22:14--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:14--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:15--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+[0, 0, 0, 179, 117, 0, 0, 0, 0, 0, 0, 0, 0, 175, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 117, 175, 179]
+179 962
+1141
+--------------------------------- RTT-15, TRIAL-1 ----------------------
+--2024-06-07 11:22:16--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:17--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:18--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 83.4K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  111K
+   150K .......... .......... .......... .......... .......... 94.6K
+   200K .......... .......... .......... .......... ..........  121K
+   250K ...Terminated
+--------------------------------- RTT-15, TRIAL-2 ----------------------
+--2024-06-07 11:22:22--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:22--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:23--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.0K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... .......... .......... ..........  104K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-15, TRIAL-3 ----------------------
+--2024-06-07 11:22:27--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:27--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:29--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.5K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... .......... 92.5K
+   200K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-15, TRIAL-4 ----------------------
+--2024-06-07 11:22:33--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:33--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:35--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-5 ----------------------
+--2024-06-07 11:22:36--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:36--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:37--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-15, TRIAL-6 ----------------------
+--2024-06-07 11:22:38--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:38--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:39--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-15, TRIAL-7 ----------------------
+--2024-06-07 11:22:41--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:41--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:42--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-15, TRIAL-8 ----------------------
+--2024-06-07 11:22:43--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:44--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:44--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.9K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... .......... .......... ..........  111K
+   150K .......... .......... .......... .......... ..........  100K
+   200K .......... .......... .......... .......... ..........  113K
+   250K ...Terminated
+--------------------------------- RTT-15, TRIAL-9 ----------------------
+--2024-06-07 11:22:48--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:49--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:50--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-10 ----------------------
+--2024-06-07 11:22:51--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:51--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:52--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.8K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  117K
+   150K .......... .......... .......... .......... ..........  100K
+   200K .......... .......... .......... .......... ..........  115K
+   250K ...Terminated
+--------------------------------- RTT-15, TRIAL-11 ----------------------
+--2024-06-07 11:22:56--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:57--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:22:58--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-15, TRIAL-12 ----------------------
+--2024-06-07 11:22:59--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:22:59--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:01--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-15, TRIAL-13 ----------------------
+--2024-06-07 11:23:02--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:02--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:04--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 84.4K
+    50K .......... .......... .......... .......... ..........  103K
+   100K .......... .......... .......... .......... ..........  109K
+   150K .......... .......... .......... .......... ..........  106K
+   200K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-15, TRIAL-14 ----------------------
+--2024-06-07 11:23:08--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:08--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:09--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-15, TRIAL-15 ----------------------
+--2024-06-07 11:23:10--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:11--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:12--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+[151, 129, 135, 0, 0, 0, 0, 141, 0, 135, 0, 0, 117, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 117, 129, 135, 135, 141, 151]
+151 1141
+1292
+--------------------------------- RTT-16, TRIAL-1 ----------------------
+--2024-06-07 11:23:13--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:13--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:15--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-16, TRIAL-2 ----------------------
+--2024-06-07 11:23:16--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:16--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:17--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-16, TRIAL-3 ----------------------
+--2024-06-07 11:23:18--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:18--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:19--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-16, TRIAL-4 ----------------------
+--2024-06-07 11:23:20--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:20--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:22--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 98.4K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .......... 94.4K
+   200K .......... .......... .......... .......... ..........  122K
+   250K .......... .......... .......... .....Terminated
+--------------------------------- RTT-16, TRIAL-5 ----------------------
+--2024-06-07 11:23:25--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:26--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:27--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-16, TRIAL-6 ----------------------
+--2024-06-07 11:23:28--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:28--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:29--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... ...Terminated
+--------------------------------- RTT-16, TRIAL-7 ----------------------
+--2024-06-07 11:23:30--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:30--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:31--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.7K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  111K
+   150K .......... .......... .......... .......... ..........  101K
+   200K .......... .......... .......... .......... ..........  113K
+   250K .......... .......... .......... .....Terminated
+--------------------------------- RTT-16, TRIAL-8 ----------------------
+--2024-06-07 11:23:35--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:35--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:36--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-16, TRIAL-9 ----------------------
+--2024-06-07 11:23:37--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:37--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:39--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-16, TRIAL-10 ----------------------
+--2024-06-07 11:23:40--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:40--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:41--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.1K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .......... .......... .......... .......... ..........  111K
+   150K .......... .......... .......... .......... .......... 88.2K
+   200K .......... .......... .......... .......... ..........  136K
+   250K .......... .......... .......... .....Terminated
+--------------------------------- RTT-16, TRIAL-11 ----------------------
+--2024-06-07 11:23:45--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:46--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:47--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-16, TRIAL-12 ----------------------
+--2024-06-07 11:23:48--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:48--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:50--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.2K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  111K
+   150K .......... .......... .......... .......... ..........  100K
+   200K .......... .......... .......... .......... ..........  112K
+   250K .......... .......... .......... .....Terminated
+--------------------------------- RTT-16, TRIAL-13 ----------------------
+--2024-06-07 11:23:54--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:54--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:55--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-16, TRIAL-14 ----------------------
+--2024-06-07 11:23:56--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:56--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:23:57--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-16, TRIAL-15 ----------------------
+--2024-06-07 11:23:58--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:23:59--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:00--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+[0, 0, 0, 29, 0, 0, 25, 0, 0, 21, 0, 25, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 25, 25, 29]
+29 1292
+1321
+--------------------------------- RTT-17, TRIAL-1 ----------------------
+--2024-06-07 11:24:01--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:24:02--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:03--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-17, TRIAL-2 ----------------------
+--2024-06-07 11:24:04--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:24:04--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:05--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ........Terminated
+--------------------------------- RTT-17, TRIAL-3 ----------------------
+--2024-06-07 11:24:07--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:24:07--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:08--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-17, TRIAL-4 ----------------------
+--2024-06-07 11:24:09--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:24:10--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:11--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-17, TRIAL-5 ----------------------
+--2024-06-07 11:24:12--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.35.236, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:24:12--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:13--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........Terminated
+--------------------------------- RTT-17, TRIAL-6 ----------------------
+--2024-06-07 11:24:15--  http://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 172.67.12.170, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://agro-market.net/ [following]
+--2024-06-07 11:24:15--  https://agro-market.net/
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:16--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.0K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  104K
+   150K .......... .......... .......... .......... ..........  106K
+   200K .......... .......... .......... .......... ..........  112K
+   250K .......... .......... .......... .......... ..........  114K
+   300K ...                                                     211K=2.8s
+
+2024-06-07 11:24:19 (107 KB/s) - ‘indexPage’ saved [310891]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:24:20--  https://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:21--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-17, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:24:22--  https://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:24--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-17, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:24:25--  https://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:26--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-17, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:24:27--  https://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:29--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-17, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:24:30--  https://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:30--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-17, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:24:31--  https://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 104.22.34.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:33--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ....Terminated
+--------------------------------- RTT-17, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:24:34--  https://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 172.67.12.170, 104.22.34.236, 104.22.35.236
+Connecting to agro-market.net (agro-market.net)|172.67.12.170|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:35--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 75.7K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  111K
+   150K .......... .......... .......... .......... .......... 94.3K
+   200K .......... .......... .......... .......... ..........  121K
+   250K .......... .......... .......... .......... ..........  114K
+   300K ...                                                     209K=3.0s
+
+2024-06-07 11:24:38 (102 KB/s) - ‘indexPage’ saved [310891]
+
+wget: no process found
+--------------------------------- RTT-17, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:24:39--  https://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.35.236, 172.67.12.170, 104.22.34.236
+Connecting to agro-market.net (agro-market.net)|104.22.35.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:40--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-17, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 11:24:41--  https://agro-market.net/
+Resolving agro-market.net (agro-market.net)... 104.22.34.236, 104.22.35.236, 172.67.12.170
+Connecting to agro-market.net (agro-market.net)|104.22.34.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agro-market.net/ua/ [following]
+--2024-06-07 11:24:42--  https://agro-market.net/ua/
+Reusing existing connection to agro-market.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 74.5K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .......... .......... .......... .......... ..........  112K
+   150K .......... .......... .......... .......... ..........  101K
+   200K .......... .......... .......... .......... ..........  113K
+   250K .......... .......... .......... .......... ..........  115K
+   300K ...                                                     211K=3.0s
+
+2024-06-07 11:24:45 (102 KB/s) - ‘indexPage’ saved [310891]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 1321
+1321

@@ -1,0 +1,1258 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 00:14:13--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 00:14:15--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 00:14:17--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 00:14:18--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 00:14:20--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 00:14:21--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 00:14:23--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 00:14:25--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 00:14:26--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 00:14:28--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 00:14:30--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 00:14:31--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 00:14:33--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 00:14:35--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 00:14:36--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 00:14:38--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 00:14:39--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 00:14:39--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 00:14:40--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 00:14:41--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 00:14:42--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 00:14:43--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 00:14:43--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 00:14:44--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 00:14:45--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 00:14:46--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 00:14:46--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 00:14:47--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 00:14:48--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 00:14:49--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 00:14:50--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 00:14:51--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 00:14:51--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 00:14:52--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 00:14:53--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 00:14:54--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 00:14:55--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 00:14:56--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 00:14:57--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 00:14:58--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 00:14:58--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 00:14:59--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 00:15:00--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 00:15:01--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 00:15:02--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 1, 4, 1, 1, 4, 4, 1, 1, 1, 4, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 00:15:03--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:03--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 00:15:04--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:05--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 00:15:05--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:06--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 00:15:07--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:07--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 00:15:09--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:10--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 00:15:10--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:11--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 00:15:11--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:12--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 00:15:13--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:13--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 00:15:15--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:15--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 00:15:16--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:17--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 00:15:17--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:18--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 00:15:19--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:20--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 00:15:20--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:21--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 00:15:22--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:22--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 00:15:23--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:23--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+[1, 2, 2, 1, 1, 2, 2, 2, 1, 2, 2, 1, 2, 2, 2]
+[1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 00:15:25--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:25--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 00:15:26--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:26--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 00:15:27--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:27--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 00:15:28--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:28--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 00:15:29--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:30--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 00:15:30--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:31--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 00:15:32--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:32--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 00:15:33--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:33--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 00:15:34--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:34--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 00:15:35--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:35--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 00:15:36--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:36--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 00:15:37--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:37--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 00:15:38--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:38--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 00:15:39--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:39--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 00:15:40--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:41--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+[18, 1, 1, 1, 18, 18, 1, 1, 18, 1, 1, 1, 1, 18, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 18, 18, 18, 18, 18]
+18 8
+26
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 00:15:41--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:42--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 00:15:43--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:43--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 00:15:44--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:45--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 00:15:46--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:46--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 00:15:47--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:48--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 00:15:49--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:49--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 00:15:51--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:51--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 00:15:52--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:52--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 00:15:54--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:54--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 00:15:55--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:55--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 00:15:57--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:57--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 00:15:58--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:15:58--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 00:16:00--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:00--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 00:16:01--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:01--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 00:16:03--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:03--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+Terminated
+[3, 3, 2, 2, 3, 1, 1, 2, 2, 1, 2, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3]
+3 26
+29
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 00:16:04--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:05--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 00:16:06--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:06--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 00:16:08--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:08--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 00:16:09--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:10--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 00:16:11--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:11--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 00:16:13--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:13--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 00:16:15--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:15--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 00:16:16--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:17--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 00:16:18--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:18--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 00:16:20--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:20--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 00:16:21--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:22--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 00:16:23--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:23--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 00:16:24--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:25--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 00:16:26--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:26--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 00:16:27--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:28--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[28, 28, 1, 1, 1, 27, 1, 1, 1, 27, 1, 1, 1, 1, 28]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 27, 27, 28, 28, 28]
+28 29
+57
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 00:16:29--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:30--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   122K=0.05s
+
+2024-06-06 00:16:31 (122 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 00:16:32--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:32--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ....Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 00:16:34--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:35--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ....Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 00:16:36--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:37--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ....Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 00:16:39--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:39--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   123K=0.05s
+
+2024-06-06 00:16:40 (123 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 00:16:40--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:41--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ....Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 00:16:42--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:43--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 00:16:44--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:45--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   123K=0.05s
+
+2024-06-06 00:16:45 (123 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 00:16:46--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:46--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ....Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 00:16:48--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:48--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ....Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 00:16:51--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:51--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 00:16:53--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:53--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ....Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 00:16:56--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:56--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ....Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 00:16:58--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:16:59--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ....Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 00:17:00--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:01--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+[0, 6, 3, 3, 0, 5, 3, 0, 5, 5, 3, 3, 3, 3, 3]
+[0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 6]
+6 57
+63
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 00:17:03--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:03--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   122K=0.05s
+
+2024-06-06 00:17:04 (122 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 00:17:04--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:05--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   123K=0.04s
+
+2024-06-06 00:17:06 (123 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 00:17:07--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:07--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   122K=0.05s
+
+2024-06-06 00:17:08 (122 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 00:17:08--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:09--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   124K=0.04s
+
+2024-06-06 00:17:09 (124 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 00:17:10--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:10--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   123K=0.05s
+
+2024-06-06 00:17:12 (123 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 00:17:12--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:12--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   122K=0.05s
+
+2024-06-06 00:17:13 (122 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 00:17:14--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:14--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   124K=0.04s
+
+2024-06-06 00:17:15 (124 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 00:17:16--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:16--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   123K=0.04s
+
+2024-06-06 00:17:18 (123 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 00:17:18--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:18--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   122K=0.05s
+
+2024-06-06 00:17:20 (122 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 00:17:20--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:21--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   117K=0.05s
+
+2024-06-06 00:17:22 (117 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 00:17:22--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:22--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   123K=0.05s
+
+2024-06-06 00:17:24 (123 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 00:17:24--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.118, 104.31.16.11
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:25--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   123K=0.05s
+
+2024-06-06 00:17:25 (123 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 00:17:26--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:26--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   124K=0.04s
+
+2024-06-06 00:17:28 (124 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 00:17:28--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:29--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   123K=0.05s
+
+2024-06-06 00:17:30 (123 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 00:17:30--  http://1337x.to/
+Resolving 1337x.to (1337x.to)... 104.31.16.11, 104.31.16.118
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1337x.to/ [following]
+--2024-06-06 00:17:31--  https://1337x.to/
+Connecting to 1337x.to (1337x.to)|104.31.16.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....                                                   122K=0.05s
+
+2024-06-06 00:17:32 (122 KB/s) - ‘indexPage’ saved [5672]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 63
+63

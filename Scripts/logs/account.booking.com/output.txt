@@ -1,0 +1,2843 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 15:18:36--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 15:18:38--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 15:18:40--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 15:18:41--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 15:18:43--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 15:18:45--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 15:18:46--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 15:18:48--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 15:18:49--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 15:18:51--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 15:18:53--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 15:18:54--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 15:18:56--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 15:18:58--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 15:18:59--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 15:19:01--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 15:19:02--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 15:19:03--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 15:19:03--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 15:19:04--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 15:19:05--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 15:19:06--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 15:19:06--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 15:19:07--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 15:19:08--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 15:19:09--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 15:19:09--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 15:19:10--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 15:19:11--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 15:19:12--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 15:19:13--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 15:19:14--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 15:19:14--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 15:19:15--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 15:19:16--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 15:19:17--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 15:19:18--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 15:19:19--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 15:19:20--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 15:19:21--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 15:19:21--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 15:19:22--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 15:19:23--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 15:19:24--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 15:19:25--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[3, 1, 3, 3, 1, 1, 3, 1, 3, 1, 3, 3, 1, 3, 3]
+[1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 3, 3, 3]
+3 2
+5
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 15:19:26--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:27--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 15:19:28--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:28--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 15:19:29--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:29--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 15:19:31--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:31--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 15:19:32--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:33--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 15:19:33--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:34--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 15:19:34--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 15:19:35--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:36--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 15:19:36--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:37--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 15:19:38--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:39--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 15:19:40--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:40--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 15:19:41--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:42--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 15:19:43--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:44--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 15:19:45--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 15:19:46--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:47--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... Terminated
+[1, 2, 2, 2, 2, 2, 1, 3, 3, 2, 3, 2, 2, 2, 2]
+[1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3]
+3 5
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 15:19:47--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:47--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 15:19:48--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:48--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 15:19:50--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:50--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 15:19:51--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:51--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 15:19:52--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:53--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 15:19:54--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:54--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 15:19:55--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:55--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 15:19:56--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:56--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 15:19:57--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:57--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 15:19:58--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:58--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 15:19:59--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:19:59--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 15:20:00--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:00--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 15:20:01--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:02--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 15:20:02--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:03--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 15:20:04--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:04--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+Terminated
+[1, 2, 1, 15, 14, 15, 1, 1, 15, 1, 1, 15, 1, 15, 14]
+[1, 1, 1, 1, 1, 1, 1, 2, 14, 14, 15, 15, 15, 15, 15]
+15 8
+23
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 15:20:05--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:05--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 15:20:06--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:07--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 15:20:08--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:08--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 15:20:09--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:09--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 15:20:10--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:11--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 15:20:12--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:12--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 15:20:13--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:13--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 15:20:14--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:15--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 15:20:15--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:16--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 15:20:17--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:17--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 15:20:18--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:18--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 15:20:20--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:20--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 15:20:21--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:22--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 15:20:22--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:23--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 15:20:24--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:24--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[3, 3, 1, 1, 5, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 5]
+5 23
+28
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 15:20:25--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:25--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 15:20:27--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:27--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 15:20:30--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:30--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 15:20:32--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:32--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 15:20:34--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:35--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 15:20:36--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:36--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 15:20:39--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:39--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 15:20:41--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:41--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 15:20:42--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:43--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 15:20:45--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:45--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 15:20:47--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:47--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 15:20:48--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:48--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 15:20:51--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:51--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 15:20:53--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:53--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 15:20:56--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:56--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 40, 40, 40, 1, 42, 41, 1, 42, 1, 1, 40, 40, 41, 39]
+[1, 1, 1, 1, 1, 39, 40, 40, 40, 40, 40, 41, 41, 42, 42]
+42 28
+70
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 15:20:58--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:20:59--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 15:21:01--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:01--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 15:21:04--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:04--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 15:21:06--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:06--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 15:21:08--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:09--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 15:21:11--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:11--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 15:21:13--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:14--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 15:21:16--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:16--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 15:21:19--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:19--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 15:21:21--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:21--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 15:21:23--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:24--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 15:21:26--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:26--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 15:21:28--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:29--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 15:21:31--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:31--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 15:21:33--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:33--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .....Terminated
+[72, 71, 72, 69, 73, 75, 69, 69, 70, 74, 69, 70, 74, 70, 71]
+[69, 69, 69, 69, 70, 70, 70, 71, 71, 72, 72, 73, 74, 74, 75]
+75 70
+145
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 15:21:36--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:36--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 15:21:38--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:39--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 15:21:41--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:42--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 15:21:44--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:44--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 15:21:46--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:47--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 15:21:50--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:50--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 15:21:52--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:52--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 15:21:55--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:55--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 15:21:57--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:21:58--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 15:22:00--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:00--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 15:22:02--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:03--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 15:22:05--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:05--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 15:22:08--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:08--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 15:22:10--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:11--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 15:22:13--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:13--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .Terminated
+[145, 144, 143, 138, 143, 147, 144, 141, 146, 143, 143, 143, 144, 151, 144]
+[138, 141, 143, 143, 143, 143, 143, 144, 144, 144, 144, 145, 146, 147, 151]
+151 145
+296
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 15:22:15--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:16--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.8K
+    50K .......Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 15:22:18--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:19--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.9K
+    50K .......Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 15:22:22--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:22--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 15:22:25--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:25--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.9K
+    50K ....Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 15:22:28--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:28--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 15:22:32--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:32--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 15:22:35--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:35--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 15:22:38--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:38--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 15:22:41--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:42--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.6K
+    50K .......Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 15:22:44--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:45--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 15:22:48--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:48--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 15:22:51--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:52--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 15:22:54--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:55--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 15:22:57--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:22:58--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 15:23:00--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:01--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.9K
+    50K .......Terminated
+[152, 150, 152, 150, 152, 152, 150, 163, 152, 149, 152, 149, 149, 151, 150]
+[149, 149, 149, 150, 150, 150, 150, 151, 152, 152, 152, 152, 152, 152, 163]
+163 296
+459
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 15:23:04--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:04--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 15:23:08--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:08--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  116K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 15:23:11--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:12--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 15:23:15--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:15--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.5K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 15:23:18--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:18--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 15:23:22--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:22--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 96.7K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 15:23:25--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:26--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  123K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 15:23:29--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:30--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  112K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 15:23:33--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:33--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.4K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 15:23:36--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:37--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.0K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 15:23:40--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:40--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 15:23:43--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:44--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 15:23:47--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:47--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 15:23:50--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:51--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.8K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 15:23:54--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:54--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... ...Terminated
+[163, 166, 165, 164, 165, 166, 166, 170, 163, 165, 164, 163, 167, 165, 164]
+[163, 163, 163, 164, 164, 164, 165, 165, 165, 165, 166, 166, 166, 167, 170]
+170 459
+629
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 15:23:57--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:23:58--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  120K
+    50K .......... .......... .......... .......... ..........  119K
+   100K .......... .......... .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-06 15:24:02--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:02--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 90.4K
+    50K .......... .......... .......... .......... ..........  113K
+   100K .......... .......... .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-06 15:24:06--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:07--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.1K
+    50K .......... .......... .......... .......... ..........  111K
+   100K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-06 15:24:11--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:11--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.4K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-06 15:24:16--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:16--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .....Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-06 15:24:20--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:21--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.2K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-06 15:24:25--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:25--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.3K
+    50K .......... .......... .......... .......... ..........  120K
+   100K .......... .......... .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-06 15:24:30--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:30--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  112K
+    50K .......... .......... .......... .......... ..........  123K
+   100K .......... .......... .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-06 15:24:34--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:35--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  115K
+    50K .......... .......... .......... .......... ..........  122K
+   100K .......... .......... .....Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-06 15:24:39--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:40--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  115K
+    50K .......... .......... .......... .......... ..........  112K
+   100K .......... .......... .....Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-06 15:24:44--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:44--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.7K
+    50K .......... .......... .......... .......... ..........  121K
+   100K .......... .......... .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-06 15:24:49--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:49--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.2K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .....Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-06 15:24:53--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:54--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.8K
+    50K .......... .......... .......... .......... ..........  119K
+   100K .......... .......... .......... .......Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-06 15:24:58--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:24:59--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.5K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .....Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-06 15:25:03--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:03--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.4K
+    50K .......... .......... .......... .......... ..........  120K
+   100K .......... .......... .......... .......Terminated
+[185, 165, 183, 183, 183, 185, 185, 185, 183, 183, 181, 183, 183, 185, 183]
+[165, 181, 183, 183, 183, 183, 183, 183, 183, 183, 185, 185, 185, 185, 185]
+185 629
+814
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-06 15:25:08--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:08--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... ..........  121K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .........Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-06 15:25:12--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:12--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.9K
+    50K .......... .......... .......... .......... ..........  119K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .........Terminated
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-06 15:25:16--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:16--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.8K
+    50K .......... .......... .......... .......... ..........  122K
+   100K .......... .......... .......... .......... ..........  105K
+   150K .......... .......... ...Terminated
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-06 15:25:20--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:20--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .......... .......... ..........  119K
+   150K .......... .....Terminated
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-06 15:25:24--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:25--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.1K
+    50K .......... .......... .......... .......... ..........  121K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .........Terminated
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-06 15:25:29--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:29--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... ...Terminated
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-06 15:25:33--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:33--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.2K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... ...Terminated
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-06 15:25:37--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:37--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  117K
+    50K .......... .......... .......... .......... ..........  122K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .........Terminated
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-06 15:25:41--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:41--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  117K
+    50K .......... .......... .......... .......... ..........  119K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... ...Terminated
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-06 15:25:45--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:45--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... ..........  130K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .........Terminated
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-06 15:25:49--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:49--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.1K
+    50K .......... .......... .......... .......... ..........  120K
+   100K .......... .......... .......... .......... ..........  105K
+   150K .......... .......... ...Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-06 15:25:53--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:53--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... ..........  125K
+   100K .......... .......... .......... .......... ..........  105K
+   150K .......... .......... ...Terminated
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-06 15:25:57--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:25:57--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.5K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... ...Terminated
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-06 15:26:02--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:02--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... ...Terminated
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-06 15:26:06--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:06--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  115K
+    50K .......... .......... .......... .......... ..........  122K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .........Terminated
+[137, 139, 137, 141, 135, 137, 139, 137, 137, 139, 135, 135, 137, 135, 135]
+[135, 135, 135, 135, 135, 137, 137, 137, 137, 137, 137, 139, 139, 139, 141]
+141 814
+955
+--------------------------------- RTT-14, TRIAL-1 ----------------------
+--2024-06-06 15:26:10--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:11--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.8K
+    50K .......... .......... .......... .......... ..........  118K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-2 ----------------------
+--2024-06-06 15:26:14--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:15--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  110K
+    50K .......... .......... .......... .......... ..........  125K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  119K
+   200K .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-3 ----------------------
+--2024-06-06 15:26:19--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:19--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  115K
+    50K .......... .......... .......... .......... ..........  121K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-4 ----------------------
+--2024-06-06 15:26:23--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:24--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.0K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-5 ----------------------
+--2024-06-06 15:26:28--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:28--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... ..........  120K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-6 ----------------------
+--2024-06-06 15:26:32--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:33--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... .......... .......... ..........  114K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .....Terminated
+--------------------------------- RTT-14, TRIAL-7 ----------------------
+--2024-06-06 15:26:36--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:37--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.6K
+    50K .......... .......... .......... .......... ..........  122K
+   100K .......... .......... .......... .......... ..........  117K
+   150K .......... .......... .......... .......... ..........  117K
+   200K .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-8 ----------------------
+--2024-06-06 15:26:41--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:41--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 90.7K
+    50K .......... .......... .......... .......... ..........  125K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ...Terminated
+--------------------------------- RTT-14, TRIAL-9 ----------------------
+--2024-06-06 15:26:45--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:46--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  117K
+    50K .......... .......... .......... .......... ..........  121K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-10 ----------------------
+--2024-06-06 15:26:50--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:50--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  117K
+    50K .......... .......... .......... .......... ..........  121K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-11 ----------------------
+--2024-06-06 15:26:54--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:54--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  123K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .Terminated
+--------------------------------- RTT-14, TRIAL-12 ----------------------
+--2024-06-06 15:26:59--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:26:59--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  121K
+    50K .......... .......... .......... .......... ..........  117K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .Terminated
+--------------------------------- RTT-14, TRIAL-13 ----------------------
+--2024-06-06 15:27:03--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:03--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  116K
+    50K .......... .......... .......... .......... ..........  122K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-14 ----------------------
+--2024-06-06 15:27:08--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:08--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  110K
+    50K .......... .......... .......... .......... ..........  123K
+   100K .......... .......... .......... .......... ..........  118K
+   150K .......... .......... .......... .......... ..........  119K
+   200K .......... .......Terminated
+--------------------------------- RTT-14, TRIAL-15 ----------------------
+--2024-06-06 15:27:12--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:12--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 94.4K
+    50K .......... .......... .......... .......... ..........  118K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......Terminated
+[117, 121, 115, 117, 115, 119, 121, 115, 115, 117, 117, 119, 117, 119, 115]
+[115, 115, 115, 115, 115, 117, 117, 117, 117, 117, 119, 119, 119, 121, 121]
+121 955
+1076
+--------------------------------- RTT-15, TRIAL-1 ----------------------
+--2024-06-06 15:27:16--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:17--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... ..........  126K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-2 ----------------------
+--2024-06-06 15:27:21--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:21--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  112K
+    50K .......... .......... .......... .......... ..........  122K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-3 ----------------------
+--2024-06-06 15:27:26--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:26--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.0K
+    50K .......... .......... .......... .......... ..........  122K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-4 ----------------------
+--2024-06-06 15:27:31--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:31--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... ..........  123K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-5 ----------------------
+--2024-06-06 15:27:36--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:36--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  125K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-6 ----------------------
+--2024-06-06 15:27:40--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:41--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.1K
+    50K .......... .......... .......... .......... ..........  113K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-7 ----------------------
+--2024-06-06 15:27:45--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:45--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  111K
+    50K .......... .......... .......... .......... ..........  124K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  116K
+   200K .......... .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-8 ----------------------
+--2024-06-06 15:27:50--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:50--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.1K
+    50K .......... .......... .......... .......... ..........  116K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......Terminated
+--------------------------------- RTT-15, TRIAL-9 ----------------------
+--2024-06-06 15:27:54--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:55--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.4K
+    50K .......... .......... .......... .......... ..........  122K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  117K
+   200K .......... .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-10 ----------------------
+--2024-06-06 15:27:58--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:27:59--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  114K
+    50K .......... .......... .......... .......... ..........  120K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-11 ----------------------
+--2024-06-06 15:28:03--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.29, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:28:04--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.3K
+    50K .......... .......... .......... .......... ..........  115K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .........Terminated
+--------------------------------- RTT-15, TRIAL-12 ----------------------
+--2024-06-06 15:28:08--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:28:08--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.0K
+    50K .......... .......... .......... .......... ..........  123K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-13 ----------------------
+--2024-06-06 15:28:13--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:28:13--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 92.5K
+    50K .......... .......... .......... .......... ..........  125K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... ...Terminated
+--------------------------------- RTT-15, TRIAL-14 ----------------------
+--2024-06-06 15:28:17--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:28:18--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 91.9K
+    50K .......... .......... .......... .......... ..........  102K
+   100K .......... .......... .......... .......... ..........  139K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... ..Terminated
+--------------------------------- RTT-15, TRIAL-15 ----------------------
+--2024-06-06 15:28:22--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:28:22--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 93.4K
+    50K .......... .......... .......... .......... ..........  121K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... ...Terminated
+[117, 117, 117, 115, 117, 128, 117, 117, 120, 117, 117, 117, 117, 117, 115]
+[115, 115, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 117, 120, 128]
+128 1076
+1204
+--------------------------------- RTT-16, TRIAL-1 ----------------------
+--2024-06-06 15:28:27--  http://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://account.booking.com/ [following]
+--2024-06-06 15:28:27--  https://account.booking.com/
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 95.6K
+    50K .......... .......... .......... .......... ..........  117K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... ..........  101K
+   250K .......... .......... ....                              142K=2.5s
+
+2024-06-06 15:28:30 (110 KB/s) - ‘indexPage’ saved [281346]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:28:31--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.92, 18.154.132.129, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  130K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... .......... 87.7K
+   250K .......... .......... ....                              262K=2.4s
+
+2024-06-06 15:28:35 (115 KB/s) - ‘indexPage’ saved [281345]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:28:35--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.129, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.7K
+    50K .......... .......... .......... .......... ..........  133K
+   100K .......... .......... .......... .......... ..........  108K
+   150K .......... .......... .......... .......... ..........  112K
+   200K .......... .......... .......... .......... ..........  116K
+   250K .......... .......... ....                              127K=2.5s
+
+2024-06-06 15:28:39 (111 KB/s) - ‘indexPage’ saved [281346]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:28:39--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.73, 18.154.132.92, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  110K
+    50K .......... .......... .......... .......... ..........  120K
+   100K .......... .......... .......... .......... ..........  125K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... .......... 86.6K
+   250K .......... .......... ....                              289K=2.4s
+
+2024-06-06 15:28:43 (116 KB/s) - ‘indexPage’ saved [281345]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:28:43--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.29, 18.154.132.92, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  109K
+    50K .......... .......... .......... .......... ..........  130K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... .......... 85.4K
+   250K .......... .......... ....                              286K=2.4s
+
+2024-06-06 15:28:47 (115 KB/s) - ‘indexPage’ saved [281346]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:28:47--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 87.7K
+    50K .......... .......... .......... .......... ..........  134K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... .......... 86.4K
+   250K .......... .......... ....                              289K=2.5s
+
+2024-06-06 15:28:51 (111 KB/s) - ‘indexPage’ saved [281346]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:28:52--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 88.6K
+    50K .......... .......... .......... .......... ..........  130K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... .......... 86.0K
+   250K .......... .......... ....                              278K=2.5s
+
+2024-06-06 15:28:56 (110 KB/s) - ‘indexPage’ saved [281346]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:28:56--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  111K
+    50K .......... .......... .......... .......... ..........  122K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  117K
+   250K .......... .......... ....                              125K=2.4s
+
+2024-06-06 15:29:00 (117 KB/s) - ‘indexPage’ saved [281346]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:29:00--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.73, 18.154.132.129, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... .......... .......... ..........  123K
+   100K .......... .......... .......... .......... ..........  115K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... .......... 92.3K
+   250K .......... .......... ....                              288K=2.4s
+
+2024-06-06 15:29:04 (116 KB/s) - ‘indexPage’ saved [281346]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:29:04--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... .......... .......... ..........  122K
+   100K .......... .......... .......... .......... ..........  124K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... .......... 86.4K
+   250K .......... .......... ....                              261K=2.4s
+
+2024-06-06 15:29:08 (115 KB/s) - ‘indexPage’ saved [281346]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:29:08--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 87.9K
+    50K .......... .......... .......... .......... ..........  120K
+   100K .......... .......... .......... .......... ..........  114K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... ..........  114K
+   250K .......... .......... ....                              129K=2.5s
+
+2024-06-06 15:29:12 (110 KB/s) - ‘indexPage’ saved [281345]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:29:12--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 89.1K
+    50K .......... .......... .......... .......... ..........  135K
+   100K .......... .......... .......... .......... ..........  116K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... .......... 88.3K
+   250K .......... .......... ....                              273K=2.5s
+
+2024-06-06 15:29:16 (112 KB/s) - ‘indexPage’ saved [281345]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:29:16--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.73, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .......... .......... ..........  131K
+   100K .......... .......... .......... .......... ..........  113K
+   150K .......... .......... .......... .......... ..........  114K
+   200K .......... .......... .......... .......... .......... 86.6K
+   250K .......... .......... ....                              289K=2.4s
+
+2024-06-06 15:29:20 (115 KB/s) - ‘indexPage’ saved [281346]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:29:20--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.129, 18.154.132.92, 18.154.132.29, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  111K
+    50K .......... .......... .......... .......... ..........  119K
+   100K .......... .......... .......... .......... ..........  125K
+   150K .......... .......... .......... .......... ..........  115K
+   200K .......... .......... .......... .......... .......... 86.9K
+   250K .......... .......... ....                              275K=2.4s
+
+2024-06-06 15:29:24 (116 KB/s) - ‘indexPage’ saved [281346]
+
+wget: no process found
+--------------------------------- RTT-16, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 15:29:24--  https://account.booking.com/
+Resolving account.booking.com (account.booking.com)... 18.154.132.92, 18.154.132.29, 18.154.132.73, ...
+Connecting to account.booking.com (account.booking.com)|18.154.132.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 89.3K
+    50K .......... .......... .......... .......... ..........  127K
+   100K .......... .......... .......... .......... ..........  119K
+   150K .......... .......... .......... .......... ..........  119K
+   200K .......... .......... .......... .......... .......... 88.5K
+   250K .......... .......... ....                              268K=2.4s
+
+2024-06-06 15:29:28 (112 KB/s) - ‘indexPage’ saved [281346]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 1204
+1204

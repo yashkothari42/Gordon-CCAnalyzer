@@ -1,0 +1,1068 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 07:27:28--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 07:27:30--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 07:27:32--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 07:27:33--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 07:27:35--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 07:27:37--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 07:27:38--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 07:27:40--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 07:27:42--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 07:27:43--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 07:27:45--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 07:27:47--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 07:27:48--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 07:27:50--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 07:27:51--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2]
+2 0
+2
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 07:27:53--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 07:27:54--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 07:27:55--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 07:27:56--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 07:27:58--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 07:27:59--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 07:28:00--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 07:28:02--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 07:28:03--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 07:28:04--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 07:28:05--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 07:28:06--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 07:28:07--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 07:28:08--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 07:28:10--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 5, 5, 5, 5, 1, 1, 5, 5, 5, 1, 5, 1]
+[1, 1, 1, 1, 1, 1, 1, 5, 5, 5, 5, 5, 5, 5, 5]
+5 2
+7
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 07:28:11--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:11--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 07:28:13--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:13--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 07:28:15--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:16--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 07:28:16--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:18--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 07:28:18--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:19--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 07:28:20--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:21--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 07:28:22--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:24--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 07:28:24--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:25--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 07:28:26--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:27--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 07:28:28--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:29--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 07:28:30--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:31--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 07:28:31--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:32--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 07:28:34--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:35--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 07:28:35--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:36--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 07:28:37--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:38--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... Terminated
+[1, 1, 1, 2, 2, 1, 1, 2, 1, 1, 2, 2, 1, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2]
+2 7
+9
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 07:28:39--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:40--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 07:28:40--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:41--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 07:28:41--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:42--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 07:28:43--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:43--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 07:28:44--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:45--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 07:28:45--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:46--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 07:28:47--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:47--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 07:28:48--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:48--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 07:28:49--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:50--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 07:28:50--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:51--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 07:28:51--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:52--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 07:28:53--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:53--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 07:28:54--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:54--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 07:28:55--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:56--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 07:28:56--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:57--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 9
+10
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 07:28:58--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:58--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 07:28:59--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:28:59--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 07:29:00--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:01--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 07:29:02--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:02--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 07:29:03--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:04--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 07:29:05--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:05--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 07:29:06--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:07--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 07:29:08--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:08--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 07:29:09--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:09--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 07:29:10--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:11--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 07:29:12--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:12--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 07:29:13--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:13--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 07:29:14--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:15--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 07:29:15--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:16--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 07:29:17--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:17--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+[1, 19, 19, 19, 1, 1, 19, 1, 19, 1, 1, 1, 1, 19, 18]
+[1, 1, 1, 1, 1, 1, 1, 1, 18, 19, 19, 19, 19, 19, 19]
+19 10
+29
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 07:29:18--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:19--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 07:29:20--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:21--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 07:29:22--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:23--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 07:29:24--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:24--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 07:29:26--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:26--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 07:29:27--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:28--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 07:29:29--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:29--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 07:29:30--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:31--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 07:29:32--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:33--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 07:29:34--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:34--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 07:29:35--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:36--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 07:29:37--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:38--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 07:29:39--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:39--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 07:29:40--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:41--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 07:29:42--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:43--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2]
+2 29
+31
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 07:29:44--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:44--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 07:29:46--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:47--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 07:29:49--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:50--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 07:29:51--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:51--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 07:29:54--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:54--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 07:29:56--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:56--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 07:29:58--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:29:58--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 07:30:00--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:30:01--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 07:30:02--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:30:03--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 07:30:04--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:30:04--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 07:30:06--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:30:07--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 07:30:08--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:30:09--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 07:30:10--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:30:10--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 07:30:11--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:30:12--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 07:30:14--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:30:15--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[85, 86, 1, 46, 1, 1, 85, 1, 1, 86, 1, 1, 1, 86, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 46, 85, 85, 86, 86, 86]
+86 31
+117
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 07:30:16--  http://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://2ch.hk/ [following]
+--2024-06-06 07:30:16--  https://2ch.hk/
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                   87.9M=0s
+
+2024-06-06 07:30:18 (87.9 MB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:18--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                   90.8M=0s
+
+2024-06-06 07:30:20 (90.8 MB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:20--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    110K=0.2s
+
+2024-06-06 07:30:22 (110 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:22--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    110K=0.2s
+
+2024-06-06 07:30:23 (110 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:24--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    110K=0.2s
+
+2024-06-06 07:30:25 (110 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:25--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    113K=0.2s
+
+2024-06-06 07:30:27 (113 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:27--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    110K=0.2s
+
+2024-06-06 07:30:29 (110 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:29--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    110K=0.2s
+
+2024-06-06 07:30:30 (110 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:31--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 172.67.159.186, 104.21.9.92
+Connecting to 2ch.hk (2ch.hk)|172.67.159.186|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    110K=0.2s
+
+2024-06-06 07:30:32 (110 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:32--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    110K=0.2s
+
+2024-06-06 07:30:34 (110 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:34--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    110K=0.2s
+
+2024-06-06 07:30:35 (110 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:36--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    110K=0.2s
+
+2024-06-06 07:30:37 (110 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:38--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    110K=0.2s
+
+2024-06-06 07:30:38 (110 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:39--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    110K=0.2s
+
+2024-06-06 07:30:40 (110 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 07:30:41--  https://2ch.hk/
+Resolving 2ch.hk (2ch.hk)... 104.21.9.92, 172.67.159.186
+Connecting to 2ch.hk (2ch.hk)|104.21.9.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .........                                    110K=0.2s
+
+2024-06-06 07:30:43 (110 KB/s) - ‘indexPage’ saved [19641]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 117
+117

@@ -1,0 +1,1701 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 07:40:56--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 07:40:58--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 07:41:00--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 07:41:01--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 07:41:03--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 07:41:05--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 07:41:06--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 07:41:08--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 07:41:10--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 07:41:11--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 07:41:13--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 07:41:15--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 07:41:16--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 07:41:18--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 07:41:20--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 07:41:21--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 07:41:22--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 07:41:23--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 07:41:24--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 07:41:24--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 07:41:25--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 07:41:26--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 07:41:27--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 07:41:27--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 07:41:28--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 07:41:29--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 07:41:30--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 07:41:31--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 07:41:31--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 07:41:32--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 07:41:33--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 07:41:34--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 07:41:35--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 07:41:36--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 07:41:37--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 07:41:38--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 07:41:38--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 07:41:39--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 07:41:40--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 07:41:41--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 07:41:42--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 07:41:43--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 07:41:43--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 07:41:44--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 07:41:45--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 4, 4, 1, 1, 1, 1, 4, 1, 1, 1, 1, 4, 4, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 07:41:46--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:41:47--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 07:41:48--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:41:48--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 07:41:49--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:41:50--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 07:41:50--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:41:51--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 07:41:51--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:41:52--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 07:41:53--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:41:53--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 07:41:54--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:41:54--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 07:41:56--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:41:56--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 07:41:58--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:41:59--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 07:41:59--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:00--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 07:42:00--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:01--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 07:42:02--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:02--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 07:42:03--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:04--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 07:42:05--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:06--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 07:42:06--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:07--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... Terminated
+[1, 2, 2, 2, 2, 2, 2, 1, 1, 2, 2, 2, 1, 2, 2]
+[1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 07:42:07--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:08--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 07:42:08--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:09--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 07:42:09--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:10--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 07:42:10--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:11--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 07:42:11--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:12--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 07:42:13--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:13--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 07:42:14--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:14--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 07:42:15--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:15--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 07:42:16--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:16--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 07:42:17--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:17--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 07:42:18--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:18--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 07:42:19--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:19--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 07:42:20--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:20--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 07:42:21--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:21--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 07:42:22--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:22--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 8
+9
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 07:42:23--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:23--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 07:42:24--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:25--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 07:42:25--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:26--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 07:42:27--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:27--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 07:42:28--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:28--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 07:42:29--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:29--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 07:42:30--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:30--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 07:42:31--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:31--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 07:42:32--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:33--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 07:42:33--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:34--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 07:42:34--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:35--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 07:42:36--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:36--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 07:42:37--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:37--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 07:42:38--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:38--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 07:42:39--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:40--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+[19, 1, 18, 1, 19, 1, 1, 1, 19, 1, 19, 19, 1, 18, 18]
+[1, 1, 1, 1, 1, 1, 1, 18, 18, 18, 19, 19, 19, 19, 19]
+19 9
+28
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 07:42:41--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:41--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 07:42:43--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:43--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 07:42:44--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:44--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 07:42:45--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:46--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 07:42:47--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:47--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 07:42:49--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:49--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 07:42:50--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:51--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 07:42:52--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:52--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 07:42:53--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:54--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 07:42:55--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:55--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 07:42:56--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:57--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 07:42:58--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:42:58--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 07:42:59--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:00--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 07:43:01--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:01--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 07:43:03--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:03--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 2, 1, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2]
+2 28
+30
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 07:43:04--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:04--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 07:43:05--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:06--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 07:43:07--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:07--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 07:43:08--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:09--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 07:43:10--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:10--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 07:43:11--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:12--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 07:43:12--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:13--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 07:43:14--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:14--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 07:43:15--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:16--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 07:43:17--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:17--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 07:43:18--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:19--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 07:43:20--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:20--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 07:43:21--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:22--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 07:43:23--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:23--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 07:43:24--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:25--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 2, 1, 1, 1, 1, 0, 1, 2, 0, 0, 1, 1]
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2]
+2 30
+32
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 07:43:26--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:26--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 07:43:28--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:28--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 07:43:29--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:29--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 07:43:30--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:31--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 07:43:32--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:32--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 07:43:33--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:34--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 07:43:35--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:35--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 07:43:36--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:36--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 07:43:38--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:38--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 07:43:39--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:39--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 07:43:40--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:41--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 07:43:42--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:42--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 07:43:43--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:44--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 07:43:45--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:45--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 07:43:46--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:47--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1]
+1 32
+33
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 07:43:48--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:48--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 07:43:49--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:50--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 07:43:51--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:51--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 07:43:52--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:52--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 07:43:53--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:54--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 07:43:56--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:56--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 07:43:57--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:57--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 07:43:58--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:43:59--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 07:44:01--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:01--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 07:44:03--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:03--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 07:44:04--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:04--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 07:44:06--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:06--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 07:44:07--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:07--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 07:44:09--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:10--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 07:44:11--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:11--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 0, 0, 162, 0, 0, 161, 87, 0, 0, 0, 181, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 87, 161, 162, 181]
+181 33
+214
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 07:44:12--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:13--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 07:44:14--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:14--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 07:44:15--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:15--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 07:44:16--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:17--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ..........Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 07:44:19--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:19--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 07:44:21--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:21--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 07:44:22--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:23--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 07:44:24--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:24--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 07:44:25--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:25--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 07:44:27--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:27--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 07:44:28--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:28--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 07:44:30--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:30--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 07:44:31--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:32--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 07:44:34--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:34--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 07:44:35--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:36--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ..........Terminated
+[0, 0, 0, 53, 52, 0, 0, 0, 0, 0, 45, 0, 54, 0, 54]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 52, 53, 54, 54]
+54 214
+268
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 07:44:37--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:37--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-06 07:44:39--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:39--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-06 07:44:40--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:40--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-06 07:44:41--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:42--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  833K
+    50K ....Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-06 07:44:44--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:44--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-06 07:44:45--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:46--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-06 07:44:47--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:47--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-06 07:44:48--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:48--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  863K
+    50K ..                                                      114K=0.08s
+
+2024-06-06 07:44:50 (633 KB/s) - ‘indexPage’ saved [54183]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-06 07:44:50--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:50--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-06 07:44:52--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:52--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-06 07:44:53--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:54--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-06 07:44:55--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:55--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-06 07:44:56--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:57--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-06 07:44:58--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:58--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-06 07:44:59--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:44:59--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  804K
+    50K ..                                                      113K=0.09s
+
+2024-06-06 07:45:01 (600 KB/s) - ‘indexPage’ saved [54203]
+
+wget: no process found
+[0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4]
+4 268
+272
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-06 07:45:01--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:01--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-06 07:45:03--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:03--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-06 07:45:04--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:05--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-06 07:45:06--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:06--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-06 07:45:07--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:08--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-06 07:45:09--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:09--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-06 07:45:10--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:10--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-06 07:45:11--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:12--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-06 07:45:13--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:13--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-06 07:45:14--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:15--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-06 07:45:16--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:16--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-06 07:45:17--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:18--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  250K
+    50K ...                                                     109K=0.2s
+
+2024-06-06 07:45:19 (232 KB/s) - ‘indexPage’ saved [54521]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-06 07:45:19--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 172.67.182.68, 104.21.32.16, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:19--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|172.67.182.68|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  730K
+    50K ...                                                     106K=0.1s
+
+2024-06-06 07:45:21 (530 KB/s) - ‘indexPage’ saved [54707]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-06 07:45:21--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3035::6815:2010, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:21--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-06 07:45:22--  http://3gpjizz.info/
+Resolving 3gpjizz.info (3gpjizz.info)... 104.21.32.16, 172.67.182.68, 2606:4700:3034::ac43:b644, ...
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://3gpjizz.info/ [following]
+--2024-06-06 07:45:23--  https://3gpjizz.info/
+Connecting to 3gpjizz.info (3gpjizz.info)|104.21.32.16|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 272
+272

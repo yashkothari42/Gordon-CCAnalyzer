@@ -1,0 +1,366 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 13:05:34--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 13:05:36--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 13:05:37--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 13:05:39--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 13:05:41--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 13:05:42--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 13:05:44--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 13:05:45--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 13:05:47--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 13:05:49--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 13:05:50--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 13:05:52--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 13:05:54--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 13:05:55--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 13:05:57--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 13:05:59--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 13:05:59--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 13:06:00--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 13:06:01--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 13:06:02--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 13:06:03--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 13:06:03--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 13:06:04--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 13:06:05--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 13:06:06--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 13:06:06--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 13:06:07--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 13:06:08--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 13:06:09--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 13:06:10--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 13:06:10--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 13:06:11--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 13:06:12--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 13:06:13--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 13:06:14--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 13:06:15--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 13:06:16--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 13:06:17--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 13:06:17--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 13:06:18--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 13:06:19--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 13:06:20--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 13:06:21--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 13:06:22--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 13:06:23--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 22, 1, 1, 1, 22, 22, 1, 22, 1, 22, 1, 22, 1, 22]
+[1, 1, 1, 1, 1, 1, 1, 1, 22, 22, 22, 22, 22, 22, 22]
+22 2
+24
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 13:06:24--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:24 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 13:06:25--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:25 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 13:06:25--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:26 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 13:06:26--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:27 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 13:06:27--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:27 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 13:06:28--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:28 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 13:06:29--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:29 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 13:06:29--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:30 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 13:06:30--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:31 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 13:06:31--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:31 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 13:06:32--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:32 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 13:06:33--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3032::ac43:b24d, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:33 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 13:06:33--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:34 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 13:06:34--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 104.21.17.207, 172.67.178.77, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|104.21.17.207|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:34 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 13:06:35--  http://99exch.com/
+Resolving 99exch.com (99exch.com)... 172.67.178.77, 104.21.17.207, 2606:4700:3036::6815:11cf, ...
+Connecting to 99exch.com (99exch.com)|172.67.178.77|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-06 13:06:35 ERROR 403: Forbidden.
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 24
+24

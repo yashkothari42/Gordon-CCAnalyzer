@@ -1,0 +1,1444 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 07:23:45--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 07:23:48--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 07:23:50--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 07:23:51--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 07:23:53--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 07:23:55--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 07:23:56--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 07:23:58--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 07:24:00--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 07:24:01--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 07:24:03--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 07:24:05--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 07:24:06--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 07:24:08--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 07:24:10--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 07:24:11--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 07:24:12--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 07:24:13--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 07:24:14--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 07:24:14--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 07:24:15--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 07:24:16--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 07:24:17--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 07:24:17--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 07:24:18--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 07:24:19--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 07:24:20--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 07:24:21--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 07:24:21--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 07:24:22--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 07:24:23--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 07:24:24--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 07:24:25--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 07:24:26--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 07:24:27--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 07:24:28--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 07:24:29--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 07:24:29--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 07:24:30--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 07:24:31--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 07:24:32--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 07:24:33--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 07:24:34--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 07:24:35--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 07:24:37--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 4, 1, 4, 4, 1, 1, 1, 1, 4, 4, 4, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 07:24:37--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:38--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 07:24:39--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:40--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 07:24:41--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:42--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 07:24:43--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:44--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 07:24:45--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:45--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 07:24:46--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:47--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 07:24:48--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:49--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 07:24:49--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:49--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 07:24:51--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:52--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 07:24:52--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:53--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 07:24:54--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:54--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 07:24:56--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:57--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 07:24:57--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:58--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 07:24:59--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:24:59--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 07:25:00--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:01--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... Terminated
+[1, 1, 1, 1, 2, 1, 2, 2, 1, 2, 1, 1, 2, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 07:25:02--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:02--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 07:25:03--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:03--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 07:25:04--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:04--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 07:25:05--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:05--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 07:25:06--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:06--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 07:25:07--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:07--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 07:25:08--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:09--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 07:25:09--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:10--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 07:25:10--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:11--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 07:25:11--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:12--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 07:25:12--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:13--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 07:25:13--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:14--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 07:25:14--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:15--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 07:25:15--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:16--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 07:25:17--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:17--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 18, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 18]
+18 8
+26
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 07:25:18--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:18--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 07:25:19--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:19--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 07:25:21--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:21--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 07:25:22--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:23--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 07:25:24--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:24--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 07:25:25--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:26--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 07:25:27--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:27--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 07:25:28--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:29--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 07:25:30--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:30--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 07:25:32--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:32--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 07:25:33--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:33--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 07:25:35--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:35--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 07:25:36--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:36--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 07:25:38--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:38--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 07:25:39--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:40--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 2, 2, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2]
+2 26
+28
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 07:25:40--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:41--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 07:25:42--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:42--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 07:25:43--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:44--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 07:25:45--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:45--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 07:25:46--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:47--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 07:25:48--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:48--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 07:25:50--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:50--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 07:25:51--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:51--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 07:25:53--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:53--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 07:25:54--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:55--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 07:25:55--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:56--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 07:25:57--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:57--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 07:25:58--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:25:59--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 07:26:00--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:00--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 07:26:01--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:02--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 1, 1, 2, 1, 2, 1, 2, 2, 1, 1, 2, 1, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2]
+2 28
+30
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 07:26:03--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:03--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 07:26:05--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:05--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 07:26:06--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:07--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 07:26:09--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:09--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 07:26:10--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:10--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 07:26:12--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:12--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 07:26:14--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:14--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 07:26:15--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:15--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 07:26:17--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:17--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 07:26:19--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:19--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 07:26:20--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:21--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 07:26:22--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:22--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 07:26:24--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:24--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 07:26:25--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:25--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 07:26:27--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:27--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[88, 1, 74, 1, 166, 165, 1, 167, 169, 169, 1, 165, 1, 163, 1]
+[1, 1, 1, 1, 1, 1, 74, 88, 163, 165, 165, 166, 167, 169, 169]
+169 30
+199
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 07:26:28--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:29--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........              87.6M=0s
+
+2024-06-06 07:26:30 (87.6 MB/s) - ‘indexPage’ saved [39027]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 07:26:30--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:31--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                111K=0.3s
+
+2024-06-06 07:26:32 (111 KB/s) - ‘indexPage’ saved [38669]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 07:26:32--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:33--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                111K=0.3s
+
+2024-06-06 07:26:34 (111 KB/s) - ‘indexPage’ saved [38895]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 07:26:34--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:34--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               111K=0.3s
+
+2024-06-06 07:26:35 (111 KB/s) - ‘indexPage’ saved [39248]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 07:26:36--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:36--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                111K=0.3s
+
+2024-06-06 07:26:38 (111 KB/s) - ‘indexPage’ saved [38138]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 07:26:38--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:38--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                110K=0.3s
+
+2024-06-06 07:26:39 (110 KB/s) - ‘indexPage’ saved [38230]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 07:26:40--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:40--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                109K=0.3s
+
+2024-06-06 07:26:41 (109 KB/s) - ‘indexPage’ saved [38551]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 07:26:42--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:42--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                110K=0.3s
+
+2024-06-06 07:26:43 (110 KB/s) - ‘indexPage’ saved [38015]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 07:26:44--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:44--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                111K=0.3s
+
+2024-06-06 07:26:45 (111 KB/s) - ‘indexPage’ saved [38505]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 07:26:46--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:46--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 07:26:47--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:48--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......               44.6K=0.8s
+
+2024-06-06 07:26:49 (44.6 KB/s) - ‘indexPage’ saved [38403]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 07:26:50--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:50--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......               8.49M=0.004s
+
+2024-06-06 07:26:53 (8.49 MB/s) - ‘indexPage’ saved [38167]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 07:26:53--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:54--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                111K=0.3s
+
+2024-06-06 07:26:55 (111 KB/s) - ‘indexPage’ saved [38601]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 07:26:55--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:56--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                110K=0.3s
+
+2024-06-06 07:26:57 (110 KB/s) - ‘indexPage’ saved [38254]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 07:26:57--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:26:57--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               110K=0.3s
+
+2024-06-06 07:26:59 (110 KB/s) - ‘indexPage’ saved [39086]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]
+3 199
+202
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 07:26:59--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:00--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                110K=0.3s
+
+2024-06-06 07:27:01 (110 KB/s) - ‘indexPage’ saved [38803]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 07:27:01--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:02--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               110K=0.3s
+
+2024-06-06 07:27:03 (110 KB/s) - ‘indexPage’ saved [39435]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 07:27:03--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:03--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ......                 110K=0.3s
+
+2024-06-06 07:27:05 (110 KB/s) - ‘indexPage’ saved [37730]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 07:27:05--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:05--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ......                 111K=0.3s
+
+2024-06-06 07:27:07 (111 KB/s) - ‘indexPage’ saved [37689]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 07:27:07--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:08--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                110K=0.3s
+
+2024-06-06 07:27:09 (110 KB/s) - ‘indexPage’ saved [37994]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 07:27:09--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:09--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                111K=0.3s
+
+2024-06-06 07:27:10 (111 KB/s) - ‘indexPage’ saved [38819]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 07:27:11--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:11--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                110K=0.3s
+
+2024-06-06 07:27:12 (110 KB/s) - ‘indexPage’ saved [38752]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 07:27:13--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:13--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                110K=0.3s
+
+2024-06-06 07:27:15 (110 KB/s) - ‘indexPage’ saved [38678]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 07:27:15--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:15--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                111K=0.3s
+
+2024-06-06 07:27:16 (111 KB/s) - ‘indexPage’ saved [38250]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 07:27:17--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:17--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                111K=0.3s
+
+2024-06-06 07:27:18 (111 KB/s) - ‘indexPage’ saved [38633]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 07:27:19--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:19--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               109K=0.3s
+
+2024-06-06 07:27:20 (109 KB/s) - ‘indexPage’ saved [38926]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 07:27:20--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb86, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:21--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               110K=0.3s
+
+2024-06-06 07:27:22 (110 KB/s) - ‘indexPage’ saved [38931]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 07:27:22--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:23--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                109K=0.3s
+
+2024-06-06 07:27:23 (109 KB/s) - ‘indexPage’ saved [38666]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 07:27:24--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.134, 104.21.235.133, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:24--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......                110K=0.3s
+
+2024-06-06 07:27:25 (110 KB/s) - ‘indexPage’ saved [38526]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 07:27:26--  http://2beeg.me/
+Resolving 2beeg.me (2beeg.me)... 104.21.235.133, 104.21.235.134, 2606:4700:3038::6815:eb85, ...
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2beeg.me/ [following]
+--2024-06-06 07:27:26--  https://2beeg.me/
+Connecting to 2beeg.me (2beeg.me)|104.21.235.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ........               100M=0s
+
+2024-06-06 07:27:27 (100 MB/s) - ‘indexPage’ saved [39194]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 202
+202

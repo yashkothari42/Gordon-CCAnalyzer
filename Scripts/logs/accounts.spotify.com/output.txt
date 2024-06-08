@@ -1,0 +1,1746 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 16:43:22--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 16:43:23--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 16:43:24--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 16:43:25--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 16:43:26--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 16:43:27--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 16:43:28--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 16:43:29--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 16:43:30--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 16:43:31--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 16:43:31--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 16:43:32--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 16:43:33--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 16:43:34--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 16:43:35--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 16:43:36--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 16:43:37--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 16:43:38--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 16:43:39--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 16:43:39--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 16:43:40--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 16:43:41--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 16:43:42--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 16:43:42--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 16:43:43--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 16:43:44--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 16:43:45--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 16:43:45--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 16:43:46--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 16:43:47--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 16:43:48--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 16:43:49--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 16:43:49--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 16:43:50--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 16:43:51--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 16:43:52--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 16:43:52--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 16:43:53--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 16:43:54--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 16:43:55--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 16:43:55--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 16:43:56--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 16:43:57--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 16:43:58--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 16:43:59--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 2
+3
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 16:43:59--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 16:44:00--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 16:44:01--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 16:44:02--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 16:44:02--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 16:44:03--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 16:44:04--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 16:44:05--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 16:44:06--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 16:44:06--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 16:44:07--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 16:44:08--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 16:44:09--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 16:44:09--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 16:44:10--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:11--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 3
+4
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 16:44:11--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 16:44:12--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 16:44:13--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 16:44:13--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 16:44:14--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 16:44:15--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 16:44:16--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 16:44:16--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 16:44:17--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:18--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 16:44:18--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 16:44:19--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 16:44:20--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 16:44:21--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 16:44:22--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 16:44:22--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 4
+5
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 16:44:23--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:23--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 16:44:24--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:25--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 16:44:25--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:25--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 16:44:26--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 16:44:27--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:27--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 16:44:28--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 16:44:29--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:29--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 16:44:29--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:30--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 16:44:30--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:31--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 16:44:31--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 16:44:32--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:32--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 16:44:33--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:33--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 16:44:33--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:34--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 16:44:34--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:35--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 16:44:35--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:35--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+[1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2]
+2 5
+7
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 16:44:36--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:37--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 16:44:37--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:37--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 16:44:38--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:39--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 16:44:39--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:40--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 16:44:41--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:41--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 16:44:42--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 16:44:43--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:43--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 16:44:44--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:44--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 16:44:45--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:45--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 16:44:46--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:46--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 16:44:47--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:48--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 16:44:48--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:49--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 16:44:49--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:50--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 16:44:50--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:51--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 16:44:51--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:52--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... Terminated
+[2, 1, 1, 1, 2, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2]
+2 7
+9
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 16:44:53--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:53--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 16:44:54--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:54--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 16:44:55--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:55--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 16:44:56--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:56--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 16:44:57--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:57--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 16:44:58--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:58--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 16:44:59--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:44:59--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 16:45:00--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:00--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 16:45:01--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:01--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 16:45:02--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:02--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 16:45:03--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:04--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 16:45:04--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:05--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 16:45:05--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:06--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 16:45:06--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:07--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 16:45:07--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:08--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 9
+10
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 16:45:08--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:09--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 16:45:09--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:10--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 16:45:11--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:11--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 16:45:12--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:12--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 16:45:13--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:13--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 16:45:14--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:14--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 16:45:15--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:15--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 16:45:16--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:16--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 16:45:17--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:17--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 16:45:18--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:18--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 16:45:19--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:19--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 16:45:20--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:20--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 16:45:21--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:21--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 16:45:22--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:23--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 16:45:23--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:24--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 10
+11
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 16:45:24--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:25--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 16:45:25--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:26--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 16:45:26--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:27--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 16:45:27--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:28--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 16:45:29--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:29--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 16:45:30--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:30--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 16:45:31--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:31--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 16:45:32--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:32--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 16:45:33--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:33--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 16:45:34--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:35--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 16:45:36--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:37--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 16:45:37--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:38--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 16:45:38--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:39--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 16:45:39--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:40--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 16:45:40--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:41--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 12, 11, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 11, 12]
+12 11
+23
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 16:45:41--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:42--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 16:45:43--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:43--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 16:45:44--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:45--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 16:45:46--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:46--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 16:45:47--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:48--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 16:45:49--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:49--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 16:45:50--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:51--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 16:45:52--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:52--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 16:45:53--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:54--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 16:45:55--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:55--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 16:45:56--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:56--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 16:45:58--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:58--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 16:45:59--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:45:59--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 16:46:00--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:01--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 16:46:02--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:02--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+[6, 6, 6, 6, 6, 4, 6, 5, 6, 6, 6, 6, 6, 6, 6]
+[4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+6 23
+29
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 16:46:03--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:04--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-06 16:46:05--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:05--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-06 16:46:06--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:06--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-06 16:46:08--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:08--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-06 16:46:09--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:09--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-06 16:46:11--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:11--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-06 16:46:12--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:12--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-06 16:46:13--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:14--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-06 16:46:15--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:15--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-06 16:46:16--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:16--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-06 16:46:18--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:18--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-06 16:46:19--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:19--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-06 16:46:21--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:21--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-06 16:46:22--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:22--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-06 16:46:23--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:24--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 27]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 27]
+27 29
+56
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-06 16:46:25--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:26--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-06 16:46:27--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:28--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6819 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-06 16:46:29--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:30--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-06 16:46:31--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:32--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-06 16:46:33--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:34--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6817 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-06 16:46:35--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:36--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6819 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-06 16:46:37--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:38--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-06 16:46:39--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:40--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-06 16:46:41--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:42--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6819 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-06 16:46:43--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:44--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-06 16:46:45--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:46--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-06 16:46:47--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:47--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-06 16:46:49--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:49--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6819 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-06 16:46:51--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:51--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6819 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-06 16:46:53--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:53--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+[22, 24, 24, 24, 24, 19, 25, 20, 24, 24, 24, 24, 24, 24, 24]
+[19, 20, 22, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 25]
+25 56
+81
+--------------------------------- RTT-14, TRIAL-1 ----------------------
+--2024-06-06 16:46:55--  http://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://accounts.spotify.com/ [following]
+--2024-06-06 16:46:55--  https://accounts.spotify.com/
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 51.8K=0.1s
+
+2024-06-06 16:46:56 (51.8 KB/s) - ‘indexPage’ saved [6818/6818]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:46:57--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6819 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 52.3K=0.1s
+
+2024-06-06 16:46:58 (52.3 KB/s) - ‘indexPage’ saved [6819/6819]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:46:58--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 52.2K=0.1s
+
+2024-06-06 16:46:59 (52.2 KB/s) - ‘indexPage’ saved [6818/6818]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:47:00--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 52.1K=0.1s
+
+2024-06-06 16:47:01 (52.1 KB/s) - ‘indexPage’ saved [6818/6818]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:47:01--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6817 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 52.1K=0.1s
+
+2024-06-06 16:47:02 (52.1 KB/s) - ‘indexPage’ saved [6817/6817]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:47:03--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 49.1K=0.1s
+
+2024-06-06 16:47:04 (49.1 KB/s) - ‘indexPage’ saved [6818/6818]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:47:04--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6817 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 51.7K=0.1s
+
+2024-06-06 16:47:05 (51.7 KB/s) - ‘indexPage’ saved [6817/6817]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:47:06--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6817 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 48.7K=0.1s
+
+2024-06-06 16:47:07 (48.7 KB/s) - ‘indexPage’ saved [6817/6817]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:47:07--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 52.4K=0.1s
+
+2024-06-06 16:47:08 (52.4 KB/s) - ‘indexPage’ saved [6818/6818]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:47:09--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 52.1K=0.1s
+
+2024-06-06 16:47:10 (52.1 KB/s) - ‘indexPage’ saved [6818/6818]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:47:10--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6819 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 51.9K=0.1s
+
+2024-06-06 16:47:11 (51.9 KB/s) - ‘indexPage’ saved [6819/6819]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:47:12--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6819 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 52.8K=0.1s
+
+2024-06-06 16:47:13 (52.8 KB/s) - ‘indexPage’ saved [6819/6819]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:47:13--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6817 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 49.5K=0.1s
+
+2024-06-06 16:47:14 (49.5 KB/s) - ‘indexPage’ saved [6817/6817]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:47:15--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 51.9K=0.1s
+
+2024-06-06 16:47:16 (51.9 KB/s) - ‘indexPage’ saved [6818/6818]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 16:47:16--  https://accounts.spotify.com/
+Resolving accounts.spotify.com (accounts.spotify.com)... 35.186.224.24, 2600:1901:1:7c5::
+Connecting to accounts.spotify.com (accounts.spotify.com)|35.186.224.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6818 (6.7K) [text/html]
+Saving to: ‘indexPage’
+
+     0K ......                                                100% 51.7K=0.1s
+
+2024-06-06 16:47:17 (51.7 KB/s) - ‘indexPage’ saved [6818/6818]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 81
+81

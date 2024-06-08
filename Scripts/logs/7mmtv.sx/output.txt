@@ -1,0 +1,1951 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 12:05:14--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 12:05:16--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 12:05:17--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 12:05:19--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 12:05:21--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 12:05:22--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 12:05:24--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 12:05:26--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 12:05:27--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 12:05:29--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 12:05:30--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 12:05:32--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 12:05:34--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 12:05:35--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 12:05:37--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 12:05:39--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 12:05:40--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 12:05:40--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 12:05:41--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 12:05:42--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 12:05:43--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 12:05:43--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 12:05:44--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 12:05:45--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 12:05:46--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 12:05:46--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 12:05:47--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 12:05:48--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 12:05:49--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 12:05:50--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 12:05:50--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 12:05:51--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 12:05:52--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 12:05:53--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 12:05:54--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 12:05:55--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 12:05:56--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 12:05:57--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 12:05:58--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 12:05:59--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 12:06:00--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 12:06:01--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 12:06:01--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 12:06:02--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 12:06:03--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 1, 4, 4, 1, 4, 4, 1, 4, 1, 4, 1, 4, 4, 1]
+[1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 12:06:04--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:05--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 12:06:06--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:06--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 12:06:07--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:08--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 12:06:08--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:09--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 12:06:09--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:10--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 12:06:11--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:12--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 12:06:13--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:14--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 12:06:15--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:15--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 12:06:17--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:17--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 12:06:19--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:20--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 12:06:20--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:21--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 12:06:21--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:22--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 12:06:23--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:23--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 12:06:24--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:25--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 12:06:25--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:26--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+[1, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2]
+[1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 12:06:27--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:27--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 12:06:28--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:28--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 12:06:29--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:30--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 12:06:30--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:31--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 12:06:31--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:32--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 12:06:32--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:33--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 12:06:33--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:34--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 12:06:34--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:35--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 12:06:35--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:36--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 12:06:36--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:37--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 12:06:37--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:38--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 12:06:39--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:39--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 12:06:40--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:40--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 12:06:41--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:41--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 12:06:42--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:42--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19, 1, 1, 19, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19, 19]
+19 8
+27
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 12:06:43--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:43--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 12:06:45--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:45--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 12:06:46--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:47--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 12:06:48--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:48--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 12:06:49--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:50--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 12:06:51--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:51--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 12:06:52--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:53--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 12:06:54--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:54--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 12:06:55--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:56--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 12:06:57--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:57--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 12:06:59--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:06:59--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 12:07:00--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:01--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 12:07:02--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:02--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 12:07:03--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:04--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 12:07:05--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:05--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+[1, 1, 2, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2]
+2 27
+29
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 12:07:06--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:07--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 12:07:08--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:08--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 12:07:10--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:10--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 12:07:11--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:11--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 12:07:13--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:13--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 12:07:14--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:15--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 12:07:16--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:16--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 12:07:17--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:18--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 12:07:19--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:19--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 12:07:20--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:20--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 12:07:21--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:22--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 12:07:23--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:23--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 12:07:24--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:25--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 12:07:25--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:26--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 12:07:27--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:27--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+[0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 29
+30
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 12:07:28--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:28--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 12:07:30--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:30--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 12:07:31--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:31--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 12:07:33--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:33--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 12:07:35--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:35--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 12:07:36--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:37--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 12:07:38--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:38--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 12:07:39--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:40--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 12:07:41--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:41--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 12:07:43--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:43--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 12:07:44--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:45--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 12:07:46--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:46--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 12:07:47--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:48--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 12:07:49--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:49--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 12:07:50--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:51--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 146, 1, 2, 1, 1, 46, 1, 0, 1, 1, 1, 2]
+[0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 46, 146]
+146 30
+176
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 12:07:52--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:52--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 12:07:53--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:54--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 12:07:56--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:57--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 12:07:59--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:07:59--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 12:08:00--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:01--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 12:08:02--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:03--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 12:08:04--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:05--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 12:08:06--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:07--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 12:08:08--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:09--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 12:08:10--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:10--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 12:08:12--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:12--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 12:08:13--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:14--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 12:08:15--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:16--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 12:08:17--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:18--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 12:08:19--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:20--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 142, 175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 142, 175]
+175 176
+351
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 12:08:21--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:22--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 12:08:23--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:23--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 12:08:25--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:25--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 12:08:27--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:27--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 12:08:29--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:29--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 12:08:31--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:31--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 12:08:33--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:33--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 12:08:35--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:35--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 12:08:37--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:37--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 12:08:39--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:39--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... ..........Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 12:08:42--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:42--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 12:08:44--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:44--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 12:08:46--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:47--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 12:08:48--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:49--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 12:08:50--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:51--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 0, 21, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 31]
+31 351
+382
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 12:08:52--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:53--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 12:08:54--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:54--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 12:08:56--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:56--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 12:08:58--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:08:58--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... ..........                        110K=0.7s
+
+2024-06-06 12:09:00 (109 KB/s) - ‘indexPage’ saved [81958]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 12:09:01--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:01--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 12:09:02--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:02--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 12:09:04--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:04--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 12:09:06--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:06--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 12:09:08--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:08--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 12:09:09--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:09--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... ........Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 12:09:12--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:12--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 12:09:14--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:14--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  104K
+    50K .......... .......... .........                         110K=0.8s
+
+2024-06-06 12:09:16 (106 KB/s) - ‘indexPage’ saved [81610]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 12:09:16--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:16--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 12:09:18--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:18--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 12:09:20--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:20--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+2 382
+384
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 12:09:22--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:22--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-06 12:09:24--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:24--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-06 12:09:25--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:26--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-06 12:09:27--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:28--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-06 12:09:29--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:29--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-06 12:09:31--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:31--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-06 12:09:33--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:33--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-06 12:09:35--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:35--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-06 12:09:37--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:37--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-06 12:09:39--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:39--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-06 12:09:40--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:41--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... .........                         111K=0.7s
+
+2024-06-06 12:09:42 (109 KB/s) - ‘indexPage’ saved [81141]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-06 12:09:43--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:43--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-06 12:09:44--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:45--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... .........Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-06 12:09:48--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:48--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-06 12:09:49--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:50--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4]
+4 384
+388
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-06 12:09:51--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:51--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-06 12:09:53--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:53--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... ..........                        109K=0.7s
+
+2024-06-06 12:09:55 (108 KB/s) - ‘indexPage’ saved [82436]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-06 12:09:56--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:56--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-06 12:09:57--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:09:58--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... .........                         109K=0.7s
+
+2024-06-06 12:09:59 (109 KB/s) - ‘indexPage’ saved [81844]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-06 12:10:00--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:10:00--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-06 12:10:01--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:10:02--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-06 12:10:03--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:10:04--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-06 12:10:05--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:10:06--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-06 12:10:07--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:10:08--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  109K
+    50K .......... .......... ..........                        110K=0.7s
+
+2024-06-06 12:10:09 (109 KB/s) - ‘indexPage’ saved [82001]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-06 12:10:09--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:10:10--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-06 12:10:11--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:10:11--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-06 12:10:13--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 104.21.71.233, 172.67.172.20, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:10:13--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|104.21.71.233|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  106K
+    50K .......... .......... ..........                        115K=0.7s
+
+2024-06-06 12:10:15 (109 KB/s) - ‘indexPage’ saved [82143]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-06 12:10:15--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:10:16--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-06 12:10:17--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::ac43:ac14, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:10:17--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-06 12:10:18--  http://7mmtv.sx/
+Resolving 7mmtv.sx (7mmtv.sx)... 172.67.172.20, 104.21.71.233, 2606:4700:3033::6815:47e9, ...
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://7mmtv.sx/ [following]
+--2024-06-06 12:10:19--  https://7mmtv.sx/
+Connecting to 7mmtv.sx (7mmtv.sx)|172.67.172.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  113K
+    50K .......... .......... ..........                        113K=0.7s
+
+2024-06-06 12:10:21 (113 KB/s) - ‘indexPage’ saved [82535]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 388
+388

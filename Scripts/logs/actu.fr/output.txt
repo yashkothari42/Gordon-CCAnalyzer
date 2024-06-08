@@ -1,0 +1,1336 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-07 06:27:26--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-07 06:27:28--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-07 06:27:30--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-07 06:27:32--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-07 06:27:33--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-07 06:27:35--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-07 06:27:36--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-07 06:27:38--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-07 06:27:40--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-07 06:27:41--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-07 06:27:43--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-07 06:27:45--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-07 06:27:46--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-07 06:27:48--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-07 06:27:50--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-07 06:27:51--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-07 06:27:52--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-07 06:27:53--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-07 06:27:54--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-07 06:27:55--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-07 06:27:55--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-07 06:27:56--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-07 06:27:57--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-07 06:27:58--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-07 06:27:59--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-07 06:28:00--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-07 06:28:01--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-07 06:28:02--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-07 06:28:03--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-07 06:28:03--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-07 06:28:04--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:05--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-07 06:28:06--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:06--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-07 06:28:07--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:08--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-07 06:28:08--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:09--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-07 06:28:09--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:10--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-07 06:28:10--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:11--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-07 06:28:12--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:12--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-07 06:28:13--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:13--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-07 06:28:14--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:15--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-07 06:28:15--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-07 06:28:17--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:17--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-07 06:28:18--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:19--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-07 06:28:19--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:20--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-07 06:28:20--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:21--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-07 06:28:21--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:22--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... Terminated
+[1, 1, 2, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 6]
+6 2
+8
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-07 06:28:22--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:23--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-07 06:28:24--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:25--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-07 06:28:26--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:26--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-07 06:28:27--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:28--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-07 06:28:29--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:30--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-07 06:28:31--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:32--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-07 06:28:33--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:33--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-07 06:28:34--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:35--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-07 06:28:36--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:37--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-07 06:28:38--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:38--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-07 06:28:39--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:40--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-07 06:28:41--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:42--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-07 06:28:43--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:43--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-07 06:28:44--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:45--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-07 06:28:46--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:47--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+Terminated
+[23, 21, 22, 22, 23, 23, 22, 23, 23, 22, 23, 23, 22, 22, 22]
+[21, 22, 22, 22, 22, 22, 22, 22, 23, 23, 23, 23, 23, 23, 23]
+23 8
+31
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-07 06:28:48--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:49--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-07 06:28:49--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:50--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-07 06:28:51--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:51--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-07 06:28:53--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:53--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-07 06:28:54--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:55--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-07 06:28:56--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:56--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-07 06:28:58--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:28:58--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-07 06:28:59--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:00--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-07 06:29:01--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:02--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-07 06:29:03--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:03--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-07 06:29:04--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:05--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-07 06:29:06--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:07--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-07 06:29:08--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:09--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-07 06:29:10--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:11--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-07 06:29:13--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:13--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 229, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 229]
+229 31
+260
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-07 06:29:15--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:15--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-07 06:29:18--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:18--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-07 06:29:20--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:21--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-07 06:29:22--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:23--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-07 06:29:25--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:26--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ......Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-07 06:29:28--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:29--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-07 06:29:30--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:31--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-07 06:29:33--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:33--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ......Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-07 06:29:35--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:36--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-07 06:29:38--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:38--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-07 06:29:42--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:42--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-07 06:29:44--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:45--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ......Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-07 06:29:47--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:47--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-07 06:29:49--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:50--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-07 06:29:52--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:52--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+[165, 0, 0, 0, 0, 0, 0, 0, 0, 165, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 165, 165]
+165 260
+425
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-07 06:29:54--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:55--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-07 06:29:57--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:29:58--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-07 06:29:59--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:00--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-07 06:30:02--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:02--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 97.4K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-07 06:30:06--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:06--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-07 06:30:09--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:09--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ..Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-07 06:30:11--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:12--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-07 06:30:14--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:14--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-07 06:30:16--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:17--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-07 06:30:18--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:19--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ......Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-07 06:30:22--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:22--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-07 06:30:24--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:24--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-07 06:30:27--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:27--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-07 06:30:29--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:30--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 99.6K
+    50K .......... .......... .......... .........Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-07 06:30:33--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:34--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ......Terminated
+[0, 0, 0, 165, 0, 0, 0, 0, 0, 0, 0, 0, 0, 167, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 165, 167]
+167 425
+592
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-07 06:30:36--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:37--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-07 06:30:39--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:40--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 99.5K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-07 06:30:44--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:44--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-07 06:30:46--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:47--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-07 06:30:48--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:49--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ......Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-07 06:30:51--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:52--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-07 06:30:53--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:54--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-07 06:30:56--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.52.222, 104.22.53.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:30:56--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 99.8K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-07 06:31:00--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:31:00--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-07 06:31:02--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:31:03--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 99.7K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-07 06:31:06--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:31:07--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-07 06:31:08--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:31:09--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-07 06:31:11--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:31:11--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-07 06:31:13--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:31:14--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-07 06:31:15--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:31:16--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+[0, 27, 0, 0, 0, 0, 0, 25, 0, 27, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 27, 27]
+27 592
+619
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-07 06:31:18--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:31:19--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ...Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-07 06:31:20--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:31:21--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-07 06:31:23--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 104.22.52.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.53.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:31:24--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ......Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-07 06:31:26--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:31:26--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... ......Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-07 06:31:28--  http://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://actu.fr/ [following]
+--2024-06-07 06:31:29--  https://actu.fr/
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 98.1K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .......... .......... .......... .....                  125K=1.3s
+
+2024-06-07 06:31:32 (108 KB/s) - ‘indexPage’ saved [138846]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:31:32--  https://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .........Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:31:34--  https://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:31:36--  https://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:31:38--  https://actu.fr/
+Resolving actu.fr (actu.fr)... 172.67.41.80, 104.22.53.222, 104.22.52.222
+Connecting to actu.fr (actu.fr)|172.67.41.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:31:40--  https://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:31:41--  https://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 104.22.53.222, 172.67.41.80
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:31:43--  https://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:31:45--  https://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .....Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:31:47--  https://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.52.222, 172.67.41.80, 104.22.53.222
+Connecting to actu.fr (actu.fr)|104.22.52.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  173K
+    50K .......... .......... .......... .......... ..........  119K
+   100K .......... .......... .......... .....                  110K=1.0s
+
+2024-06-07 06:31:49 (131 KB/s) - ‘indexPage’ saved [138846]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:31:50--  https://actu.fr/
+Resolving actu.fr (actu.fr)... 104.22.53.222, 172.67.41.80, 104.22.52.222
+Connecting to actu.fr (actu.fr)|104.22.53.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .....Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 619
+619

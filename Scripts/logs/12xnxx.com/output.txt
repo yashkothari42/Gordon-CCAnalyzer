@@ -1,0 +1,54 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+error during nfq_create_queue()
+wget: no process found
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+error during nfq_create_queue()
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 0
+0

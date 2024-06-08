@@ -1,0 +1,2021 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 07:07:39--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 07:07:43--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 07:07:44--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 07:07:45--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 07:07:46--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 07:07:47--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 07:07:47--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 07:07:48--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 07:07:49--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 07:07:50--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 07:07:51--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 07:07:52--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 07:07:53--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 07:07:54--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 07:07:55--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 07:07:56--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 07:07:57--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 07:07:58--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 07:07:58--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 07:07:59--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 07:08:00--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 07:08:01--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 07:08:01--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 07:08:02--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 07:08:03--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 07:08:04--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 07:08:05--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 07:08:05--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 07:08:06--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 07:08:07--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 07:08:08--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 07:08:08--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 07:08:09--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 07:08:10--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 07:08:11--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 07:08:12--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 07:08:12--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 07:08:13--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 07:08:14--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 07:08:15--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 07:08:15--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 07:08:16--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 07:08:17--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 07:08:18--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 07:08:18--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 2
+3
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 07:08:19--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 07:08:20--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 07:08:21--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 07:08:22--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 07:08:22--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 07:08:23--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 07:08:24--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 07:08:25--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 07:08:25--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 07:08:26--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 07:08:27--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 07:08:28--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 07:08:29--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 07:08:29--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 07:08:30--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 3
+4
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 07:08:31--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 07:08:32--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 07:08:32--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 07:08:33--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 07:08:34--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:35--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 07:08:35--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 07:08:36--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 07:08:37--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 07:08:37--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 07:08:38--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 07:08:39--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 07:08:40--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 07:08:41--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 07:08:41--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:42--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 07:08:42--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 4
+5
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 07:08:43--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:43--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 07:08:44--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:44--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 07:08:44--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:45--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 07:08:45--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:46--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 07:08:46--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:46--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 07:08:47--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:47--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 07:08:48--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:48--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 07:08:48--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:49--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 07:08:49--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:49--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 07:08:50--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:50--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 07:08:51--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:51--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 07:08:51--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:52--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 07:08:52--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:53--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 07:08:53--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:53--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 07:08:54--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:54--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 5
+6
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 07:08:55--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:55--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 07:08:56--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 07:08:56--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 07:08:57--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:58--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 07:08:58--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:08:59--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 07:08:59--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:00--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 07:09:00--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:01--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 07:09:01--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:02--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 07:09:03--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:03--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 07:09:04--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:04--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 07:09:05--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:06--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 07:09:06--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:07--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 07:09:07--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:08--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 07:09:08--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:09--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 07:09:09--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:10--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... Terminated
+[3, 1, 1, 1, 1, 1, 1, 1, 2, 1, 2, 2, 2, 2, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3]
+3 6
+9
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 07:09:11--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:11--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 07:09:12--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:12--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 07:09:13--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:13--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 07:09:14--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:14--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 07:09:15--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:15--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 07:09:16--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:16--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 07:09:17--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:17--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 07:09:18--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:18--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 07:09:19--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:19--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 07:09:20--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:20--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 07:09:21--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:21--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 07:09:22--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:22--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 07:09:23--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:23--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 07:09:24--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:24--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 07:09:25--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:25--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 9
+10
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 07:09:26--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:26--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 07:09:27--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:27--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 07:09:28--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:28--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 07:09:29--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:29--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 07:09:30--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:30--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 07:09:31--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:31--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 07:09:32--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:32--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 07:09:33--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:33--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 07:09:34--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:34--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 07:09:35--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:35--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 07:09:36--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:36--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 07:09:37--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:37--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 07:09:38--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:38--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 07:09:39--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:39--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 07:09:40--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:41--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 10
+11
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 07:09:41--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:42--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 07:09:42--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:43--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 07:09:43--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:44--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 07:09:44--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:45--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 07:09:45--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:46--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 07:09:46--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:47--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 07:09:47--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:48--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 07:09:48--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:49--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 07:09:50--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:50--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 07:09:51--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:51--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 07:09:52--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:52--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 07:09:53--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:53--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 07:09:54--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:54--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 07:09:55--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:55--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 07:09:56--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:56--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 11, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 11]
+11 11
+22
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 07:09:57--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:58--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 07:09:59--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:09:59--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 07:10:00--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:00--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 07:10:01--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:02--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 07:10:03--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:03--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 07:10:04--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:05--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 07:10:06--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:06--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 07:10:07--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:08--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 07:10:09--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:09--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 07:10:10--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:11--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 07:10:12--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:12--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 07:10:13--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:13--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 07:10:15--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:15--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 07:10:16--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:16--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 07:10:17--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:18--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+[11, 11, 11, 9, 10, 7, 11, 11, 11, 11, 11, 11, 10, 11, 9]
+[7, 9, 9, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11]
+11 22
+33
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 07:10:19--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:19--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-06 07:10:20--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:21--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-06 07:10:22--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:22--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-06 07:10:23--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:24--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-06 07:10:25--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:25--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-06 07:10:26--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:27--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-06 07:10:28--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:28--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-06 07:10:30--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:31--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-06 07:10:31--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:32--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-06 07:10:33--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:33--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-06 07:10:34--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:34--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-06 07:10:36--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:36--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-06 07:10:37--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:38--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-06 07:10:38--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:39--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-06 07:10:40--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:41--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+Terminated
+[1, 1, 10, 2, 1, 2, 9, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 9, 10]
+10 33
+43
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-06 07:10:42--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:42--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-06 07:10:44--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:44--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-06 07:10:46--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:46--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-06 07:10:48--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:48--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-06 07:10:50--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:51--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-06 07:10:53--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:53--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-06 07:10:55--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:55--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-06 07:10:57--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:10:58--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-06 07:10:59--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:00--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-06 07:11:02--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:02--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-06 07:11:04--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:05--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-06 07:11:07--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:07--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-06 07:11:09--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:09--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-06 07:11:11--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:11--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-06 07:11:13--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:14--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+[4, 6, 5, 7, 5, 5, 6, 5, 4, 3, 5, 8, 5, 6, 4]
+[3, 4, 4, 4, 5, 5, 5, 5, 5, 5, 6, 6, 6, 7, 8]
+8 43
+51
+--------------------------------- RTT-14, TRIAL-1 ----------------------
+--2024-06-06 07:11:16--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:16--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  109K=0.02s
+
+2024-06-06 07:11:17 (109 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-2 ----------------------
+--2024-06-06 07:11:18--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:18--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  118K=0.02s
+
+2024-06-06 07:11:19 (118 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-3 ----------------------
+--2024-06-06 07:11:20--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:20--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  111K=0.02s
+
+2024-06-06 07:11:22 (111 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-4 ----------------------
+--2024-06-06 07:11:22--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:22--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  126K=0.01s
+
+2024-06-06 07:11:24 (126 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-5 ----------------------
+--2024-06-06 07:11:24--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:25--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  126K=0.01s
+
+2024-06-06 07:11:26 (126 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-6 ----------------------
+--2024-06-06 07:11:26--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:27--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  118K=0.02s
+
+2024-06-06 07:11:28 (118 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-7 ----------------------
+--2024-06-06 07:11:28--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:29--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  118K=0.02s
+
+2024-06-06 07:11:30 (118 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-8 ----------------------
+--2024-06-06 07:11:31--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:31--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  111K=0.02s
+
+2024-06-06 07:11:32 (111 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-9 ----------------------
+--2024-06-06 07:11:33--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:33--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  110K=0.02s
+
+2024-06-06 07:11:34 (110 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-10 ----------------------
+--2024-06-06 07:11:35--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:35--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  117K=0.02s
+
+2024-06-06 07:11:36 (117 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-11 ----------------------
+--2024-06-06 07:11:37--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:37--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  118K=0.02s
+
+2024-06-06 07:11:39 (118 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-12 ----------------------
+--2024-06-06 07:11:39--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:39--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  111K=0.02s
+
+2024-06-06 07:11:41 (111 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-13 ----------------------
+--2024-06-06 07:11:41--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:42--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  126K=0.01s
+
+2024-06-06 07:11:42 (126 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-14, TRIAL-14 ----------------------
+--2024-06-06 07:11:43--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:43--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-14, TRIAL-15 ----------------------
+--2024-06-06 07:11:45--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:46--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  119K=0.02s
+
+2024-06-06 07:11:47 (119 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]
+3 51
+54
+--------------------------------- RTT-15, TRIAL-1 ----------------------
+--2024-06-06 07:11:47--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:48--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  111K=0.02s
+
+2024-06-06 07:11:49 (111 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-2 ----------------------
+--2024-06-06 07:11:50--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:50--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  118K=0.02s
+
+2024-06-06 07:11:51 (118 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-3 ----------------------
+--2024-06-06 07:11:52--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:52--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  125K=0.01s
+
+2024-06-06 07:11:53 (125 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-4 ----------------------
+--2024-06-06 07:11:54--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:54--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  118K=0.02s
+
+2024-06-06 07:11:55 (118 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-5 ----------------------
+--2024-06-06 07:11:56--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:56--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  117K=0.02s
+
+2024-06-06 07:11:58 (117 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-6 ----------------------
+--2024-06-06 07:11:58--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:11:58--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  117K=0.02s
+
+2024-06-06 07:12:00 (117 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-7 ----------------------
+--2024-06-06 07:12:00--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:12:01--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  118K=0.02s
+
+2024-06-06 07:12:02 (118 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-8 ----------------------
+--2024-06-06 07:12:02--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:12:03--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  118K=0.02s
+
+2024-06-06 07:12:04 (118 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-9 ----------------------
+--2024-06-06 07:12:04--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:12:05--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  119K=0.02s
+
+2024-06-06 07:12:06 (119 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-10 ----------------------
+--2024-06-06 07:12:07--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:12:07--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  111K=0.02s
+
+2024-06-06 07:12:08 (111 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-11 ----------------------
+--2024-06-06 07:12:09--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:12:09--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  118K=0.02s
+
+2024-06-06 07:12:10 (118 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-12 ----------------------
+--2024-06-06 07:12:11--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:12:11--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  111K=0.02s
+
+2024-06-06 07:12:12 (111 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-13 ----------------------
+--2024-06-06 07:12:13--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:12:13--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  119K=0.02s
+
+2024-06-06 07:12:14 (119 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-14 ----------------------
+--2024-06-06 07:12:15--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:12:15--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  119K=0.02s
+
+2024-06-06 07:12:16 (119 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+--------------------------------- RTT-15, TRIAL-15 ----------------------
+--2024-06-06 07:12:16--  http://24h.pchome.com.tw/
+Resolving 24h.pchome.com.tw (24h.pchome.com.tw)... 34.149.253.14
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://24h.pchome.com.tw:443/ [following]
+--2024-06-06 07:12:17--  https://24h.pchome.com.tw/
+Connecting to 24h.pchome.com.tw (24h.pchome.com.tw)|34.149.253.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1847 (1.8K) [text/html]
+Saving to: ‘indexPage’
+
+     0K .                                                     100%  110K=0.02s
+
+2024-06-06 07:12:18 (110 KB/s) - ‘indexPage’ saved [1847/1847]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 54
+54

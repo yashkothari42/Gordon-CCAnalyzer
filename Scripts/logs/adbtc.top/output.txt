@@ -1,0 +1,512 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-07 06:31:52--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-07 06:31:55--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-07 06:31:57--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-07 06:31:59--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-07 06:32:00--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-07 06:32:02--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-07 06:32:04--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-07 06:32:05--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-07 06:32:07--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-07 06:32:09--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-07 06:32:10--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-07 06:32:12--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-07 06:32:13--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-07 06:32:15--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-07 06:32:17--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-07 06:32:18--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-07 06:32:19--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-07 06:32:20--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-07 06:32:21--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-07 06:32:22--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-07 06:32:22--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-07 06:32:23--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-07 06:32:24--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-07 06:32:25--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-07 06:32:25--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-07 06:32:26--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-07 06:32:27--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-07 06:32:28--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-07 06:32:28--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-07 06:32:29--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-07 06:32:30--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-07 06:32:31--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-07 06:32:32--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-07 06:32:33--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-07 06:32:33--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-07 06:32:34--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-07 06:32:35--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-07 06:32:36--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-07 06:32:37--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-07 06:32:38--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-07 06:32:39--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-07 06:32:39--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-07 06:32:40--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-07 06:32:41--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-07 06:32:42--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 26, 1, 1, 1, 1, 4, 4, 1, 1, 1, 1, 4, 4]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 26]
+26 2
+28
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-07 06:32:43--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adbtc.top/ [following]
+--2024-06-07 06:32:43--  https://adbtc.top/
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-07 06:32:45--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adbtc.top/ [following]
+--2024-06-07 06:32:45--  https://adbtc.top/
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-07 06:32:46--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adbtc.top/ [following]
+--2024-06-07 06:32:47--  https://adbtc.top/
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-07 06:32:48--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2024-06-07 06:32:48 ERROR 429: Too Many Requests.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-07 06:32:49--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2024-06-07 06:32:49 ERROR 429: Too Many Requests.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-07 06:32:50--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2024-06-07 06:32:50 ERROR 429: Too Many Requests.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-07 06:32:51--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2024-06-07 06:32:51 ERROR 429: Too Many Requests.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-07 06:32:51--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2024-06-07 06:32:52 ERROR 429: Too Many Requests.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-07 06:32:52--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2024-06-07 06:32:52 ERROR 429: Too Many Requests.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-07 06:32:53--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2024-06-07 06:32:53 ERROR 429: Too Many Requests.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-07 06:32:54--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2024-06-07 06:32:54 ERROR 429: Too Many Requests.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-07 06:32:54--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2024-06-07 06:32:55 ERROR 429: Too Many Requests.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-07 06:32:55--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2024-06-07 06:32:56 ERROR 429: Too Many Requests.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-07 06:32:56--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:80... connected.
+HTTP request sent, awaiting response... 429 Too Many Requests
+2024-06-07 06:32:56 ERROR 429: Too Many Requests.
+
+wget: no process found
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-07 06:32:57--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adbtc.top/ [following]
+--2024-06-07 06:32:57--  https://adbtc.top/
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[68, 69, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 70]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 68, 69, 70]
+70 28
+98
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-07 06:32:59--  http://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://adbtc.top/ [following]
+--2024-06-07 06:32:59--  https://adbtc.top/
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:32:59 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:00--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:00 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:01--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:02 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:02--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:03 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:03--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:04 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:04--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:05 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:05--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:06 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:06--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:07 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:07--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:08 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:08--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:09 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:09--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:10 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:11--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:11 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:12--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 172.67.221.141, 104.21.25.12, 2606:4700:3035::6815:190c, ...
+Connecting to adbtc.top (adbtc.top)|172.67.221.141|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:12 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:13--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:13 ERROR 403: Forbidden.
+
+wget: no process found
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-07 06:33:14--  https://adbtc.top/
+Resolving adbtc.top (adbtc.top)... 104.21.25.12, 172.67.221.141, 2606:4700:3031::ac43:dd8d, ...
+Connecting to adbtc.top (adbtc.top)|104.21.25.12|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2024-06-07 06:33:14 ERROR 403: Forbidden.
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 98
+98

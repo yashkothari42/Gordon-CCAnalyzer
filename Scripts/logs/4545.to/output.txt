@@ -1,0 +1,1759 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 07:53:38--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 07:53:40--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 07:53:42--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 07:53:43--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 07:53:45--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 07:53:47--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 07:53:48--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 07:53:50--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 07:53:52--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 07:53:53--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 07:53:55--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 07:53:57--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 07:53:58--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 07:54:00--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 07:54:02--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 07:54:03--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 07:54:04--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 07:54:05--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 07:54:06--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 07:54:06--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 07:54:07--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 07:54:08--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 07:54:09--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 07:54:10--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 07:54:10--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 07:54:11--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 07:54:12--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 07:54:13--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 07:54:13--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 07:54:14--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 07:54:15--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 07:54:16--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 07:54:17--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 07:54:18--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 07:54:18--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 07:54:19--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 07:54:20--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 07:54:21--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 07:54:22--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 07:54:22--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 07:54:23--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 07:54:24--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 07:54:25--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 07:54:26--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 07:54:27--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 4, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 07:54:27--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:28--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 07:54:29--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:30--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 07:54:30--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:30--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 07:54:32--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:32--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 07:54:34--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:34--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 07:54:36--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:37--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 07:54:37--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:38--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 07:54:38--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:39--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 07:54:40--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:40--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 07:54:41--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:42--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 07:54:42--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:42--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 07:54:44--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:45--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 07:54:45--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:46--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 07:54:47--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:48--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 07:54:48--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:49--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... Terminated
+[1, 2, 2, 1, 1, 1, 2, 2, 2, 2, 2, 1, 2, 1, 2]
+[1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 07:54:50--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:50--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 07:54:51--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:51--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 07:54:52--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:52--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 07:54:53--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:53--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 07:54:54--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:54--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 07:54:55--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:55--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 07:54:56--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:56--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 07:54:57--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:57--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 07:54:58--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:54:58--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 07:54:59--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:00--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 07:55:00--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:01--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 07:55:01--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:02--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 07:55:02--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:03--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 07:55:03--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:04--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 07:55:05--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:06--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 8
+9
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 07:55:06--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:07--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 07:55:08--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:08--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 07:55:09--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:09--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 07:55:10--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:11--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 07:55:11--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:12--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 07:55:13--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:13--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 07:55:14--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:14--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 07:55:15--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:15--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 07:55:16--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:16--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 07:55:17--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:18--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 07:55:18--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:19--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 07:55:20--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:20--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 07:55:21--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:21--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 07:55:22--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:22--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 07:55:23--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:24--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+Terminated
+[18, 18, 18, 1, 18, 1, 18, 18, 18, 1, 1, 1, 18, 18, 18]
+[1, 1, 1, 1, 1, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
+18 9
+27
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 07:55:24--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:25--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 07:55:26--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:26--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 07:55:27--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:28--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 07:55:29--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:29--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 07:55:30--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:31--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 07:55:32--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:32--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 07:55:34--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:34--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 07:55:35--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:36--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 07:55:37--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:37--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 07:55:38--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:38--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 07:55:39--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:40--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 07:55:41--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:41--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 07:55:42--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:43--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 07:55:44--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:44--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 07:55:46--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:46--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2]
+2 27
+29
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 07:55:47--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:47--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 07:55:48--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:49--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 07:55:50--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:50--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 07:55:51--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:52--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 07:55:53--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:53--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 07:55:54--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:54--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 07:55:55--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:56--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 07:55:57--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:57--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 07:55:58--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:55:58--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 07:55:59--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:00--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 07:56:01--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:01--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 07:56:02--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:02--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 07:56:03--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:04--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 07:56:05--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:05--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 07:56:06--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:06--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 1, 1, 1, 2, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1]
+[0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2]
+2 29
+31
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 07:56:08--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:08--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 07:56:09--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:09--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 07:56:11--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:12--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 07:56:13--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:13--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 07:56:14--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:14--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 07:56:15--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:16--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 07:56:17--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:17--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 07:56:18--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:19--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 07:56:20--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:20--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 07:56:21--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:21--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 07:56:22--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:23--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 07:56:24--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:24--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 07:56:25--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:25--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 07:56:26--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:27--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 07:56:28--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:28--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 124, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 92]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 92, 124]
+124 31
+155
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 07:56:30--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:30--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 07:56:32--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:33--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 07:56:34--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:34--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 07:56:35--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:35--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 07:56:36--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:37--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 07:56:38--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:38--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 07:56:40--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:40--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 07:56:41--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:41--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 07:56:43--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:43--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 07:56:45--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:45--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 07:56:46--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:47--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 07:56:48--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:48--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 07:56:49--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:49--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 07:56:51--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:51--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 07:56:53--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:53--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[148, 0, 0, 0, 0, 0, 0, 125, 187, 0, 0, 0, 0, 159, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 125, 148, 159, 187]
+187 155
+342
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 07:56:54--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:54--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+--2024-06-06 07:56:55--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:56--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  484K
+    50K .......... .......... .Terminated
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+--2024-06-06 07:56:58--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:56:58--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+--2024-06-06 07:56:59--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:00--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+--2024-06-06 07:57:01--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:01--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+--2024-06-06 07:57:02--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:02--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+--2024-06-06 07:57:03--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:04--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+--2024-06-06 07:57:05--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:05--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  410K
+    50K .......... ..........Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+--2024-06-06 07:57:07--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:07--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  307K
+    50K .......... .......... .Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+--2024-06-06 07:57:10--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:10--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+--2024-06-06 07:57:11--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:12--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+--2024-06-06 07:57:13--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:13--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+--2024-06-06 07:57:14--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:14--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+--2024-06-06 07:57:15--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:16--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+--2024-06-06 07:57:17--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:17--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 162, 0, 0, 0, 0, 0, 163, 162, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 162, 162, 163]
+163 342
+505
+--------------------------------- RTT-12, TRIAL-1 ----------------------
+--2024-06-06 07:57:18--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:19--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-2 ----------------------
+--2024-06-06 07:57:20--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:20--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  124K
+    50K .......... .......... .......... .......... ..........  109K
+   100K .........                                               130K=0.9s
+
+2024-06-06 07:57:22 (117 KB/s) - ‘indexPage’ saved [112406]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-3 ----------------------
+--2024-06-06 07:57:22--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:23--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-4 ----------------------
+--2024-06-06 07:57:24--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:24--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-5 ----------------------
+--2024-06-06 07:57:25--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:25--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-6 ----------------------
+--2024-06-06 07:57:26--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:27--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  330K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .........                                               131K=0.7s
+
+2024-06-06 07:57:28 (158 KB/s) - ‘indexPage’ saved [112406]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-7 ----------------------
+--2024-06-06 07:57:29--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:29--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-8 ----------------------
+--2024-06-06 07:57:30--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:31--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-9 ----------------------
+--2024-06-06 07:57:32--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:32--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-10 ----------------------
+--2024-06-06 07:57:33--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:33--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-11 ----------------------
+--2024-06-06 07:57:34--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:35--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-12 ----------------------
+--2024-06-06 07:57:36--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:36--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  774K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .........                                               126K=0.6s
+
+2024-06-06 07:57:38 (179 KB/s) - ‘indexPage’ saved [112406]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-13 ----------------------
+--2024-06-06 07:57:38--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 172.67.74.91, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:39--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-12, TRIAL-14 ----------------------
+--2024-06-06 07:57:40--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:40--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  108K
+    50K .......... .......... .......... .......... ..........  106K
+   100K .........                                              10.7K=1.8s
+
+2024-06-06 07:57:42 (59.3 KB/s) - ‘indexPage’ saved [112406]
+
+wget: no process found
+--------------------------------- RTT-12, TRIAL-15 ----------------------
+--2024-06-06 07:57:43--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:43--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+2 505
+507
+--------------------------------- RTT-13, TRIAL-1 ----------------------
+--2024-06-06 07:57:44--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:45--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...Terminated
+--------------------------------- RTT-13, TRIAL-2 ----------------------
+--2024-06-06 07:57:46--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:46--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-13, TRIAL-3 ----------------------
+--2024-06-06 07:57:47--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:47--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K ...Terminated
+--------------------------------- RTT-13, TRIAL-4 ----------------------
+--2024-06-06 07:57:49--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:49--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  109K
+    50K .......... .......... .......... .......... ..........  110K
+   100K .........                                               112K=1.0s
+
+2024-06-06 07:57:51 (110 KB/s) - ‘indexPage’ saved [112406]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-5 ----------------------
+--2024-06-06 07:57:51--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:52--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-6 ----------------------
+--2024-06-06 07:57:53--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:53--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-7 ----------------------
+--2024-06-06 07:57:54--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:54--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-8 ----------------------
+--2024-06-06 07:57:55--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:56--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  803K
+    50K .......... .......... .......... .......... ..........  107K
+   100K .........                                               126K=0.6s
+
+2024-06-06 07:57:57 (181 KB/s) - ‘indexPage’ saved [112406]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-9 ----------------------
+--2024-06-06 07:57:58--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:57:58--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-10 ----------------------
+--2024-06-06 07:57:59--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 104.26.1.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:58:00--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-11 ----------------------
+--2024-06-06 07:58:01--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.0.205, 172.67.74.91, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|104.26.0.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:58:01--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.0.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-12 ----------------------
+--2024-06-06 07:58:02--  http://4545.to/
+Resolving 4545.to (4545.to)... 104.26.1.205, 104.26.0.205, 172.67.74.91, ...
+Connecting to 4545.to (4545.to)|104.26.1.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:58:02--  https://4545.to/
+Connecting to 4545.to (4545.to)|104.26.1.205|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-13 ----------------------
+--2024-06-06 07:58:03--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:58:04--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  644K
+    50K .......... .......... .......... .......... ..........  108K
+   100K .........                                               130K=0.6s
+
+2024-06-06 07:58:05 (179 KB/s) - ‘indexPage’ saved [112406]
+
+wget: no process found
+--------------------------------- RTT-13, TRIAL-14 ----------------------
+--2024-06-06 07:58:06--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.0.205, 104.26.1.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:58:06--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-13, TRIAL-15 ----------------------
+--2024-06-06 07:58:07--  http://4545.to/
+Resolving 4545.to (4545.to)... 172.67.74.91, 104.26.1.205, 104.26.0.205, ...
+Connecting to 4545.to (4545.to)|172.67.74.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://4545.to/ [following]
+--2024-06-06 07:58:08--  https://4545.to/
+Connecting to 4545.to (4545.to)|172.67.74.91|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 507
+507

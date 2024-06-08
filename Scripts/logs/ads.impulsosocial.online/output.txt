@@ -1,0 +1,1233 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-07 07:48:13--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-07 07:48:15--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-07 07:48:17--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-07 07:48:18--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-07 07:48:20--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-07 07:48:22--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-07 07:48:23--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-07 07:48:25--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-07 07:48:27--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-07 07:48:28--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-07 07:48:30--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-07 07:48:32--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-07 07:48:33--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-07 07:48:35--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-07 07:48:36--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-07 07:48:38--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-07 07:48:39--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-07 07:48:40--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-07 07:48:40--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-07 07:48:41--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-07 07:48:42--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-07 07:48:43--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-07 07:48:44--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-07 07:48:44--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-07 07:48:45--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-07 07:48:46--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-07 07:48:47--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-07 07:48:47--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-07 07:48:48--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-07 07:48:49--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-07 07:48:50--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-07 07:48:51--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-07 07:48:52--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-07 07:48:52--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-07 07:48:53--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-07 07:48:54--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-07 07:48:55--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-07 07:48:56--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-07 07:48:57--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-07 07:48:58--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-07 07:48:59--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-07 07:49:00--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-07 07:49:01--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-07 07:49:02--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-07 07:49:03--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 1, 1, 1, 4, 4, 1, 1, 4, 1, 4, 4, 4, 4, 4]
+[1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-07 07:49:04--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:05--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-07 07:49:05--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:05--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-07 07:49:07--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:08--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-07 07:49:08--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:09--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-07 07:49:09--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:10--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-07 07:49:11--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:12--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-07 07:49:13--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:14--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-07 07:49:15--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:15--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-07 07:49:16--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:17--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-07 07:49:17--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:18--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-07 07:49:18--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:19--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-07 07:49:20--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:20--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-07 07:49:22--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:22--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-07 07:49:23--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:24--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-07 07:49:25--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:25--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... Terminated
+[1, 2, 1, 2, 2, 1, 1, 2, 2, 2, 2, 2, 1, 1, 2]
+[1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-07 07:49:26--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:26--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-07 07:49:27--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:27--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-07 07:49:28--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:28--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-07 07:49:29--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:29--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-07 07:49:30--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:30--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-07 07:49:31--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:32--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-07 07:49:32--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:33--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-07 07:49:33--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:34--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-07 07:49:34--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:35--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-07 07:49:35--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:36--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-07 07:49:36--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:37--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-07 07:49:38--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:38--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-07 07:49:39--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:39--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-07 07:49:40--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:40--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-07 07:49:41--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:41--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+[1, 1, 1, 1, 19, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 19]
+19 8
+27
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-07 07:49:42--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:42--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-07 07:49:43--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:44--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-07 07:49:45--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:45--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-07 07:49:46--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:47--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-07 07:49:48--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:48--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-07 07:49:49--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:50--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-07 07:49:51--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:51--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-07 07:49:52--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:53--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-07 07:49:54--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:54--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-07 07:49:55--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:56--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-07 07:49:57--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:57--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-07 07:49:58--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:49:59--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-07 07:50:00--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:00--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-07 07:50:01--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:02--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-07 07:50:03--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:03--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+Terminated
+[1, 1, 2, 3, 2, 1, 2, 1, 1, 2, 1, 2, 2, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3]
+3 27
+30
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-07 07:50:04--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:04--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-07 07:50:06--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:06--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-07 07:50:07--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:07--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-07 07:50:09--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:09--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-07 07:50:10--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:10--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-07 07:50:12--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:12--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-07 07:50:13--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:13--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-07 07:50:15--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:15--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-07 07:50:16--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:17--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-07 07:50:18--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:18--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-07 07:50:19--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:20--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-07 07:50:21--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:21--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-07 07:50:22--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:23--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-07 07:50:24--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:24--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-07 07:50:25--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:26--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 2, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1]
+[0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2]
+2 30
+32
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-07 07:50:27--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:27--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-07 07:50:28--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:29--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-07 07:50:30--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:31--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-07 07:50:32--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:32--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-07 07:50:34--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:34--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-07 07:50:36--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:36--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-07 07:50:38--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:38--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-07 07:50:40--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:40--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-07 07:50:41--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:42--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-07 07:50:43--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:43--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-07 07:50:44--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:44--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-07 07:50:46--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:47--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-07 07:50:48--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:48--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-07 07:50:49--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:49--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-07 07:50:51--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:52--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 180, 0, 119, 103, 0, 138, 0, 0, 0, 104, 0, 0, 104, 102]
+[0, 0, 0, 0, 0, 0, 0, 0, 102, 103, 104, 104, 119, 138, 180]
+180 32
+212
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-07 07:50:53--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:54--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-07 07:50:55--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:55--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-07 07:50:56--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:57--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-07 07:50:58--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:50:58--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-07 07:50:59--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:00--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-07 07:51:01--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:01--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-07 07:51:02--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:02--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-07 07:51:04--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:04--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-07 07:51:05--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:05--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... ..........Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-07 07:51:07--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:08--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-07 07:51:09--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:09--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-07 07:51:10--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:10--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-07 07:51:12--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:12--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-07 07:51:13--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:13--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-07 07:51:14--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:15--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33]
+33 212
+245
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-07 07:51:16--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:16--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-07 07:51:17--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:18--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-07 07:51:19--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:19--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ........    167K=0.3s
+
+2024-06-07 07:51:20 (167 KB/s) - ‘indexPage’ saved [49531]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-07 07:51:21--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:21--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-07 07:51:22--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:23--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-07 07:51:24--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:24--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-07 07:51:25--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:25--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-07 07:51:26--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:27--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-07 07:51:28--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:28--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-07 07:51:29--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:30--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-07 07:51:31--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3033::6815:48de, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:31--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-07 07:51:32--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:33--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ........    179K=0.3s
+
+2024-06-07 07:51:34 (179 KB/s) - ‘indexPage’ saved [49531]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-07 07:51:34--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:35--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-07 07:51:36--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 104.21.72.222, 172.67.155.204, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:36--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|104.21.72.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ........    133K=0.4s
+
+2024-06-07 07:51:37 (133 KB/s) - ‘indexPage’ saved [49531]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-07 07:51:38--  http://ads.impulsosocial.online/
+Resolving ads.impulsosocial.online (ads.impulsosocial.online)... 172.67.155.204, 104.21.72.222, 2606:4700:3031::ac43:9bcc, ...
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ads.impulsosocial.online/ [following]
+--2024-06-07 07:51:38--  https://ads.impulsosocial.online/
+Connecting to ads.impulsosocial.online (ads.impulsosocial.online)|172.67.155.204|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 245
+245

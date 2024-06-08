@@ -1,0 +1,1404 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 13:00:08--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 13:00:10--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 13:00:12--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 13:00:13--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 13:00:15--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 13:00:17--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 13:00:18--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 13:00:20--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 13:00:22--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 13:00:23--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 13:00:25--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 13:00:27--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 13:00:28--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 13:00:30--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 13:00:32--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 13:00:33--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 13:00:34--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 13:00:35--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 13:00:36--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 13:00:36--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 13:00:37--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 13:00:38--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 13:00:39--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 13:00:40--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 13:00:41--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 13:00:41--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 13:00:42--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 13:00:43--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 13:00:44--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 13:00:45--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 13:00:45--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 13:00:47--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 13:00:48--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 13:00:48--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 13:00:50--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 13:00:51--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 13:00:52--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 13:00:52--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 13:00:53--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 13:00:54--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 13:00:55--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 13:00:56--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 13:00:57--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 13:00:58--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 13:00:59--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[5, 5, 1, 5, 5, 1, 1, 1, 5, 1, 1, 5, 5, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 5, 5, 5, 5, 5, 5, 5]
+5 2
+7
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 13:01:00--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:01--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 13:01:01--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:02--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 13:01:03--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:04--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 13:01:05--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:06--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 13:01:07--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:08--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 13:01:08--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:09--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 13:01:10--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:11--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 13:01:12--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:12--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 13:01:14--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:14--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 13:01:16--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:16--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 13:01:18--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:19--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 13:01:19--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:19--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 13:01:21--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:21--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 13:01:23--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:24--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 13:01:24--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:25--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... Terminated
+[1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 2]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2]
+2 7
+9
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 13:01:26--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:26--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 13:01:27--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:27--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 13:01:28--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:28--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 13:01:29--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:30--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 13:01:31--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:31--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 13:01:32--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:32--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 13:01:33--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:33--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 13:01:34--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:34--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 13:01:35--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:35--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 13:01:36--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:36--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 13:01:37--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:37--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 13:01:38--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:39--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 13:01:39--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:40--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 13:01:40--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:41--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 13:01:41--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:42--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+[1, 1, 20, 20, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 20]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 20, 20, 20]
+20 9
+29
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 13:01:43--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:43--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 13:01:44--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:45--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 13:01:46--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:46--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 13:01:47--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:48--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 13:01:49--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:49--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 13:01:51--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:51--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 13:01:52--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:53--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 13:01:54--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:54--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 13:01:55--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:56--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 13:01:57--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:57--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 13:01:58--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:01:59--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 13:02:00--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:00--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 13:02:02--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:02--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 13:02:03--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:04--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 13:02:05--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:05--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[2, 2, 1, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1]
+[1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 29
+31
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 13:02:06--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:06--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 13:02:08--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:08--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 13:02:09--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:10--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 13:02:10--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:11--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 13:02:12--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:13--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 13:02:14--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:14--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 13:02:15--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:16--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 13:02:17--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:17--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 13:02:18--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:19--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 13:02:20--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:20--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 13:02:21--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:22--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 13:02:23--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:23--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 13:02:24--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:25--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 13:02:26--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:26--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 13:02:28--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:28--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 2, 2, 1, 3, 1, 2, 0, 1, 2, 0, 1, 1]
+[0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 3]
+3 31
+34
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 13:02:29--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:30--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 13:02:31--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:31--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 13:02:32--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:33--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 13:02:34--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:34--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 13:02:36--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:36--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 13:02:37--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:38--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 13:02:39--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:39--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 13:02:40--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:41--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 13:02:43--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:43--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 13:02:44--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:44--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 13:02:46--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:46--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 13:02:48--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:48--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 13:02:49--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:50--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 13:02:51--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:51--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 13:02:53--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:54--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 0, 130, 1, 0, 0, 119, 0, 0, 47, 0, 0, 133, 133]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 47, 119, 130, 133, 133]
+133 34
+167
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 13:02:55--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:56--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 13:02:57--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:57--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 13:02:58--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:02:59--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .........Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 13:03:00--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:01--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 13:03:02--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:02--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 13:03:03--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:04--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 13:03:05--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:05--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 13:03:06--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:07--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 13:03:08--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:08--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 13:03:09--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:10--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 13:03:11--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:11--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .........Terminated
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 13:03:13--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:14--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .........Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 13:03:15--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:16--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .Terminated
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 13:03:17--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:18--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .........Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 13:03:20--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:20--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[0, 0, 134, 0, 0, 0, 0, 0, 0, 0, 132, 148, 0, 149, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 132, 134, 148, 149]
+149 167
+316
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 13:03:21--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:22--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 13:03:23--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:23--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 13:03:24--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:25--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 13:03:26--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:26--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 13:03:27--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:28--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 13:03:29--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:29--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 13:03:30--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:31--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 13:03:32--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:32--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 13:03:34--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:34--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  110K
+    50K .......... ...Terminated
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 13:03:36--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:37--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  263K
+    50K .......... ....Terminated
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 13:03:39--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:40--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 13:03:41--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:41--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 13:03:42--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:42--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 13:03:44--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:44--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 13:03:45--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:46--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  103K
+    50K .......... .Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 44, 43, 0, 0, 0, 0, 45]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 43, 44, 45]
+45 316
+361
+--------------------------------- RTT-11, TRIAL-1 ----------------------
+--2024-06-06 13:03:48--  http://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://8freeporn.com/ [following]
+--2024-06-06 13:03:49--  https://8freeporn.com/
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  221K
+    50K .......... .......... .....                             113K=0.4s
+
+2024-06-06 13:03:50 (168 KB/s) - ‘indexPage’ saved [76823]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-2 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:03:50--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... ..........  105K
+    50K .......... .......... .....                             114K=0.7s
+
+2024-06-06 13:03:52 (108 KB/s) - ‘indexPage’ saved [76823]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-3 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:03:52--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-4 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:03:53--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-5 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:03:55--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-6 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:03:56--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-7 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:03:57--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-8 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:03:58--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-9 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:03:59--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-10 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:04:01--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-11 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:04:02--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-12 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:04:03--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K .......... .......... .......... .......... .......... 98.4K
+    50K .......... .......... .....                             115K=0.7s
+
+2024-06-06 13:04:04 (103 KB/s) - ‘indexPage’ saved [76823]
+
+wget: no process found
+--------------------------------- RTT-11, TRIAL-13 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:04:05--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 172.67.191.40, 104.21.68.67, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|172.67.191.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-14 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:04:06--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::6815:4443, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+--------------------------------- RTT-11, TRIAL-15 ----------------------
+URL transformed to HTTPS due to an HSTS policy
+--2024-06-06 13:04:07--  https://8freeporn.com/
+Resolving 8freeporn.com (8freeporn.com)... 104.21.68.67, 172.67.191.40, 2606:4700:3032::ac43:bf28, ...
+Connecting to 8freeporn.com (8freeporn.com)|104.21.68.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+Terminated
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 361
+361

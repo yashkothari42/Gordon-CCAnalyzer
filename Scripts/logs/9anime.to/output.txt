@@ -1,0 +1,1393 @@
+sysctl: cannot stat /proc/sys/net/ipv4/tcp_sack: No such file or directory
+../multi-probe.c: In function ‘cb’:
+../multi-probe.c:134:15: warning: unused variable ‘ret’ [-Wunused-variable]
+  unsigned int ret = nfq_get_payload(nfa, &pkt);
+               ^
+--------------------------------- RTT-1, TRIAL-1 ----------------------
+--2024-06-06 13:12:47--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-2 ----------------------
+--2024-06-06 13:12:48--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-3 ----------------------
+--2024-06-06 13:12:50--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-4 ----------------------
+--2024-06-06 13:12:52--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-5 ----------------------
+--2024-06-06 13:12:53--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-6 ----------------------
+--2024-06-06 13:12:55--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-7 ----------------------
+--2024-06-06 13:12:57--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-8 ----------------------
+--2024-06-06 13:12:58--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-9 ----------------------
+--2024-06-06 13:13:00--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-10 ----------------------
+--2024-06-06 13:13:02--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-11 ----------------------
+--2024-06-06 13:13:03--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-12 ----------------------
+--2024-06-06 13:13:05--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-13 ----------------------
+--2024-06-06 13:13:07--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-14 ----------------------
+--2024-06-06 13:13:08--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-1, TRIAL-15 ----------------------
+--2024-06-06 13:13:10--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 0
+1
+--------------------------------- RTT-2, TRIAL-1 ----------------------
+--2024-06-06 13:13:12--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-2 ----------------------
+--2024-06-06 13:13:12--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-3 ----------------------
+--2024-06-06 13:13:13--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-4 ----------------------
+--2024-06-06 13:13:14--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-5 ----------------------
+--2024-06-06 13:13:15--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-6 ----------------------
+--2024-06-06 13:13:15--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-7 ----------------------
+--2024-06-06 13:13:16--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-8 ----------------------
+--2024-06-06 13:13:17--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-9 ----------------------
+--2024-06-06 13:13:18--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-10 ----------------------
+--2024-06-06 13:13:19--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-11 ----------------------
+--2024-06-06 13:13:19--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-12 ----------------------
+--2024-06-06 13:13:20--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-13 ----------------------
+--2024-06-06 13:13:21--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-14 ----------------------
+--2024-06-06 13:13:22--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-2, TRIAL-15 ----------------------
+--2024-06-06 13:13:22--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+1 1
+2
+--------------------------------- RTT-3, TRIAL-1 ----------------------
+--2024-06-06 13:13:23--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-2 ----------------------
+--2024-06-06 13:13:24--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-3 ----------------------
+--2024-06-06 13:13:25--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-4 ----------------------
+--2024-06-06 13:13:26--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-5 ----------------------
+--2024-06-06 13:13:27--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-6 ----------------------
+--2024-06-06 13:13:28--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-7 ----------------------
+--2024-06-06 13:13:29--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-8 ----------------------
+--2024-06-06 13:13:29--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-9 ----------------------
+--2024-06-06 13:13:30--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-10 ----------------------
+--2024-06-06 13:13:31--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-11 ----------------------
+--2024-06-06 13:13:32--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-12 ----------------------
+--2024-06-06 13:13:33--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-13 ----------------------
+--2024-06-06 13:13:34--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-14 ----------------------
+--2024-06-06 13:13:34--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-3, TRIAL-15 ----------------------
+--2024-06-06 13:13:35--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... Terminated
+[4, 4, 4, 1, 1, 1, 1, 1, 1, 1, 4, 4, 1, 1, 4]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 4, 4]
+4 2
+6
+--------------------------------- RTT-4, TRIAL-1 ----------------------
+--2024-06-06 13:13:36--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:37--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... Terminated
+--------------------------------- RTT-4, TRIAL-2 ----------------------
+--2024-06-06 13:13:38--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:38--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... Terminated
+--------------------------------- RTT-4, TRIAL-3 ----------------------
+--2024-06-06 13:13:39--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:40--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... Terminated
+--------------------------------- RTT-4, TRIAL-4 ----------------------
+--2024-06-06 13:13:40--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:41--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... Terminated
+--------------------------------- RTT-4, TRIAL-5 ----------------------
+--2024-06-06 13:13:41--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:42--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-6 ----------------------
+--2024-06-06 13:13:43--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:44--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-7 ----------------------
+--2024-06-06 13:13:45--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:46--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... Terminated
+--------------------------------- RTT-4, TRIAL-8 ----------------------
+--2024-06-06 13:13:46--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:47--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... Terminated
+--------------------------------- RTT-4, TRIAL-9 ----------------------
+--2024-06-06 13:13:48--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:48--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-10 ----------------------
+--2024-06-06 13:13:50--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:50--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-4, TRIAL-11 ----------------------
+--2024-06-06 13:13:51--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:52--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... Terminated
+--------------------------------- RTT-4, TRIAL-12 ----------------------
+--2024-06-06 13:13:53--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:53--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... Terminated
+--------------------------------- RTT-4, TRIAL-13 ----------------------
+--2024-06-06 13:13:54--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-4, TRIAL-14 ----------------------
+--2024-06-06 13:13:55--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:56--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... Terminated
+--------------------------------- RTT-4, TRIAL-15 ----------------------
+--2024-06-06 13:13:56--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:57--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... Terminated
+[1, 2, 2, 2, 2, 1, 1, 2, 2, 1, 1, 2, 2, 1, 2]
+[1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 6
+8
+--------------------------------- RTT-5, TRIAL-1 ----------------------
+--2024-06-06 13:13:58--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:58--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-2 ----------------------
+--2024-06-06 13:13:59--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:13:59--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-3 ----------------------
+--2024-06-06 13:14:00--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:00--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-4 ----------------------
+--2024-06-06 13:14:01--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:01--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-5 ----------------------
+--2024-06-06 13:14:02--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:02--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-6 ----------------------
+--2024-06-06 13:14:03--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:03--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-7 ----------------------
+--2024-06-06 13:14:04--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:05--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-8 ----------------------
+--2024-06-06 13:14:05--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:06--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-9 ----------------------
+--2024-06-06 13:14:06--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:07--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-10 ----------------------
+--2024-06-06 13:14:07--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:08--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-11 ----------------------
+--2024-06-06 13:14:08--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:09--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-12 ----------------------
+--2024-06-06 13:14:09--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:10--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-13 ----------------------
+--2024-06-06 13:14:10--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:11--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-14 ----------------------
+--2024-06-06 13:14:11--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:12--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-5, TRIAL-15 ----------------------
+--2024-06-06 13:14:12--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:13--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+[1, 1, 1, 1, 18, 18, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 18, 18]
+18 8
+26
+--------------------------------- RTT-6, TRIAL-1 ----------------------
+--2024-06-06 13:14:13--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:14--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-2 ----------------------
+--2024-06-06 13:14:15--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:15--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-3 ----------------------
+--2024-06-06 13:14:16--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:16--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-4 ----------------------
+--2024-06-06 13:14:18--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:18--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-5 ----------------------
+--2024-06-06 13:14:19--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:19--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-6 ----------------------
+--2024-06-06 13:14:21--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:21--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-7 ----------------------
+--2024-06-06 13:14:22--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:22--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-6, TRIAL-8 ----------------------
+--2024-06-06 13:14:23--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:24--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-9 ----------------------
+--2024-06-06 13:14:25--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:25--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-10 ----------------------
+--2024-06-06 13:14:26--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:27--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-11 ----------------------
+--2024-06-06 13:14:28--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:28--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-12 ----------------------
+--2024-06-06 13:14:29--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:29--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-13 ----------------------
+--2024-06-06 13:14:31--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:31--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-14 ----------------------
+--2024-06-06 13:14:32--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:32--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+Terminated
+--------------------------------- RTT-6, TRIAL-15 ----------------------
+--2024-06-06 13:14:33--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:34--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+Terminated
+[1, 2, 1, 2, 2, 2, 1, 1, 2, 2, 2, 2, 2, 2, 2]
+[1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+2 26
+28
+--------------------------------- RTT-7, TRIAL-1 ----------------------
+--2024-06-06 13:14:35--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:35--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-2 ----------------------
+--2024-06-06 13:14:36--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:36--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-3 ----------------------
+--2024-06-06 13:14:38--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:38--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-4 ----------------------
+--2024-06-06 13:14:39--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:39--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-5 ----------------------
+--2024-06-06 13:14:40--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:41--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-6 ----------------------
+--2024-06-06 13:14:42--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:42--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-7 ----------------------
+--2024-06-06 13:14:43--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:44--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-8 ----------------------
+--2024-06-06 13:14:45--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:45--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-9 ----------------------
+--2024-06-06 13:14:47--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:47--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-10 ----------------------
+--2024-06-06 13:14:48--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:48--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-11 ----------------------
+--2024-06-06 13:14:49--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:50--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-12 ----------------------
+--2024-06-06 13:14:51--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:51--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-13 ----------------------
+--2024-06-06 13:14:52--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:53--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-14 ----------------------
+--2024-06-06 13:14:54--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:54--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-7, TRIAL-15 ----------------------
+--2024-06-06 13:14:56--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:56--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[1, 1, 1, 1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1]
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2]
+2 28
+30
+--------------------------------- RTT-8, TRIAL-1 ----------------------
+--2024-06-06 13:14:57--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:57--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-2 ----------------------
+--2024-06-06 13:14:59--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:14:59--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-3 ----------------------
+--2024-06-06 13:15:01--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:01--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-4 ----------------------
+--2024-06-06 13:15:03--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:03--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-5 ----------------------
+--2024-06-06 13:15:04--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:05--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-6 ----------------------
+--2024-06-06 13:15:06--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:07--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-7 ----------------------
+--2024-06-06 13:15:08--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:08--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-8 ----------------------
+--2024-06-06 13:15:09--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:10--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-9 ----------------------
+--2024-06-06 13:15:11--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:11--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-10 ----------------------
+--2024-06-06 13:15:13--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:13--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-11 ----------------------
+--2024-06-06 13:15:14--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:15--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-12 ----------------------
+--2024-06-06 13:15:16--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:16--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-13 ----------------------
+--2024-06-06 13:15:18--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:18--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-14 ----------------------
+--2024-06-06 13:15:19--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:19--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-8, TRIAL-15 ----------------------
+--2024-06-06 13:15:21--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:21--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+[7, 7, 6, 2, 6, 1, 7, 1, 7, 1, 7, 1, 1, 1, 6]
+[1, 1, 1, 1, 1, 1, 2, 6, 6, 6, 7, 7, 7, 7, 7]
+7 30
+37
+--------------------------------- RTT-9, TRIAL-1 ----------------------
+--2024-06-06 13:15:23--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:23--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                        75.3M=0s
+
+2024-06-06 13:15:24 (75.3 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-2 ----------------------
+--2024-06-06 13:15:24--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:25--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                        89.6M=0s
+
+2024-06-06 13:15:25 (89.6 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-3 ----------------------
+--2024-06-06 13:15:26--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:26--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-4 ----------------------
+--2024-06-06 13:15:28--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:28--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         187M=0s
+
+2024-06-06 13:15:29 (187 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-5 ----------------------
+--2024-06-06 13:15:30--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:30--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-6 ----------------------
+--2024-06-06 13:15:31--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:32--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         226M=0s
+
+2024-06-06 13:15:33 (226 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-7 ----------------------
+--2024-06-06 13:15:33--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:33--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-8 ----------------------
+--2024-06-06 13:15:35--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:35--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         114M=0s
+
+2024-06-06 13:15:36 (114 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-9 ----------------------
+--2024-06-06 13:15:37--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:37--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                        98.9M=0s
+
+2024-06-06 13:15:38 (98.9 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-10 ----------------------
+--2024-06-06 13:15:39--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:39--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-11 ----------------------
+--2024-06-06 13:15:41--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:41--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         129M=0s
+
+2024-06-06 13:15:42 (129 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-12 ----------------------
+--2024-06-06 13:15:43--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:43--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-13 ----------------------
+--2024-06-06 13:15:45--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:45--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                        93.9M=0s
+
+2024-06-06 13:15:46 (93.9 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-9, TRIAL-14 ----------------------
+--2024-06-06 13:15:46--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:47--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... Terminated
+--------------------------------- RTT-9, TRIAL-15 ----------------------
+--2024-06-06 13:15:48--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:49--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         127M=0s
+
+2024-06-06 13:15:50 (127 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+[0, 0, 4, 0, 4, 0, 3, 0, 3, 2, 3, 5, 0, 4, 3]
+[0, 0, 0, 0, 0, 0, 2, 3, 3, 3, 3, 4, 4, 4, 5]
+5 37
+42
+--------------------------------- RTT-10, TRIAL-1 ----------------------
+--2024-06-06 13:15:50--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:51--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         118M=0s
+
+2024-06-06 13:15:51 (118 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-2 ----------------------
+--2024-06-06 13:15:52--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:52--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         127M=0s
+
+2024-06-06 13:15:53 (127 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-3 ----------------------
+--2024-06-06 13:15:54--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:54--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         130M=0s
+
+2024-06-06 13:15:55 (130 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-4 ----------------------
+--2024-06-06 13:15:55--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:56--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         119M=0s
+
+2024-06-06 13:15:56 (119 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-5 ----------------------
+--2024-06-06 13:15:57--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:57--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         125M=0s
+
+2024-06-06 13:15:58 (125 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-6 ----------------------
+--2024-06-06 13:15:59--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:15:59--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                        79.9M=0s
+
+2024-06-06 13:16:00 (79.9 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-7 ----------------------
+--2024-06-06 13:16:00--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:16:01--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         184M=0s
+
+2024-06-06 13:16:01 (184 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-8 ----------------------
+--2024-06-06 13:16:02--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:16:02--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                        98.6M=0s
+
+2024-06-06 13:16:03 (98.6 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-9 ----------------------
+--2024-06-06 13:16:03--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:16:04--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         128M=0s
+
+2024-06-06 13:16:05 (128 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-10 ----------------------
+--2024-06-06 13:16:05--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:16:05--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         100M=0s
+
+2024-06-06 13:16:06 (100 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-11 ----------------------
+--2024-06-06 13:16:07--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:16:07--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                        92.9M=0s
+
+2024-06-06 13:16:08 (92.9 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-12 ----------------------
+--2024-06-06 13:16:08--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e991, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:16:09--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                        85.3M=0s
+
+2024-06-06 13:16:09 (85.3 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-13 ----------------------
+--2024-06-06 13:16:10--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.146, 104.21.233.145, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:16:10--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         128M=0s
+
+2024-06-06 13:16:11 (128 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-14 ----------------------
+--2024-06-06 13:16:12--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:16:12--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                         107M=0s
+
+2024-06-06 13:16:13 (107 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+--------------------------------- RTT-10, TRIAL-15 ----------------------
+--2024-06-06 13:16:13--  http://9anime.to/
+Resolving 9anime.to (9anime.to)... 104.21.233.145, 104.21.233.146, 2606:4700:3038::6815:e992, ...
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://9anime.to/ [following]
+--2024-06-06 13:16:14--  https://9anime.to/
+Connecting to 9anime.to (9anime.to)|104.21.233.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘indexPage’
+
+     0K                                                        95.9M=0s
+
+2024-06-06 13:16:14 (95.9 MB/s) - ‘indexPage’ saved [647]
+
+wget: no process found
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0 42
+42
